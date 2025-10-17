@@ -1,0 +1,317 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:16 GMT",
+	"functions": [
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/index.ts:25:5:handleTapAvatar",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/test/index.ts:23:5:handlePropsChange",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/test/process.lepus.js:5:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/process.lepus.js:6:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/process.lepus.js:10:35:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:74:3:attached",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:77:3:detached",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:81:5:getLinaTrackerConfig",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:118:5:onPageScroll",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:219:33:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:224:31:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:249:31:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:270:5:updateUserFollow",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:293:5:toggleFollowStatus",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:311:11:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:338:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:343:28:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:406:5:enterChat",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:443:5:enterLivingRoom",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:599:5:openUserProfile",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:696:5:getCurFollowStatus",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:701:5:getSearchParams",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:727:5:openSchemaWithBtm",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:749:5:hasAiSpace",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:758:5:getAiBaseParams",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:784:5:openAiFormat",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:19:8:getAvatarAccessLabel",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:24:1:pickAttr",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:26:17:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:32:8:getUserData",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:67:8:hasAiSpace",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:75:8:parseCertInfo",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:84:8:isWeb",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:89:8:getFansText",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:102:8:parseIcon",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:111:8:selectImage",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js:117:8:getScaleProp",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.ts:1:8:parseCertInfo",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-so-design/xigua-user-cell@2.3.2:eden.pipeline.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:jest.config.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:lina.config.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:material.config.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:meta.config.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:tailwind.config.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/test/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/test/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/test/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/mock.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/process.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/common/constants/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/common/types/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/common/utils/douyin-mixins.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/common/utils/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/common/utils/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/types/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.lepus.js",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/utils/index.ts",
+		"@byted-so-design/xigua-user-cell@2.3.2:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/test/index.ts:23:5:handlePropsChange": [
+			"special:special::setData"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:118:5:onPageScroll": [
+			"special:special::triggerEvent",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:758:5:getAiBaseParams",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:701:5:getSearchParams",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:749:5:hasAiSpace"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:219:33:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:224:31:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:249:31:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:270:5:updateUserFollow": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:443:5:enterLivingRoom": [
+			"special:special::getTrackerParams",
+			"special:special::triggerEvent",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:727:5:openSchemaWithBtm",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:599:5:openUserProfile": [
+			"special:special::triggerEvent",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:727:5:openSchemaWithBtm",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:701:5:getSearchParams",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:696:5:getCurFollowStatus"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:701:5:getSearchParams": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:758:5:getAiBaseParams": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:784:5:openAiFormat": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:758:5:getAiBaseParams"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:727:5:openSchemaWithBtm": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:701:5:getSearchParams"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:406:5:enterChat": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:727:5:openSchemaWithBtm",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:701:5:getSearchParams"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:293:5:toggleFollowStatus": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:338:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:270:5:updateUserFollow"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:343:28:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:293:5:toggleFollowStatus"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:311:11:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:106:5:trackerReportWithFilter",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts:270:5:updateUserFollow"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/index/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/live/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/process.lepus.js:6:17:<anonymous>": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/process.lepus.js:10:35:<anonymous>"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/index/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/index/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/live/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/live/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/process.lepus.js": [
+			"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/mock.js"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/index.ts": [
+			"@byted-so-design/xigua-user-cell@2.3.2:src/common/utils/douyin-mixins.ts",
+			"@byted-so-design/xigua-user-cell@2.3.2:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/ai/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/custom_avatar_tap/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/follow_status/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/index/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/live/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tag/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/tracker/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/user_text_info/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@byted-so-design/xigua-user-cell@2.3.2:demos/verify/process.lepus.js:6:17:<anonymous>": [
+			"Array.prototype.map"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-so-design/xigua-user-cell/lepus": [
+			"getUserData"
+		],
+		"@byted-lina/lepus-utils/dist/douyin/user": [
+			"getCertType",
+			"getAccessibilityLabel",
+			"isFans",
+			"isUniqueId",
+			"getUserButtonText",
+			"isLiving",
+			"getLivingIcon"
+		]
+	}
+ }

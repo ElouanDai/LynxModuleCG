@@ -1,0 +1,69 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:49 GMT",
+	"functions": [
+		"@byted-crystal/poi-header-lightapp@2.1.0:demos/index/index.ts:7:5:_trackerReport",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:37:3:attached",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:41:3:detached",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:45:5:onExposure",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:51:5:onPoiImpression",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:59:51:<anonymous>",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:75:5:handleAdShow",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:92:24:<anonymous>",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:96:5:liveEntryShow",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:148:5:poiClick",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.lepus.js:3:8:usePoiIcon",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.lepus.js:13:8:formatDistance",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.lepus.js:21:8:accessDistance",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.lepus.js:29:8:getImageSizeStyle",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.lepus.js:38:8:showNewShopLabel",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.lepus.js:48:8:getImageTranslateStyle",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/poi-header-lightapp@2.1.0:eden.pipeline.js",
+		"@byted-crystal/poi-header-lightapp@2.1.0:jest.config.js",
+		"@byted-crystal/poi-header-lightapp@2.1.0:lina.config.js",
+		"@byted-crystal/poi-header-lightapp@2.1.0:meta.config.js",
+		"@byted-crystal/poi-header-lightapp@2.1.0:tailwind.config.js",
+		"@byted-crystal/poi-header-lightapp@2.1.0:demos/index/index.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:demos/index/mock.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/common/constants/index.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/common/types/index.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/common/utils/index.lepus.js",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/common/utils/index.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/types/index.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/utils/index.ts",
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:51:5:onPoiImpression": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:96:5:liveEntryShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:148:5:poiClick": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:45:5:onExposure": [
+			"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts:51:5:onPoiImpression"
+		],
+		"@byted-crystal/poi-header-lightapp@2.1.0:demos/index/index.ts": [
+			"@byted-crystal/poi-header-lightapp@2.1.0:demos/index/mock.ts"
+		],
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts": [
+			"@byted-crystal/poi-header-lightapp@2.1.0:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-crystal/poi-header-lightapp@2.1.0:src/components/index/index.ts": [
+			"Array.prototype.slice"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

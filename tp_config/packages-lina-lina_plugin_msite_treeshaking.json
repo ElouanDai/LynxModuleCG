@@ -1,0 +1,45 @@
+{
+  "name": "@byted-lina/lina-plugin-msite-treeshaking",
+  "version": "1.1.8",
+  "description": "lina plugin msite treeshaking",
+  "keywords": [
+    "lina",
+    "plugin"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "zhengxu.foround",
+    "zhusichao"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "start": "tsc -w",
+    "test": "jest",
+    "test:type": "tsc --noemit"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.24.5",
+    "@babel/parser": "^7.24.5",
+    "@babel/traverse": "^7.19.6",
+    "ast-types": "^0.14.2",
+    "babel-generator": "^6.26.1",
+    "babel-traverse": "^6.26.0",
+    "color-js": "^1.0.5"
+  },
+  "devDependencies": {
+    "@babel/types": "^7.24.5",
+    "@byted-lynx/lynx-speedy": "2.42.1",
+    "@types/babel-generator": "^6.25.8",
+    "@types/babel-traverse": "^6.25.10",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^18.0.6",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.5.2"
+  }
+}

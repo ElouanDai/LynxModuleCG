@@ -1,0 +1,41 @@
+{
+  "name": "@byted-lina/morphling-chart",
+  "version": "1.0.3",
+  "description": "morphling chart base library",
+  "keywords": [
+    "morphling",
+    "chart",
+    "library"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "suhan.su",
+    "zhusichao"
+  ],
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist &&  npm run build:esm && npm run build:cjs && npm run build:declaration",
+    "build:cjs": "tsc --outDir dist/cjs --module CommonJS && esbuild src/index.ts --format=cjs --sourcemap=external --main-fields=lynx,module,main --bundle --tree-shaking=true --outfile=dist/cjs/index.js",
+    "build:declaration": "tsc --target ESNext --emitDeclarationOnly --declaration --declarationDir dist/types",
+    "build:esm": "tsc --outDir dist/esm --module ESNext && esbuild src/index.ts --format=esm --sourcemap=external --main-fields=lynx,module,main --bundle --tree-shaking=true --outfile=dist/esm/index.js",
+    "start": "tsc -w",
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "@byted/lynx-lightcharts": "0.9.5-alpha.11"
+  },
+  "devDependencies": {
+    "@byted-lina/shared-configs": "workspace:*",
+    "@byted-lina/types": "workspace:*",
+    "@types/jest": "^27.0.1",
+    "esbuild": "~0.23.1",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.5.2"
+  }
+}

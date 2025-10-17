@@ -1,0 +1,41 @@
+{
+  "name": "@byted-lina/component-to-lego-material",
+  "version": "1.1.2",
+  "maintainers": [
+    "bianyingchun"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsup --watch --no-dts",
+    "test:type": "tsc --noemit"
+  },
+  "dependencies": {
+    "@byted-lina/extract-lina-component-info": "workspace:*",
+    "@byted-lynx/parser-ttml": "^2.4.20",
+    "axios": "0.25.0"
+  },
+  "devDependencies": {
+    "@byted-lina/shared-configs": "workspace:*",
+    "@types/jest": "^27.0.1",
+    "@types/node": "*",
+    "esno": "^0.16.3",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "ts-morph": "^14.0.0",
+    "tsup": "^5.11.13",
+    "typescript": "^4"
+  },
+  "tsup": {
+    "entry": [
+      "src/index.ts"
+    ],
+    "dts": true,
+    "target": "node14",
+    "format": [
+      "cjs"
+    ],
+    "sourcemap": true,
+    "clean": true
+  }
+}

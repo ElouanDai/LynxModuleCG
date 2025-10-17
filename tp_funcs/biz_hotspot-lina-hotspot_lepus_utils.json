@@ -1,0 +1,244 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:38 GMT",
+	"functions": [
+		"@byted-lina/hotspot-lepus-utils@30.0.1:scripts/transformer.ts:3:59:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:scripts/transformer.ts:3:70:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:scripts/transformer.ts:4:19:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:scripts/transformer.ts:6:50:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:1:8:isArray",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:1:8:getFontScale",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:1:1$232:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:31:1:getScaleAdaptAdaptiveZoom",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:35:1:getScaleAdaptMax115Zoom",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:43:1:getScaleAdaptNotZoom",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:60:8:calcRealFontScale",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:79:8:getZoomedFontSize",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:84:8:getZoomedFontSizeStyle",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:96:8:lepusGetScaleZoomOutput",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:107:74:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:129:8:getZoomedSize",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:135:1:getScaleAdaptCustomZoom",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:148:8:getZoomedFontSizeByDeviceWidth",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:175:8:getZoomedSizeByDeviceWidth",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts:196:8:getIconSize",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/global.ts:1:8:getAppTheme",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/global.ts:10:8:getThemeIcon",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:20:8:isCustomBackground",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:27:8:isSpecialBackground",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:34:8:showHorizontalHeaderBg",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:50:8:getArticleContent",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:61:3:traverse",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:83:8:resolveItemType",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:116:8:parseLiveAuthor",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:126:8:convertColor",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:134:8:getTags",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:135:46:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:144:8:parseArticleFeData",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:169:1:processCardType",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:193:8:processCardList",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:194:23:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/json.ts:1:8:safeParse",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/pad.ts:4:8:calcPadWideItemStyle",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:6:1:buildReadStorageKey",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:50:8:getUserDomainStorageValues",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:62:8:parseStorage",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:80:8:diff",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:92:13:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:97:22:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:117:8:isComponentReadCacheExpired",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:122:1:getFirstContentId",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:126:1:logExitInfo",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:135:8:shouldComponentExitNg",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:213:79:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:234:8:shouldHideCard",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/user.ts:20:1:getAccountCertInfoLabelStyle",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/user.ts:31:8:getCertType",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/user.ts:45:1:resolveVerify",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/user.ts:62:8:transformAuthor",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/user.ts:70:8:getSourceAuthor",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/video.ts:4:8:getVideoInittime",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/video.ts:16:8:showContinueLabel",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:6:24:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:7:54:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:8:63:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:9:31:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:14:50:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:15:57:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:17:32:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:23:55:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:24:55:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:26:33:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:33:46:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:35:25:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:41:49:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:43:25:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:50:56:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:51:56:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:52:33:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:58:46:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:60:33:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:3:31:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:4:69:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:11:68:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:19:62:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:28:46:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:35:60:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:43:59:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:7:1:shouldComponentExit",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:28:8:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:33:33:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:63:16:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:68:15:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:82:20:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:88:18:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:108:18:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:140:15:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:146:15:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:178:16:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:206:16:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:246:41:<anonymous>",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:eden.pipeline.js",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:jest.config.js",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:scripts/transformer.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/constant.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/global.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/index.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/json.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/pad.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/user.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/video.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts",
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts"
+	],
+	"fun2fun": {
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:61:3:traverse": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:61:3:traverse"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts:7:1:shouldComponentExit": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts:135:8:shouldComponentExitNg"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:83:8:resolveItemType": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/json.ts:1:8:safeParse"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:169:1:processCardType": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/json.ts:1:8:safeParse"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:194:23:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/json.ts:1:8:safeParse"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:8:63:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:15:57:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:24:55:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:33:46:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:41:49:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:51:56:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:58:46:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:4:69:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:50:8:getArticleContent"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:11:68:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:50:8:getArticleContent"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:19:62:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:50:8:getArticleContent"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:28:46:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:50:8:getArticleContent"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:35:60:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:50:8:getArticleContent"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts:43:59:<anonymous>": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts:50:8:getArticleContent"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts:10:8:sort": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:9:31:<anonymous>",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:17:32:<anonymous>",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:35:25:<anonymous>",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts:43:25:<anonymous>"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/json.ts"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/index.ts": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/constant.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/user.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/global.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/font-scale.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/video.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/json.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts",
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/pad.ts"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/constant.ts"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/array.test.ts": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/array.ts"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/horizontal.test.ts": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/horizontal.ts"
+		],
+		"@byted-lina/hotspot-lepus-utils@30.0.1:src/tests/storage.test.ts": [
+			"@byted-lina/hotspot-lepus-utils@30.0.1:src/storage.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./constant": [
+			"*"
+		],
+		"./storage": [
+			"*"
+		],
+		"./user": [
+			"*"
+		],
+		"./horizontal": [
+			"*"
+		],
+		"./global": [
+			"*"
+		],
+		"./font-scale": [
+			"*"
+		],
+		"./video": [
+			"*"
+		],
+		"./json": [
+			"*"
+		],
+		"./array": [
+			"*"
+		],
+		"./pad": [
+			"*"
+		]
+	}
+ }

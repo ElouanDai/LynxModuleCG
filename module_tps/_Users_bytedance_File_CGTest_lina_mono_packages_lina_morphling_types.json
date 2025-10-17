@@ -1,0 +1,20 @@
+[
+  {
+    "name": "@byted-lina/morphling-types",
+    "version": "2.2.2",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types",
+    "private": false,
+    "devDependencies": {
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      }
+    }
+  }
+]

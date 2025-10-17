@@ -1,0 +1,49 @@
+{
+  "name": "@byted-lina/lina-douyin-search-mixins",
+  "version": "3.3.0",
+  "maintainers": [
+    "zhaohaibo.finger",
+    "zhusichao"
+  ],
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && npm run build:esm && npm run build:cjs",
+    "build:cjs": "ttsc --outDir dist/cjs --module CommonJS",
+    "build:esm": "ttsc --outDir dist/esm --module ESNext",
+    "start": "rm -rf dist && npm run start:cjs & npm run start:esm",
+    "start:cjs": "ttsc -w --outDir dist/cjs --module CommonJS",
+    "start:esm": "ttsc -w --outDir dist/esm --module ESNext"
+  },
+  "dependencies": {
+    "@byted-lina/lina-mixin-ai-search": "workspace:*",
+    "@byted-lina/lina-mixin-container-width": "workspace:*",
+    "@byted-lina/lina-mixin-data-check": "workspace:*",
+    "@byted-lina/lina-mixin-entity": "workspace:*",
+    "@byted-lina/lina-mixin-font-scale": "workspace:*",
+    "@byted-lina/lina-mixin-hybrid-monitor": "workspace:*",
+    "@byted-lina/lina-mixin-idle-preload": "workspace:*",
+    "@byted-lina/lina-mixin-idle-task": "workspace:*",
+    "@byted-lina/lina-mixin-image-monitor": "workspace:*",
+    "@byted-lina/lina-mixin-image-tea-monitor": "workspace:*",
+    "@byted-lina/lina-mixin-performance": "workspace:*",
+    "@byted-lina/lina-mixin-preserve-data": "workspace:*",
+    "@byted-lina/lina-mixin-refresh-end": "workspace:*",
+    "@byted-lina/lina-mixin-shared-data": "workspace:*",
+    "@byted-lina/lina-mixin-tracker": "workspace:*",
+    "@byted-lina/lina-mixin-tracker-ng": "workspace:*",
+    "@byted-lina/lina-mixin-wyw": "workspace:*"
+  },
+  "devDependencies": {
+    "@byted-lina/runtime-ng": "workspace:*",
+    "@byted-lina/shared-configs": "workspace:*",
+    "@types/jest": "^27.0.1",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.0.1",
+    "ttypescript": "^1.5.15",
+    "typescript": "^4.5.2"
+  }
+}

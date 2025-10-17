@@ -1,0 +1,83 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:22 GMT",
+	"functions": [
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:32:3:created",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:36:3:detached",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:40:3:attached",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:46:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:61:5:handleShow",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:65:5:handleStatusChange",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:79:5:doPlayVideo",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:87:5:doPauseVideo",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:95:5:handleOpenAlbum",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:102:5:handleTimeUpdate",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:118:5:updateVideoStatus",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:127:5:handleSorakaCliReport",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:134:5:handlePlay",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:139:5:handleStop",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:143:5:handleLoading",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:147:5:handleError",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dytrending-album-item@20.0.11:eden.pipeline.js",
+		"@byted-crystal/dytrending-album-item@20.0.11:jest.config.js",
+		"@byted-crystal/dytrending-album-item@20.0.11:lina.config.js",
+		"@byted-crystal/dytrending-album-item@20.0.11:meta.config.js",
+		"@byted-crystal/dytrending-album-item@20.0.11:tailwind.config.js",
+		"@byted-crystal/dytrending-album-item@20.0.11:demos/index/index.ts",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/common/constants/index.ts",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/common/types/index.ts",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/common/utils/index.ts",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/types/index.ts",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/utils/index.ts",
+		"@byted-crystal/dytrending-album-item@20.0.11:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:79:5:doPlayVideo": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:87:5:doPauseVideo": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:95:5:handleOpenAlbum": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:102:5:handleTimeUpdate": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:118:5:updateVideoStatus": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:127:5:handleSorakaCliReport": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:147:5:handleError": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:127:5:handleSorakaCliReport"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:143:5:handleLoading": [
+			"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:118:5:updateVideoStatus"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:139:5:handleStop": [
+			"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:118:5:updateVideoStatus"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:134:5:handlePlay": [
+			"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:127:5:handleSorakaCliReport",
+			"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:118:5:updateVideoStatus"
+		],
+		"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:65:5:handleStatusChange": [
+			"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:87:5:doPauseVideo",
+			"@byted-crystal/dytrending-album-item@20.0.11:src/components/index/index.ts:79:5:doPlayVideo"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-lina/hotspot-lepus-utils": [
+			"transformAuthor"
+		]
+	}
+ }

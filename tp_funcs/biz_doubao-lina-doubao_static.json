@@ -1,0 +1,31 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:14 GMT",
+	"functions": [
+		"@byted-lina/doubao-static@1.2.0:src/utils/getColor.lepus.js:9:8:getColor",
+		"@byted-lina/doubao-static@1.2.0:src/dynamic-icons/loading-icon/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/dynamic-icons/loading-icon/lotties.ts",
+		"@byted-lina/doubao-static@1.2.0:src/gaokao-loading/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/gaokao-loading/utils/icons.js",
+		"@byted-lina/doubao-static@1.2.0:src/icons/arrow-down/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/icons/arrow-left/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/icons/arrow-right/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/icons/audio-player/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/icons/check-mark/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/icons/close-icon/index.js",
+		"@byted-lina/doubao-static@1.2.0:src/utils/getColor.lepus.js"
+	],
+	"fun2fun": {
+		"@byted-lina/doubao-static@1.2.0:src/dynamic-icons/loading-icon/index.js": [
+			"@byted-lina/doubao-static@1.2.0:src/dynamic-icons/loading-icon/lotties.ts"
+		],
+		"@byted-lina/doubao-static@1.2.0:src/gaokao-loading/index.js": [
+			"@byted-lina/doubao-static@1.2.0:src/gaokao-loading/utils/icons.js"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

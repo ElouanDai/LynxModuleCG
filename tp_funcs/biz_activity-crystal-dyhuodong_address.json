@@ -1,0 +1,141 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:18 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-address@1.1.0:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:40:3:attached",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:49:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:55:5:initValue",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:108:5:handleShow",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:112:26:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:116:5:handleUserInput",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:128:5:handlePhoneInput",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:142:5:handleRegionSelect",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:151:5:handleRegionChange",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:180:5:handleAddressInput",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:192:5:handleSubmit",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:253:15:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:264:16:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:269:5:handleClickCheckbox",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:275:5:handleClickDetail",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:289:5:handleClickProtocol",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/utils/index.lepus.js:3:8:processRawData",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:47:3:attached",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:52:3:ready",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:57:5:getAddressFromApi",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:76:24:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:77:24:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:85:5:init",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:100:5:handleClose",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:116:5:handleCancel",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:120:5:changeTab",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:135:5:selectHotCity",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:156:35:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:157:27:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:167:5:selectDistrict",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:172:28:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:173:46:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:180:23:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/utils/index.lepus.js:2:8:getHeight",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/utils/index.lepus.js:22:8:getWidth",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/utils/index.lepus.js:45:8:getShowList",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/utils/index.lepus.js:48:24:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-address@1.1.0:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-address@1.1.0:jest.config.js",
+		"@byted-crystal/dyhuodong-address@1.1.0:lina.config.js",
+		"@byted-crystal/dyhuodong-address@1.1.0:meta.config.js",
+		"@byted-crystal/dyhuodong-address@1.1.0:tailwind.config.js",
+		"@byted-crystal/dyhuodong-address@1.1.0:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/types/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/utils/index.ts",
+		"@byted-crystal/dyhuodong-address@1.1.0:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:55:5:initValue": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:108:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:116:5:handleUserInput": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:128:5:handlePhoneInput": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:142:5:handleRegionSelect": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:151:5:handleRegionChange": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:180:5:handleAddressInput": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:192:5:handleSubmit": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:253:15:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts:269:5:handleClickCheckbox": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:85:5:init": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:57:5:getAddressFromApi"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:100:5:handleClose": [
+			"special:special::triggerEvent",
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:120:5:changeTab": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:135:5:selectHotCity": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:57:5:getAddressFromApi"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:167:5:selectDistrict": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:57:5:getAddressFromApi",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:100:5:handleClose",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:135:5:selectHotCity",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:180:23:<anonymous>",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:173:46:<anonymous>",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:172:28:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:116:5:handleCancel": [
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:100:5:handleClose"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-address@1.1.0:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts": [
+			"@byted-crystal/dyhuodong-address@1.1.0:src/common/constants/index.ts",
+			"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-crystal/dyhuodong-address@1.1.0:src/components/region-select-modal/index.ts:167:5:selectDistrict": [
+			"Array.prototype.map",
+			"Array.prototype.find",
+			"Array.prototype.includes"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

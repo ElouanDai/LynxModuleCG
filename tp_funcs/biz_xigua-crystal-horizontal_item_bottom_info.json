@@ -1,0 +1,55 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:13 GMT",
+	"functions": [
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:demos/index/index.ts:17:5:handleTapVideoCtrl",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:demos/test/index.ts:11:5:handlePropsChange",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/index.ts:21:5:handleTapVideoCtrl",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/index.ts:27:5:handleTapExtraInfo",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/types/index.ts:1:1$200:<anonymous>",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/tests/index.test.ts:16:32:<anonymous>",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:eden.pipeline.js",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:jest.config.js",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:lina.config.js",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:meta.config.js",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:tailwind.config.js",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:demos/index/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:demos/test/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/common/constants/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/common/types/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/common/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/common/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/icons.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/types/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:demos/index/index.ts:17:5:handleTapVideoCtrl": [
+			"special:special::setData"
+		],
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:demos/test/index.ts:11:5:handlePropsChange": [
+			"special:special::setData"
+		],
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/index.ts:21:5:handleTapVideoCtrl": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/index.ts:27:5:handleTapExtraInfo": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/index.ts": [
+			"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/icons.ts",
+			"@byted-so-design/xigua-horizontal-item-bottom-info@2.0.12:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-lina/lepus-utils": [
+			"transNumToW"
+		]
+	}
+ }

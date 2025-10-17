@@ -1,0 +1,95 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:23 GMT",
+	"functions": [
+		"@byted-crystal/dytrending-armament@2.0.0:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/index.ts:26:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/index.ts:35:5:handleShow",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:34:7:observer",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:43:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:52:5:handleExposure",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:56:5:handleTabChange",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:67:5:handleLoadMore",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:81:24:<anonymous>",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:93:5:handleItemClick",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/index.lepus.js:2:8:processRawData",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/index.lepus.js:6:32:<anonymous>",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/index.lepus.js:11:12:<anonymous>",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/index.lepus.js:21:15:<anonymous>",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:1:8:getTabNames",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:5:22:<anonymous>",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:11:8:getAppTheme",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:22:8:isTabScroll",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:31:16:<anonymous>",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:48:8:getTabs",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:56:8:getTabShowItems",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:61:8:isTabExpanded",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js:66:8:isLastItem",
+		"@byted-crystal/dytrending-armament@2.0.0:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dytrending-armament@2.0.0:eden.pipeline.js",
+		"@byted-crystal/dytrending-armament@2.0.0:jest.config.js",
+		"@byted-crystal/dytrending-armament@2.0.0:lina.config.js",
+		"@byted-crystal/dytrending-armament@2.0.0:meta.config.js",
+		"@byted-crystal/dytrending-armament@2.0.0:tailwind.config.js",
+		"@byted-crystal/dytrending-armament@2.0.0:demos/index/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/common/constants/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/common/types/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/common/utils/index.lepus.js",
+		"@byted-crystal/dytrending-armament@2.0.0:src/common/utils/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/types/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/types/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/utils/utils.lepus.js",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/loadmore/index.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/loadmore/type.ts",
+		"@byted-crystal/dytrending-armament@2.0.0:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/index.ts:35:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:34:7:observer": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:52:5:handleExposure": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:56:5:handleTabChange": [
+			"special:special::setData",
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:67:5:handleLoadMore": [
+			"special:special::trackerReport",
+			"special:special::setData"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts:93:5:handleItemClick": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/index.ts": [
+			"@byted-crystal/dytrending-armament@2.0.0:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/types/index.ts"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/armament-item/types/index.ts": [
+			"@byted-crystal/dytrending-armament@2.0.0:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/index/index.ts": [
+			"@byted-crystal/dytrending-armament@2.0.0:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dytrending-armament@2.0.0:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-armament@2.0.0:src/components/loadmore/index.ts": [
+			"@byted-crystal/dytrending-armament@2.0.0:src/components/loadmore/type.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-lina/lepus-utils": [
+			"calcCardStyle"
+		]
+	}
+ }

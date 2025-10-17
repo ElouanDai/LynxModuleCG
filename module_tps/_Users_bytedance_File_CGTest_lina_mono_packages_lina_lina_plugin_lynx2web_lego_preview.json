@@ -1,0 +1,72 @@
+[
+  {
+    "name": "@byted-lina/lina-plugin-lynx2web-lego-preview",
+    "version": "1.0.1",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-plugin-lynx2web-lego-preview",
+    "private": false,
+    "dependencies": {
+      "@babel/generator": {
+        "from": "@babel/generator",
+        "version": "7.27.1",
+        "resolved": "https://bnpm.byted.org/@babel/generator/-/generator-7.27.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+generator@7.27.1/node_modules/@babel/generator"
+      },
+      "@babel/parser": {
+        "from": "@babel/parser",
+        "version": "7.27.2",
+        "resolved": "https://bnpm.byted.org/@babel/parser/-/parser-7.27.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+parser@7.27.2/node_modules/@babel/parser"
+      },
+      "@babel/template": {
+        "from": "@babel/template",
+        "version": "7.27.2",
+        "resolved": "https://bnpm.byted.org/@babel/template/-/template-7.27.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+template@7.27.2/node_modules/@babel/template"
+      },
+      "@babel/traverse": {
+        "from": "@babel/traverse",
+        "version": "7.26.4",
+        "resolved": "https://bnpm.byted.org/@babel/traverse/-/traverse-7.26.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+traverse@7.26.4/node_modules/@babel/traverse"
+      }
+    },
+    "devDependencies": {
+      "@byted-lynx/lynx-speedy": {
+        "from": "@byted-lynx/lynx-speedy",
+        "version": "2.39.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/lynx-speedy/-/lynx-speedy-2.39.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lynx-speedy@2.39.2_@byted-lynx+speedy-config-preset-env@1.7.1_rollup@4.41.0_tslib@2.8.1_typescript@4.9.5/node_modules/@byted-lynx/lynx-speedy"
+      },
+      "@types/babel__generator": {
+        "from": "@types/babel__generator",
+        "version": "7.27.0",
+        "resolved": "https://bnpm.byted.org/@types/babel__generator/-/babel__generator-7.27.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+babel__generator@7.27.0/node_modules/@types/babel__generator"
+      },
+      "@types/babel__template": {
+        "from": "@types/babel__template",
+        "version": "7.4.4",
+        "resolved": "https://bnpm.byted.org/@types/babel__template/-/babel__template-7.4.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+babel__template@7.4.4/node_modules/@types/babel__template"
+      },
+      "@types/babel__traverse": {
+        "from": "@types/babel__traverse",
+        "version": "7.20.7",
+        "resolved": "https://bnpm.byted.org/@types/babel__traverse/-/babel__traverse-7.20.7.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+babel__traverse@7.20.7/node_modules/@types/babel__traverse"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "18.19.103",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-18.19.103.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@18.19.103/node_modules/@types/node"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

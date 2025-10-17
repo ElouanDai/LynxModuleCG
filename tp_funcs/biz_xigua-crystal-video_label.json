@@ -1,0 +1,54 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:17 GMT",
+	"functions": [
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/index.ts:9:3:onDataChanged",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/index.ts:26:5:clickLockBtn",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/index.ts:31:5:clickVideoBtn",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/utils/process.lepus.js:2:1:processRawData",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/types/index.ts:6:1$214:<anonymous>",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:28:8:getLongVideoText",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:42:8:isMaster",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:53:8:getText",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:85:8:isChargeAweme",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:95:8:getBackgroundImage",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:154:8:getLongVideoStyle",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:169:8:getStyle",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js:196:8:getCountdownText",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/tests/index.test.ts:13:33:<anonymous>",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:eden.pipeline.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:jest.config.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:lina.config.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:meta.config.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:tailwind.config.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/index.ts",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/types/index.ts",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/utils/index.lepus.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/utils/index.ts",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/utils/process.lepus.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/index.ts",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/types/index.ts",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.lepus.js",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/utils/index.ts",
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/index.ts:26:5:clickLockBtn": [
+			"special:special::setData"
+		],
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/index.ts:31:5:clickVideoBtn": [
+			"special:special::setData"
+		],
+		"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/index.ts": [
+			"@byted-crystal-atom/xigua-video-label@15.2.1:demos/index/types/index.ts"
+		],
+		"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/index.ts": [
+			"@byted-crystal-atom/xigua-video-label@15.2.1:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

@@ -1,0 +1,37 @@
+{
+  "name": "@byted-lina/lina-plugin-lynx2web-lego-preview",
+  "version": "1.0.1",
+  "description": "lynx2web",
+  "keywords": [
+    "lina",
+    "plugin",
+    "lynx2web"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "gaoyuquan.037"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "start": "tsc -w"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.17.12",
+    "@babel/parser": "^7.17.12",
+    "@babel/template": "^7.16.7",
+    "@babel/traverse": "^7.19.6"
+  },
+  "devDependencies": {
+    "@byted-lynx/lynx-speedy": "2.39.2",
+    "@types/babel__generator": "^7.6.4",
+    "@types/babel__template": "^7.4.1",
+    "@types/babel__traverse": "^7.18.2",
+    "@types/node": "^18.0.6",
+    "typescript": "^4.5.2"
+  }
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "name": "@byted-morphling/poi-vertical-card-v2_harmony",
+    "version": "1.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/biz-harmony/morphling/poi-vertical-card-v2",
+    "private": true,
+    "dependencies": {
+      "@byted-crystal-atom/tabs-v2": {
+        "from": "@byted-crystal-atom/tabs-v2",
+        "version": "link:../../../packages/crystal-atom/tabs-v2",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/tabs-v2"
+      },
+      "@byted-crystal-atom/tag": {
+        "from": "@byted-crystal-atom/tag",
+        "version": "link:../../../packages/crystal-atom/tag",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/tag"
+      },
+      "@byted-crystal/poi-entrance": {
+        "from": "@byted-crystal/poi-entrance",
+        "version": "link:../../../biz-life/crystal/poi-entrance",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-entrance"
+      },
+      "@byted-crystal/poi-goods-flat": {
+        "from": "@byted-crystal/poi-goods-flat",
+        "version": "link:../../../biz-life/crystal/poi-goods-flat",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-goods-flat"
+      },
+      "@byted-crystal/poi-header-avatar": {
+        "from": "@byted-crystal/poi-header-avatar",
+        "version": "link:../../../biz-life/crystal/poi-header-avatar",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-header-avatar"
+      },
+      "@byted-crystal/poi-header-container": {
+        "from": "@byted-crystal/poi-header-container",
+        "version": "link:../../../biz-life/crystal/poi-header-container",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-header-container"
+      },
+      "@byted-crystal/poi-header-express": {
+        "from": "@byted-crystal/poi-header-express",
+        "version": "link:../../../biz-life/crystal/poi-header-express",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-header-express"
+      },
+      "@byted-crystal/poi-header-good-flat": {
+        "from": "@byted-crystal/poi-header-good-flat",
+        "version": "link:../../../biz-life/crystal/poi-header-good-flat",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-header-good-flat"
+      },
+      "@byted-crystal/poi-header-rank-label": {
+        "from": "@byted-crystal/poi-header-rank-label",
+        "version": "link:../../../biz-life/crystal/poi-header-rank-label",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-header-rank-label"
+      },
+      "@byted-crystal/poi-header-score": {
+        "from": "@byted-crystal/poi-header-score",
+        "version": "link:../../../biz-life/crystal/poi-header-score",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-header-score"
+      },
+      "@byted-crystal/poi-header-text-tag": {
+        "from": "@byted-crystal/poi-header-text-tag",
+        "version": "link:../../../biz-life/crystal/poi-header-text-tag",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-header-text-tag"
+      },
+      "@byted-crystal/poi-horizontal-good": {
+        "from": "@byted-crystal/poi-horizontal-good",
+        "version": "link:../../../biz-life/crystal/poi-horizontal-good",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-horizontal-good"
+      },
+      "@byted-crystal/poi-horizontal-list": {
+        "from": "@byted-crystal/poi-horizontal-list",
+        "version": "link:../../../biz-life/crystal/poi-horizontal-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-horizontal-list"
+      },
+      "@byted-crystal/poi-marketing-tag": {
+        "from": "@byted-crystal/poi-marketing-tag",
+        "version": "link:../../../biz-life/crystal/poi-marketing-tag",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-marketing-tag"
+      },
+      "@byted-crystal/poi-miniapp-widget": {
+        "from": "@byted-crystal/poi-miniapp-widget",
+        "version": "link:../../../biz-life/crystal/poi-miniapp-widget",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-miniapp-widget"
+      },
+      "@byted-crystal/poi-new-coupon": {
+        "from": "@byted-crystal/poi-new-coupon",
+        "version": "link:../../../biz-life/crystal/poi-new-coupon",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-new-coupon"
+      },
+      "@byted-crystal/poi-reserve-rail": {
+        "from": "@byted-crystal/poi-reserve-rail",
+        "version": "link:../../../biz-life/crystal/poi-reserve-rail",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-reserve-rail"
+      },
+      "@byted-crystal/poi-scroll-goods": {
+        "from": "@byted-crystal/poi-scroll-goods",
+        "version": "link:../../../biz-life/crystal/poi-scroll-goods",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-scroll-goods"
+      },
+      "@byted-crystal/poi-tag": {
+        "from": "@byted-crystal/poi-tag",
+        "version": "link:../../../biz-life/crystal/poi-tag",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-tag"
+      },
+      "@byted-crystal/poi-type-tag-with-num": {
+        "from": "@byted-crystal/poi-type-tag-with-num",
+        "version": "link:../../../biz-life/crystal/poi-type-tag-with-num",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/poi-type-tag-with-num"
+      },
+      "@byted-crystal/spu-list-container": {
+        "from": "@byted-crystal/spu-list-container",
+        "version": "link:../../../biz-life/crystal/spu-list-container",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/spu-list-container"
+      },
+      "@byted-crystal/spu-marketing-tag": {
+        "from": "@byted-crystal/spu-marketing-tag",
+        "version": "link:../../../biz-life/crystal/spu-marketing-tag",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/spu-marketing-tag"
+      },
+      "@byted-crystal/spu-mixed-container": {
+        "from": "@byted-crystal/spu-mixed-container",
+        "version": "link:../../../biz-life/crystal/spu-mixed-container",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/spu-mixed-container"
+      },
+      "@byted-crystal/spu-price-line": {
+        "from": "@byted-crystal/spu-price-line",
+        "version": "link:../../../biz-life/crystal/spu-price-line",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/spu-price-line"
+      },
+      "@byted-crystal/spu-price-line-strong": {
+        "from": "@byted-crystal/spu-price-line-strong",
+        "version": "link:../../../biz-life/crystal/spu-price-line-strong",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/spu-price-line-strong"
+      },
+      "@byted-lina/lepus-utils": {
+        "from": "@byted-lina/lepus-utils",
+        "version": "link:../../../packages/lina/lina-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-lepus-utils"
+      },
+      "@byted-lina/lina-douyin-search-mixins": {
+        "from": "@byted-lina/lina-douyin-search-mixins",
+        "version": "link:../../../packages/lina/lina-douyin-search-mixins",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-douyin-search-mixins"
+      },
+      "@byted-lina/lina-mixin-entity": {
+        "from": "@byted-lina/lina-mixin-entity",
+        "version": "link:../../../packages/lina/lina-mixin-entity",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-mixin-entity"
+      },
+      "@byted-lina/morphling-bridge": {
+        "from": "@byted-lina/morphling-bridge",
+        "version": "link:../../../packages/lina/morphling-bridge",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-bridge"
+      },
+      "@byted-lina/morphling-design": {
+        "from": "@byted-lina/morphling-design",
+        "version": "link:../../../packages/lina/morphling-design",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-design"
+      },
+      "@byted-lina/morphling-icons": {
+        "from": "@byted-lina/morphling-icons",
+        "version": "link:../../../packages/lina/morphling-icons",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-icons"
+      },
+      "@byted-lina/morphling-types": {
+        "from": "@byted-lina/morphling-types",
+        "version": "link:../../../packages/lina/morphling-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types"
+      },
+      "@byted-lina/runtime": {
+        "from": "@byted-lina/runtime",
+        "version": "link:../../../packages/lina/lina-runtime",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime"
+      },
+      "@byted-lina/runtime-ng": {
+        "from": "@byted-lina/runtime-ng",
+        "version": "link:../../../packages/lina/lina-runtime-ng",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime-ng"
+      },
+      "@byted-lina/utils": {
+        "from": "@byted-lina/utils",
+        "version": "link:../../../packages/lina/lina-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils"
+      },
+      "@byted-lynx/flatten-ttml-rsbuild-plugin": {
+        "from": "@byted-lynx/flatten-ttml-rsbuild-plugin-canary",
+        "version": "0.0.2-canary-20250801-ac96f401",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/flatten-ttml-rsbuild-plugin-canary/-/flatten-ttml-rsbuild-plugin-canary-0.0.2-canary-20250801-ac96f401.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+flatten-ttml-rsbuild-plugin-canary@0.0.2-canary-20250801-ac96f401_@babel+core@7.2_rj546kl5wfiur2wh2ol3p3slni/node_modules/@byted-lynx/flatten-ttml-rsbuild-plugin-canary"
+      },
+      "@byted-lynx/lepus-runtime": {
+        "from": "@byted-lynx/lepus-runtime-canary",
+        "version": "3.2.1-canary-20250425-294deb1f",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/lepus-runtime-canary/-/lepus-runtime-canary-3.2.1-canary-20250425-294deb1f.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lepus-runtime-canary@3.2.1-canary-20250425-294deb1f/node_modules/@byted-lynx/lepus-runtime-canary"
+      },
+      "@byted-lynx/plugin-miniapp-nodiff": {
+        "from": "@byted-lynx/plugin-miniapp-nodiff",
+        "version": "3.2.0",
+        "resolved": "http://tosv.byted.org/obj/lynx-internal-resource/commit-d5b2505/byted-lynx-plugin-miniapp-nodiff-v3.2.0.tar.gz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+plugin-miniapp-nodiff@http+++tosv.byted.org+obj+lynx-internal-resource+commit-d5b_pihyjwrq5vq64oddoldmnf5hqa/node_modules/@byted-lynx/plugin-miniapp-nodiff"
+      },
+      "@byted-poi/mc-marketing-lynx-components": {
+        "from": "@byted-poi/mc-marketing-lynx-components",
+        "version": "2.0.74",
+        "resolved": "https://bnpm.byted.org/@byted-poi/mc-marketing-lynx-components/-/mc-marketing-lynx-components-2.0.74.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-poi+mc-marketing-lynx-components@2.0.74_@bridge+life@3.3.21_@byted-poi+logger@1.0.15_@_35bqztn2jy2jmmfxrpn36gvysi/node_modules/@byted-poi/mc-marketing-lynx-components"
+      },
+      "@byted-poi/tracker": {
+        "from": "@byted-poi/tracker",
+        "version": "0.1.18",
+        "resolved": "https://bnpm.byted.org/@byted-poi/tracker/-/tracker-0.1.18.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-poi+tracker@0.1.18/node_modules/@byted-poi/tracker"
+      },
+      "@byted-so-design/poi-cover": {
+        "from": "@byted-so-design/poi-cover",
+        "version": "0.0.0-feat-poi-cover-20250306051550",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/poi-cover/-/poi-cover-0.0.0-feat-poi-cover-20250306051550.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+poi-cover@0.0.0-feat-poi-cover-20250306051550/node_modules/@byted-so-design/poi-cover"
+      },
+      "@byted-so-design/poi-rank-label": {
+        "from": "@byted-so-design/poi-rank-label",
+        "version": "2.3.1",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/poi-rank-label/-/poi-rank-label-2.3.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+poi-rank-label@2.3.1/node_modules/@byted-so-design/poi-rank-label"
+      },
+      "@byted-so-design/poi-score": {
+        "from": "@byted-so-design/poi-score",
+        "version": "2.0.14",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/poi-score/-/poi-score-2.0.14.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+poi-score@2.0.14/node_modules/@byted-so-design/poi-score"
+      },
+      "@byted-so-design/poi-spu-price": {
+        "from": "@byted-so-design/poi-spu-price",
+        "version": "0.0.0-feat-price-2024-11-14-20241122100601",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/poi-spu-price/-/poi-spu-price-0.0.0-feat-price-2024-11-14-20241122100601.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+poi-spu-price@0.0.0-feat-price-2024-11-14-20241122100601/node_modules/@byted-so-design/poi-spu-price"
+      },
+      "@byted-so-design/poi-tag": {
+        "from": "@byted-so-design/poi-tag",
+        "version": "2.0.0",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/poi-tag/-/poi-tag-2.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+poi-tag@2.0.0/node_modules/@byted-so-design/poi-tag"
+      },
+      "@byted/tma_schema_codec": {
+        "from": "@byted/tma_schema_codec",
+        "version": "5.0.3",
+        "resolved": "https://bnpm.byted.org/@byted/tma_schema_codec/-/tma_schema_codec-5.0.3.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+tma_schema_codec@5.0.3/node_modules/@byted/tma_schema_codec"
+      },
+      "@bytedance-dev/search-font-scale-adapt": {
+        "from": "@bytedance-dev/search-font-scale-adapt",
+        "version": "1.2.0",
+        "resolved": "https://bnpm.byted.org/@bytedance-dev/search-font-scale-adapt/-/search-font-scale-adapt-1.2.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@bytedance-dev+search-font-scale-adapt@1.2.0/node_modules/@bytedance-dev/search-font-scale-adapt"
+      },
+      "@ies/aweme-color-theme": {
+        "from": "@ies/aweme-color-theme",
+        "version": "0.1.31",
+        "resolved": "https://bnpm.byted.org/@ies/aweme-color-theme/-/aweme-color-theme-0.1.31.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+aweme-color-theme@0.1.31/node_modules/@ies/aweme-color-theme"
+      },
+      "url": {
+        "from": "url",
+        "version": "0.11.4",
+        "resolved": "https://bnpm.byted.org/url/-/url-0.11.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/url@0.11.4/node_modules/url"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/cli": {
+        "from": "@byted-lina/cli",
+        "version": "link:../../../packages/lina/lina-cli",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli"
+      },
+      "@byted-lina/cli-rspeedy": {
+        "from": "@byted-lina/cli-rspeedy",
+        "version": "link:../../../packages/lina/lina-cli-rspeedy",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli-rspeedy"
+      },
+      "@byted-lina/lina-config-douyin-search": {
+        "from": "@byted-lina/lina-config-douyin-search",
+        "version": "link:../../../packages/lina/lina-config-douyin-search",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-config-douyin-search"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../../../packages/lina/shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../../../packages/lina/lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "tailwindcss": {
+        "from": "tailwindcss",
+        "version": "2.2.19",
+        "resolved": "https://bnpm.byted.org/tailwindcss/-/tailwindcss-2.2.19.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tailwindcss@2.2.19_autoprefixer@10.4.21_postcss@8.5.6__postcss@8.5.6_ts-node@10.9.2_@swc+core_ll65ojgrgrixnalho45et5dyxy/node_modules/tailwindcss"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

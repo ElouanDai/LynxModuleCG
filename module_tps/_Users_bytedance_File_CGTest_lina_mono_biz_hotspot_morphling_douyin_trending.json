@@ -1,0 +1,293 @@
+[
+  {
+    "name": "@byted-morphling/douyin_trending",
+    "version": "1.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/morphling/douyin_trending",
+    "private": true,
+    "dependencies": {
+      "@byted-crystal-atom/feedback": {
+        "from": "@byted-crystal-atom/feedback",
+        "version": "link:../../../packages/crystal-atom/feedback",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/feedback"
+      },
+      "@byted-crystal/channel-stock": {
+        "from": "@byted-crystal/channel-stock",
+        "version": "link:../../../packages/crystal/channel-stock",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/channel-stock"
+      },
+      "@byted-crystal/douyin-game-match": {
+        "from": "@byted-crystal/douyin-game-match",
+        "version": "link:../../../packages/crystal/douyin-game-match",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/douyin-game-match"
+      },
+      "@byted-crystal/douyin-olympic-ad-component": {
+        "from": "@byted-crystal/douyin-olympic-ad-component",
+        "version": "link:../../../packages/crystal/douyin-olympic-ad-component",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/douyin-olympic-ad-component"
+      },
+      "@byted-crystal/dyhuodong-blank-card": {
+        "from": "@byted-crystal/dyhuodong-blank-card",
+        "version": "link:../../../biz-activity/crystal/dyhuodong-blank-card",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-activity/crystal/dyhuodong-blank-card"
+      },
+      "@byted-crystal/dyhuodong-lives-notice": {
+        "from": "@byted-crystal/dyhuodong-lives-notice",
+        "version": "link:../../../biz-activity/crystal/dyhuodong-lives-notice",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-activity/crystal/dyhuodong-lives-notice"
+      },
+      "@byted-crystal/dyhuodong-play-list": {
+        "from": "@byted-crystal/dyhuodong-play-list",
+        "version": "link:../../../biz-activity/crystal/dyhuodong-play-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-activity/crystal/dyhuodong-play-list"
+      },
+      "@byted-crystal/dyhuodong-related-users-rank": {
+        "from": "@byted-crystal/dyhuodong-related-users-rank",
+        "version": "link:../../../biz-activity/crystal/dyhuodong-related-users-rank",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-activity/crystal/dyhuodong-related-users-rank"
+      },
+      "@byted-crystal/dyhuodong-slide-timeline": {
+        "from": "@byted-crystal/dyhuodong-slide-timeline",
+        "version": "link:../../../biz-activity/crystal/dyhuodong-slide-timeline",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-activity/crystal/dyhuodong-slide-timeline"
+      },
+      "@byted-crystal/dyhuodong-wiki": {
+        "from": "@byted-crystal/dyhuodong-wiki",
+        "version": "link:../../../biz-activity/crystal/dyhuodong-wiki",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-activity/crystal/dyhuodong-wiki"
+      },
+      "@byted-crystal/dysport-common-sport-combat": {
+        "from": "@byted-crystal/dysport-common-sport-combat",
+        "version": "link:../../../packages/crystal/dysport-common-sport-combat",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/dysport-common-sport-combat"
+      },
+      "@byted-crystal/dytrending-atmosphere-interaction": {
+        "from": "@byted-crystal/dytrending-atmosphere-interaction",
+        "version": "link:../../crystal/dytrending-atmosphere-interaction",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-atmosphere-interaction"
+      },
+      "@byted-crystal/dytrending-background": {
+        "from": "@byted-crystal/dytrending-background",
+        "version": "link:../../crystal/dytrending-background",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-background"
+      },
+      "@byted-crystal/dytrending-challenge-trends": {
+        "from": "@byted-crystal/dytrending-challenge-trends",
+        "version": "link:../../crystal/dytrending-challenge-trends",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-challenge-trends"
+      },
+      "@byted-crystal/dytrending-comment-list": {
+        "from": "@byted-crystal/dytrending-comment-list",
+        "version": "link:../../crystal/dytrending-comment-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-comment-list"
+      },
+      "@byted-crystal/dytrending-event-reminder": {
+        "from": "@byted-crystal/dytrending-event-reminder",
+        "version": "link:../../crystal/dytrending-event-reminder",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-event-reminder"
+      },
+      "@byted-crystal/dytrending-function-guide": {
+        "from": "@byted-crystal/dytrending-function-guide",
+        "version": "link:../../crystal/dytrending-function-guide",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-function-guide"
+      },
+      "@byted-crystal/dytrending-horizontal": {
+        "from": "@byted-crystal/dytrending-horizontal",
+        "version": "link:../../crystal/dytrending-horizontal",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-horizontal"
+      },
+      "@byted-crystal/dytrending-image-grid": {
+        "from": "@byted-crystal/dytrending-image-grid",
+        "version": "link:../../crystal/dytrending-image-grid",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-image-grid"
+      },
+      "@byted-crystal/dytrending-opinion": {
+        "from": "@byted-crystal/dytrending-opinion",
+        "version": "link:../../crystal/dytrending-opinion",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-opinion"
+      },
+      "@byted-crystal/dytrending-related-hotspot": {
+        "from": "@byted-crystal/dytrending-related-hotspot",
+        "version": "link:../../crystal/dytrending-related-hotspot",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-related-hotspot"
+      },
+      "@byted-crystal/dytrending-related-medium": {
+        "from": "@byted-crystal/dytrending-related-medium",
+        "version": "link:../../crystal/dytrending-related-medium",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-related-medium"
+      },
+      "@byted-crystal/dytrending-related-movie": {
+        "from": "@byted-crystal/dytrending-related-movie",
+        "version": "link:../../crystal/dytrending-related-movie",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-related-movie"
+      },
+      "@byted-crystal/dytrending-related-movie-v2": {
+        "from": "@byted-crystal/dytrending-related-movie-v2",
+        "version": "link:../../crystal/dytrending-related-movie-v2",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-related-movie-v2"
+      },
+      "@byted-crystal/dytrending-theme-content": {
+        "from": "@byted-crystal/dytrending-theme-content",
+        "version": "link:../../crystal/dytrending-theme-content",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-theme-content"
+      },
+      "@byted-crystal/dytrending-timeline": {
+        "from": "@byted-crystal/dytrending-timeline",
+        "version": "link:../../crystal/dytrending-timeline",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-timeline"
+      },
+      "@byted-crystal/dytrending-topic": {
+        "from": "@byted-crystal/dytrending-topic",
+        "version": "link:../../crystal/dytrending-topic",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-topic"
+      },
+      "@byted-crystal/dytrending-usa-vote": {
+        "from": "@byted-crystal/dytrending-usa-vote",
+        "version": "link:../../crystal/dytrending-usa-vote",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-usa-vote"
+      },
+      "@byted-crystal/dytrending-user-with-baike": {
+        "from": "@byted-crystal/dytrending-user-with-baike",
+        "version": "link:../../crystal/dytrending-user-with-baike",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-user-with-baike"
+      },
+      "@byted-crystal/dytrending-vote": {
+        "from": "@byted-crystal/dytrending-vote",
+        "version": "link:../../crystal/dytrending-vote",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/crystal/dytrending-vote"
+      },
+      "@byted-crystal/futures-pic": {
+        "from": "@byted-crystal/futures-pic",
+        "version": "link:../../../packages/crystal/futures-pic",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/futures-pic"
+      },
+      "@byted-crystal/movie-info-cell": {
+        "from": "@byted-crystal/movie-info-cell",
+        "version": "link:../../../packages/crystal/movie-info-cell",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/movie-info-cell"
+      },
+      "@byted-crystal/related-baike": {
+        "from": "@byted-crystal/related-baike",
+        "version": "link:../../../packages/crystal/related-baike",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/related-baike"
+      },
+      "@byted-crystal/related-poi": {
+        "from": "@byted-crystal/related-poi",
+        "version": "link:../../../biz-life/crystal/related-poi",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-life/crystal/related-poi"
+      },
+      "@byted-crystal/tt-stock-old": {
+        "from": "@byted-crystal/tt-stock-old",
+        "version": "link:../../../packages/crystal/tt-stock-old",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal/tt-stock-old"
+      },
+      "@byted-lina/hotspot-lepus-utils": {
+        "from": "@byted-lina/hotspot-lepus-utils",
+        "version": "link:../../lina/hotspot-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/lina/hotspot-lepus-utils"
+      },
+      "@byted-lina/hotspot-types": {
+        "from": "@byted-lina/hotspot-types",
+        "version": "link:../../lina/hotspot-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/lina/hotspot-types"
+      },
+      "@byted-lina/hotspot-utils": {
+        "from": "@byted-lina/hotspot-utils",
+        "version": "link:../../lina/hotspot-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/lina/hotspot-utils"
+      },
+      "@byted-lina/lepus-utils": {
+        "from": "@byted-lina/lepus-utils",
+        "version": "link:../../../packages/lina/lina-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-lepus-utils"
+      },
+      "@byted-lina/morphling-bridge": {
+        "from": "@byted-lina/morphling-bridge",
+        "version": "link:../../../packages/lina/morphling-bridge",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-bridge"
+      },
+      "@byted-lina/morphling-design": {
+        "from": "@byted-lina/morphling-design",
+        "version": "link:../../../packages/lina/morphling-design",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-design"
+      },
+      "@byted-lina/morphling-icons": {
+        "from": "@byted-lina/morphling-icons",
+        "version": "link:../../../packages/lina/morphling-icons",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-icons"
+      },
+      "@byted-lina/morphling-types": {
+        "from": "@byted-lina/morphling-types",
+        "version": "link:../../../packages/lina/morphling-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types"
+      },
+      "@byted-lina/runtime": {
+        "from": "@byted-lina/runtime",
+        "version": "link:../../../packages/lina/lina-runtime",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime"
+      },
+      "@byted-lina/utils": {
+        "from": "@byted-lina/utils",
+        "version": "link:../../../packages/lina/lina-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils"
+      },
+      "@ies/aweme-color-theme": {
+        "from": "@ies/aweme-color-theme",
+        "version": "0.1.31",
+        "resolved": "https://bnpm.byted.org/@ies/aweme-color-theme/-/aweme-color-theme-0.1.31.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+aweme-color-theme@0.1.31/node_modules/@ies/aweme-color-theme"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/cli": {
+        "from": "@byted-lina/cli",
+        "version": "link:../../../packages/lina/lina-cli",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli"
+      },
+      "@byted-lina/lina-config-douyin-search": {
+        "from": "@byted-lina/lina-config-douyin-search",
+        "version": "link:../../../packages/lina/lina-config-douyin-search",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-config-douyin-search"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../../../packages/lina/shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../../../packages/lina/lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "tailwindcss": {
+        "from": "tailwindcss",
+        "version": "2.2.19",
+        "resolved": "https://bnpm.byted.org/tailwindcss/-/tailwindcss-2.2.19.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tailwindcss@2.2.19_autoprefixer@10.4.21_postcss@8.5.6__postcss@8.5.6_ts-node@10.9.2_@swc+core_ll65ojgrgrixnalho45et5dyxy/node_modules/tailwindcss"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

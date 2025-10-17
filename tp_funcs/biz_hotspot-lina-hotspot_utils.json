@@ -1,0 +1,191 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:39 GMT",
+	"functions": [
+		"@byted-lina/hotspot-utils@19.0.13:jest.setup.js:3:11:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/article.ts:18:26:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/article.ts:20:35:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/article.ts:30:33:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/article.ts:90:8:getToutiaoArticleH5Url",
+		"@byted-lina/hotspot-utils@19.0.13:src/article.ts:98:8:genOpenWebviewSchema",
+		"@byted-lina/hotspot-utils@19.0.13:src/barrier.ts:6:8:Barrier",
+		"@byted-lina/hotspot-utils@19.0.13:src/barrier.ts:13:33:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/barrier.ts:18:3:isOpen",
+		"@byted-lina/hotspot-utils@19.0.13:src/barrier.ts:22:3:open",
+		"@byted-lina/hotspot-utils@19.0.13:src/barrier.ts:27:3:wait",
+		"@byted-lina/hotspot-utils@19.0.13:src/comment.ts:72:8:openSchemaOrUrl",
+		"@byted-lina/hotspot-utils@19.0.13:src/comment.ts:90:47:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/comment.ts:105:32:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/digg.ts:3:1$205:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/digg.ts:8:1$236:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/digg.ts:15:8:handleDiggVideoItem",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:2:1:ImageManager",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:7:3:isEmpty",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:11:3:handleImageAttached",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:15:46:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:21:3:handleImageDetached",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:27:3:handleImageLoad",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:40:3:handleImageError",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:46:3:finishLoad",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:56:3:onLoadFinish",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:60:3:onLoadError",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:64:3:onErrorLog",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:68:43:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:69:42:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts:70:53:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/live.ts:4:8:openSportMatchDetailPage",
+		"@byted-lina/hotspot-utils@19.0.13:src/object.ts:1:8:omit",
+		"@byted-lina/hotspot-utils@19.0.13:src/object.ts:2:51:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/object.ts:6:21:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/share-data.ts:1:32:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/share-data.ts:5:34:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:14:8:diff",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:30:22:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:38:8:filterExpiredStorageData",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:45:35:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:48:40:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:120:72:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:165:8:onComponentRead",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:190:5:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:196:8:setUserDomainStorageItem",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:204:22:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:214:7:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:230:8:publishExitEvent",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts:17:8:dateFormat",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts:18:3:addPrefixZero",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts:75:8:durationTime",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts:93:1:zeroFormat",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts:103:8:dateFormatInHotSpots",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts:149:8:formatTime",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts:150:3:addPrefixZero",
+		"@byted-lina/hotspot-utils@19.0.13:src/widget.ts:7:8:checkGuideCanShow",
+		"@byted-lina/hotspot-utils@19.0.13:src/widget.ts:8:31:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/widget.ts:19:7:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/widget.ts:27:8:preloadGuideData",
+		"@byted-lina/hotspot-utils@19.0.13:src/widget.ts:28:22:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/widget.ts:39:7:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/index.test.ts:1:17:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:10:20:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:12:12:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:15:10:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:19:35:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:26:14:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:47:16:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:79:16:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:116:23:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:149:28:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:186:22:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:223:14:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:258:14:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:296:16:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:337:38:<anonymous>",
+		"@byted-lina/hotspot-utils@19.0.13:eden.pipeline.js",
+		"@byted-lina/hotspot-utils@19.0.13:jest.config.js",
+		"@byted-lina/hotspot-utils@19.0.13:jest.setup.js",
+		"@byted-lina/hotspot-utils@19.0.13:src/article.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/barrier.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/comment.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/constant.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/digg.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/image-manager.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/index.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/live.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/object.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/share-data.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/time.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/widget.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/index.test.ts",
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts"
+	],
+	"fun2fun": {
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:26:14:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:47:16:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:79:16:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:116:23:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:149:28:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:186:22:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:223:14:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:258:14:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:296:16:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts:337:38:<anonymous>": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:38:8:filterExpiredStorageData"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/index.ts": [
+			"@byted-lina/hotspot-utils@19.0.13:src/share-data.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/article.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/comment.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/object.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/barrier.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/widget.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/constant.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/digg.ts",
+			"@byted-lina/hotspot-utils@19.0.13:src/live.ts"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts": [
+			"@byted-lina/hotspot-utils@19.0.13:src/constant.ts"
+		],
+		"@byted-lina/hotspot-utils@19.0.13:src/tests/storage.test.ts": [
+			"@byted-lina/hotspot-utils@19.0.13:src/storage.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-lina/hotspot-utils@19.0.13:src/storage.ts:64:8:getUpdatedStorageData": [
+			"Array.prototype.includes",
+			"Array.prototype.map"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./share-data": [
+			"*"
+		],
+		"./article": [
+			"*"
+		],
+		"./storage": [
+			"*"
+		],
+		"./comment": [
+			"*"
+		],
+		"./object": [
+			"*"
+		],
+		"./barrier": [
+			"*"
+		],
+		"./widget": [
+			"*"
+		],
+		"./constant": [
+			"*"
+		],
+		"./digg": [
+			"*"
+		],
+		"./live": [
+			"*"
+		]
+	}
+ }

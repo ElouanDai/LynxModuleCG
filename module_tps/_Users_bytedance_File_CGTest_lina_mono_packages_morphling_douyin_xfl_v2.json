@@ -1,0 +1,156 @@
+[
+  {
+    "name": "@byted-morphling/douyin_xfl_v2",
+    "version": "1.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/morphling/douyin_xfl_v2",
+    "private": true,
+    "dependencies": {
+      "@byted-crystal-atom/lego-source": {
+        "from": "@byted-crystal-atom/lego-source",
+        "version": "link:../../crystal-atom/lego-source",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-source"
+      },
+      "@byted-lina/lepus-utils": {
+        "from": "@byted-lina/lepus-utils",
+        "version": "link:../../lina/lina-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-lepus-utils"
+      },
+      "@byted-lina/morphling-bridge": {
+        "from": "@byted-lina/morphling-bridge",
+        "version": "link:../../lina/morphling-bridge",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-bridge"
+      },
+      "@byted-lina/morphling-design": {
+        "from": "@byted-lina/morphling-design",
+        "version": "link:../../lina/morphling-design",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-design"
+      },
+      "@byted-lina/morphling-icons": {
+        "from": "@byted-lina/morphling-icons",
+        "version": "link:../../lina/morphling-icons",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-icons"
+      },
+      "@byted-lina/morphling-types": {
+        "from": "@byted-lina/morphling-types",
+        "version": "link:../../lina/morphling-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types"
+      },
+      "@byted-lina/runtime": {
+        "from": "@byted-lina/runtime",
+        "version": "link:../../lina/lina-runtime",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime"
+      },
+      "@byted-lina/utils": {
+        "from": "@byted-lina/utils",
+        "version": "link:../../lina/lina-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils"
+      },
+      "@byted-lynx/lepus-runtime": {
+        "from": "@byted-lynx/lepus-runtime",
+        "version": "2.10.0",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/lepus-runtime/-/lepus-runtime-2.10.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lepus-runtime@2.10.0/node_modules/@byted-lynx/lepus-runtime"
+      },
+      "@byted-lynx/plugin-miniapp-nodiff": {
+        "from": "@byted-lynx/plugin-miniapp-nodiff",
+        "version": "2.10.0",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/plugin-miniapp-nodiff/-/plugin-miniapp-nodiff-2.10.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+plugin-miniapp-nodiff@2.10.0_@byted-lynx+lynx-speedy@3.6.3/node_modules/@byted-lynx/plugin-miniapp-nodiff"
+      },
+      "@byted-so-design/button": {
+        "from": "@byted-so-design/button",
+        "version": "3.0.9",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/button/-/button-3.0.9.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+button@3.0.9/node_modules/@byted-so-design/button"
+      },
+      "@byted-so-design/card": {
+        "from": "@byted-so-design/card",
+        "version": "1.0.1",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/card/-/card-1.0.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+card@1.0.1/node_modules/@byted-so-design/card"
+      },
+      "@byted-so-design/source": {
+        "from": "@byted-so-design/source",
+        "version": "2.1.7",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/source/-/source-2.1.7.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+source@2.1.7/node_modules/@byted-so-design/source"
+      },
+      "@byted-so-design/tabs": {
+        "from": "@byted-so-design/tabs",
+        "version": "0.0.0-fix-tab-position-2024-11-06-20241106070606",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/tabs/-/tabs-0.0.0-fix-tab-position-2024-11-06-20241106070606.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+tabs@0.0.0-fix-tab-position-2024-11-06-20241106070606/node_modules/@byted-so-design/tabs"
+      },
+      "@byted/tma_schema_codec": {
+        "from": "@byted/tma_schema_codec",
+        "version": "4.0.2",
+        "resolved": "https://bnpm.byted.org/@byted/tma_schema_codec/-/tma_schema_codec-4.0.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+tma_schema_codec@4.0.2/node_modules/@byted/tma_schema_codec"
+      },
+      "@ies/aweme-color-theme": {
+        "from": "@ies/aweme-color-theme",
+        "version": "0.1.31",
+        "resolved": "https://bnpm.byted.org/@ies/aweme-color-theme/-/aweme-color-theme-0.1.31.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+aweme-color-theme@0.1.31/node_modules/@ies/aweme-color-theme"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/cli": {
+        "from": "@byted-lina/cli",
+        "version": "link:../../lina/lina-cli",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli"
+      },
+      "@byted-lina/lina-config-douyin-search": {
+        "from": "@byted-lina/lina-config-douyin-search",
+        "version": "link:../../lina/lina-config-douyin-search",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-config-douyin-search"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../../lina/shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../../lina/lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@byted-lynx/lynxperf": {
+        "from": "@byted-lynx/lynxperf",
+        "version": "0.1.0-alpha.1",
+        "resolved": "https://tosv.byted.org/obj/inspirecloud-cn-bytedance-internal/baas/ttywdh/b2374e2cc85d1b1c_1732092245372.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lynxperf@https+++tosv.byted.org+obj+inspirecloud-cn-bytedance-internal+baas+ttywd_y56kj7igtc5qfav46h5m4ilge4/node_modules/@byted-lynx/lynxperf"
+      },
+      "@lego/douyin_atom": {
+        "from": "@lego/douyin_atom",
+        "version": "0.0.13",
+        "resolved": "https://bnpm.byted.org/@lego/douyin_atom/-/douyin_atom-0.0.13.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@lego+douyin_atom@0.0.13_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@lego/douyin_atom"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

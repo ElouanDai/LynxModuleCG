@@ -1,0 +1,81 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:52 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:27:3:attached",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:39:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:47:5:addEventListener",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:50:9:<anonymous>",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:70:5:removeEventListener",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:74:5:handleCardShow",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:85:5:onChange",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:93:5:onTransition",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:109:5:onSwiperChange",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:119:22:<anonymous>",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:130:5:stopLive",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:131:41:<anonymous>",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:138:21:<anonymous>",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:152:5:openH5",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:164:5:openLive",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:179:5:handleItemShow",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:227:5:handleItemTap",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/utils/index.lepus.js:4:8:processRawData",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/utils/index.lepus.js:20:19:<anonymous>",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/utils/index.lepus.js:83:27:<anonymous>",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:jest.config.js",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:lina.config.js",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:meta.config.js",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:tailwind.config.js",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:27:3:attached": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:50:9:<anonymous>": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:130:5:stopLive"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:74:5:handleCardShow": [
+			"special:special::trackerReport",
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:179:5:handleItemShow"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:93:5:onTransition": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:109:5:onSwiperChange": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:179:5:handleItemShow"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:179:5:handleItemShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:227:5:handleItemTap": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:85:5:onChange": [
+			"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:109:5:onSwiperChange",
+			"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts:130:5:stopLive"
+		],
+		"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-multi-type-slidesshow@1.0.4:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

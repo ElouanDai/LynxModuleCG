@@ -1,0 +1,95 @@
+[
+  {
+    "name": "@byted-lina/check-data-utils",
+    "version": "1.1.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/check-data-utils",
+    "private": false,
+    "dependencies": {
+      "@apideck/better-ajv-errors": {
+        "from": "@apideck/better-ajv-errors",
+        "version": "0.3.6",
+        "resolved": "https://bnpm.byted.org/@apideck/better-ajv-errors/-/better-ajv-errors-0.3.6.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@apideck+better-ajv-errors@0.3.6_ajv@8.17.1/node_modules/@apideck/better-ajv-errors"
+      },
+      "ajv": {
+        "from": "ajv",
+        "version": "8.17.1",
+        "resolved": "https://bnpm.byted.org/ajv/-/ajv-8.17.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ajv@8.17.1/node_modules/ajv"
+      },
+      "lodash": {
+        "from": "lodash",
+        "version": "4.17.21",
+        "resolved": "https://bnpm.byted.org/lodash/-/lodash-4.17.21.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash"
+      },
+      "ts-json-schema-generator": {
+        "from": "ts-json-schema-generator",
+        "version": "2.4.0",
+        "resolved": "https://bnpm.byted.org/ts-json-schema-generator/-/ts-json-schema-generator-2.4.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-json-schema-generator@2.4.0/node_modules/ts-json-schema-generator"
+      },
+      "ts-morph": {
+        "from": "ts-morph",
+        "version": "14.0.0",
+        "resolved": "https://bnpm.byted.org/ts-morph/-/ts-morph-14.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-morph@14.0.0/node_modules/ts-morph"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "@types/lodash": {
+        "from": "@types/lodash",
+        "version": "4.17.17",
+        "resolved": "https://bnpm.byted.org/@types/lodash/-/lodash-4.17.17.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+lodash@4.17.17/node_modules/@types/lodash"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "22.15.21",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-22.15.21.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@22.15.21/node_modules/@types/node"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "typedoc": {
+        "from": "typedoc",
+        "version": "0.25.13",
+        "resolved": "https://bnpm.byted.org/typedoc/-/typedoc-0.25.13.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typedoc@0.25.13_typescript@4.9.5/node_modules/typedoc"
+      },
+      "typedoc-plugin-markdown": {
+        "from": "typedoc-plugin-markdown",
+        "version": "3.17.1",
+        "resolved": "https://bnpm.byted.org/typedoc-plugin-markdown/-/typedoc-plugin-markdown-3.17.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typedoc-plugin-markdown@3.17.1_typedoc@0.25.13_typescript@4.9.5_/node_modules/typedoc-plugin-markdown"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

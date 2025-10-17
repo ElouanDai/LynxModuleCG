@@ -1,0 +1,40 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:18 GMT",
+	"functions": [
+		"@byted-lina/xigua-utils@0.0.41:jest.setup.js:3:11:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts:21:1$205:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts:26:27:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts:27:15:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts:28:33:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts:33:33:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts:42:34:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts:82:28:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:src/open-user-profile.ts:10:8:openUserProfile",
+		"@byted-lina/xigua-utils@0.0.41:src/tests/index.test.ts:1:17:<anonymous>",
+		"@byted-lina/xigua-utils@0.0.41:eden.pipeline.js",
+		"@byted-lina/xigua-utils@0.0.41:jest.config.js",
+		"@byted-lina/xigua-utils@0.0.41:jest.setup.js",
+		"@byted-lina/xigua-utils@0.0.41:src/bridge.ts",
+		"@byted-lina/xigua-utils@0.0.41:src/index.ts",
+		"@byted-lina/xigua-utils@0.0.41:src/open-user-profile.ts",
+		"@byted-lina/xigua-utils@0.0.41:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-lina/xigua-utils@0.0.41:src/index.ts": [
+			"@byted-lina/xigua-utils@0.0.41:src/bridge.ts",
+			"@byted-lina/xigua-utils@0.0.41:src/open-user-profile.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./bridge": [
+			"*"
+		],
+		"./open-user-profile": [
+			"*"
+		]
+	}
+ }

@@ -1,0 +1,109 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:08 GMT",
+	"functions": [
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/index.ts:5:5:_trackerReport",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/process.lepus.js:6:1:process",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/process.lepus.js:8:19:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/process.lepus.js:29:23:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/index.ts:5:5:_trackerReport",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/process.lepus.js:6:1:process",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/process.lepus.js:8:19:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/process.lepus.js:29:23:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/index.ts:5:5:_trackerReport",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/process.lepus.js:6:1:process",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/process.lepus.js:8:19:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/process.lepus.js:29:23:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:24:3:attached",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:29:5:getLinaTrackerConfig",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:40:5:handleShow",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:46:5:reportContentClick",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:53:5:jumpByURL",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:107:34:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:127:5:handleTitleClick",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js:2:8:processRawData",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:5:37:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:10:13:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:11:14:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:31:38:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:52:36:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:69:26:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:eden.pipeline.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:jest.config.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:lina.config.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:material.config.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:meta.config.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:tailwind.config.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/mockData.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/process.lepus.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/mockData.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/process.lepus.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/mockData.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/process.lepus.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/common/constants/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/common/types/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/common/utils/douyin-mixins.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/common/utils/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/types/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts",
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:40:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:46:5:reportContentClick": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:127:5:handleTitleClick": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:53:5:jumpByURL",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:46:5:reportContentClick",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:52:36:<anonymous>",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:69:26:<anonymous>"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/process.lepus.js:8:19:<anonymous>": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js:2:8:processRawData"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/process.lepus.js:8:19:<anonymous>": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js:2:8:processRawData"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/process.lepus.js:8:19:<anonymous>": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js:2:8:processRawData"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts:107:34:<anonymous>": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:52:36:<anonymous>",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts:69:26:<anonymous>"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/process.lepus.js": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong/mockData.ts",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/process.lepus.js": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic/mockData.ts",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/process.lepus.js": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:demos/dyhuodong_magic_banner/mockData.ts",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/index.ts": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/common/utils/douyin-mixins.ts",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/types/index.ts",
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts"
+		],
+		"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/utils/index.ts": [
+			"@byted-so-design/dyhuodong-magic-single-activity-entry@3.3.1:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

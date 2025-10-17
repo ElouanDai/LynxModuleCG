@@ -1,0 +1,111 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:28 GMT",
+	"functions": [
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/common/types/index.ts:31:1$200:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/index.ts:23:5:handleClick",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/utils/index.lepus.js:4:8:getMinScreenStyle",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/utils/index.lepus.js:15:8:getGridViewStyle",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/utils/index.lepus.web.js:4:8:getMinScreenStyle",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/utils/index.lepus.web.js:15:8:getGridViewStyle",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:16:7:observer",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:31:3:created",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:33:3:detached",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:36:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:41:5:handleShow",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:56:5:getLogData",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:58:9:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:67:5:preloadMiniApp",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:73:11:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:79:27:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:104:35:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:125:5:handleError",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.lepus.js:5:8:processRawData",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.lepus.js:22:36:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.lepus.js:37:48:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:5:8:isInDouyinLite",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:9:8:isInHotsoon",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:13:8:resolveSchema",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:24:8:openSchemaOrUrl",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/mutation-view/index.ts:11:5:handleClick",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/tests/index.test.ts:12:43:<anonymous>",
+		"@byted-crystal/dytrending-image-grid@23.0.0:eden.pipeline.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:jest.config.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:lina.config.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:meta.config.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:tailwind.config.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:demos/index/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/common/constants/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/common/types/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/common/utils/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/components/item/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/utils/index.lepus.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/utils/index.lepus.web.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/types/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/mutation-view/index.ts",
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/index.ts:23:5:handleClick": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:41:5:handleShow": [
+			"special:special::trackerReport",
+			"special:special::triggerEvent",
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:56:5:getLogData"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:79:27:<anonymous>": [
+			"special:special::trackerReport",
+			"special:special::triggerEvent",
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:24:8:openSchemaOrUrl",
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:13:8:resolveSchema"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:104:35:<anonymous>": [
+			"special:special::trackerReport",
+			"special:special::triggerEvent",
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:24:8:openSchemaOrUrl",
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts:13:8:resolveSchema"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:125:5:handleError": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/mutation-view/index.ts:11:5:handleClick": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:56:5:getLogData": [
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:58:9:<anonymous>"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/grid-view/index.ts": [
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/common/types/index.ts"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts": [
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/common/types/index.ts",
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/types/index.ts",
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/types/index.ts": [
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/common/types/index.ts"
+		],
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/utils/index.ts": [
+			"@byted-crystal/dytrending-image-grid@23.0.0:src/common/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-crystal/dytrending-image-grid@23.0.0:src/components/index/index.ts:56:5:getLogData": [
+			"Array.prototype.reduce"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-lina/lepus-utils": [
+			"calcCardStyle"
+		],
+		"@byted-lina/lepus-utils/dist/douyin/font-scale-adapt": [
+			"getFontScaleType"
+		]
+	}
+ }

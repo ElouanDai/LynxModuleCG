@@ -1,0 +1,29 @@
+{
+  "name": "@byted-lina/lina-plugin-bail",
+  "version": "1.0.0",
+  "description": "lina plugin for development bail out.",
+  "keywords": [
+    "lina",
+    "plugin"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "linweixuan.599"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "start": "tsc -w",
+    "test:type": "tsc --noemit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@byted-lynx/lynx-speedy": "2.39.2",
+    "@types/node": "^18.0.6",
+    "typescript": "^4.5.2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "@byted-lina/lina-mixin-ss-double-column",
+  "version": "0.1.12",
+  "description": "独立端双列异形小卡通用逻辑",
+  "keywords": [
+    "lina",
+    "mixin",
+    "douyin search"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "zhusichao"
+  ],
+  "sideEffects": [
+    "./dist/esm/index.js"
+  ],
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && npm run build:esm && npm run build:cjs",
+    "build:cjs": "ttsc --outDir dist/cjs --module CommonJS",
+    "build:esm": "ttsc --outDir dist/esm --module ESNext",
+    "start": "rm -rf dist && npm run start:cjs & npm run start:esm",
+    "start:cjs": "ttsc -w --outDir dist/cjs --module CommonJS",
+    "start:esm": "ttsc -w --outDir dist/esm --module ESNext"
+  },
+  "dependencies": {
+    "@annie/api": "~2.0.13",
+    "@byted-lina/runtime-ng": "workspace:*"
+  },
+  "devDependencies": {
+    "@annie/api-types-aweme": "~1.0.922",
+    "@byted-lina/shared-configs": "workspace:*",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^18.0.6",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "ttypescript": "^1.5.15",
+    "typescript": "^4.5.2"
+  }
+}

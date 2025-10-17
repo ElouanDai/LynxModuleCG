@@ -1,0 +1,98 @@
+[
+  {
+    "name": "@byted-morphling/doubao_hanzi",
+    "version": "1.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/biz-doubao/morphling/doubao_hanzi",
+    "private": true,
+    "dependencies": {
+      "@bridge/flow": {
+        "from": "@bridge/flow",
+        "version": "3.2.0",
+        "resolved": "https://bnpm.byted.org/@bridge/flow/-/flow-3.2.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@bridge+flow@3.2.0/node_modules/@bridge/flow"
+      },
+      "@byted-crystal-atom/s-image": {
+        "from": "@byted-crystal-atom/s-image",
+        "version": "link:../../../packages/crystal-atom/s-image",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/s-image"
+      },
+      "@byted-crystal/doubao-audio": {
+        "from": "@byted-crystal/doubao-audio",
+        "version": "link:../../crystal/doubao-audio",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-doubao/crystal/doubao-audio"
+      },
+      "@byted-crystal/doubao-theme-layout": {
+        "from": "@byted-crystal/doubao-theme-layout",
+        "version": "link:../../crystal/doubao-theme-layout",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-doubao/crystal/doubao-theme-layout"
+      },
+      "@byted-lina/doubao-static": {
+        "from": "@byted-lina/doubao-static",
+        "version": "link:../../lina/doubao-static",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-doubao/lina/doubao-static"
+      },
+      "@byted-lina/doubao-types": {
+        "from": "@byted-lina/doubao-types",
+        "version": "link:../../lina/doubao-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-doubao/lina/doubao-types"
+      },
+      "@byted-lina/runtime-ng": {
+        "from": "@byted-lina/runtime-ng",
+        "version": "link:../../../packages/lina/lina-runtime-ng",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime-ng"
+      },
+      "@lego/utils": {
+        "from": "@lego/utils",
+        "version": "3.0.2",
+        "resolved": "https://bnpm.byted.org/@lego/utils/-/utils-3.0.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@lego+utils@3.0.2_@babel+runtime@7.27.1_@lego+typings@0.2.6_@babel+runtime@7.27.1_/node_modules/@lego/utils"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/cli": {
+        "from": "@byted-lina/cli",
+        "version": "link:../../../packages/lina/lina-cli",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli"
+      },
+      "@byted-lina/lina-config-douyin-search": {
+        "from": "@byted-lina/lina-config-douyin-search",
+        "version": "link:../../../packages/lina/lina-config-douyin-search",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-config-douyin-search"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../../../packages/lina/shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../../../packages/lina/lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

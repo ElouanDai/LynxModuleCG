@@ -1,0 +1,36 @@
+[
+  {
+    "name": "@byted-lina/lina-ttml-plugin-lynx2web-preview-info",
+    "version": "1.0.1",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-ttml-plugin-lynx2web-preview-info",
+    "private": false,
+    "dependencies": {
+      "@byted-lynx/parser-ttml": {
+        "from": "@byted-lynx/parser-ttml",
+        "version": "2.18.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/parser-ttml/-/parser-ttml-2.18.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+parser-ttml@2.18.2/node_modules/@byted-lynx/parser-ttml"
+      },
+      "uuid": {
+        "from": "uuid",
+        "version": "11.1.0",
+        "resolved": "https://bnpm.byted.org/uuid/-/uuid-11.1.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/uuid@11.1.0/node_modules/uuid"
+      }
+    },
+    "devDependencies": {
+      "@types/node": {
+        "from": "@types/node",
+        "version": "18.19.103",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-18.19.103.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@18.19.103/node_modules/@types/node"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "name": "@byted-morphling/channel_user",
+    "version": "1.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/morphling/channel_user",
+    "private": true,
+    "dependencies": {
+      "@byted-btm/hybrid": {
+        "from": "@byted-btm/hybrid",
+        "version": "1.2.4",
+        "resolved": "https://bnpm.byted.org/@byted-btm/hybrid/-/hybrid-1.2.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-btm+hybrid@1.2.4/node_modules/@byted-btm/hybrid"
+      },
+      "@byted-lina/lepus-utils": {
+        "from": "@byted-lina/lepus-utils",
+        "version": "link:../../lina/lina-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-lepus-utils"
+      },
+      "@byted-lina/morphling-bridge": {
+        "from": "@byted-lina/morphling-bridge",
+        "version": "link:../../lina/morphling-bridge",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-bridge"
+      },
+      "@byted-lina/morphling-icons": {
+        "from": "@byted-lina/morphling-icons",
+        "version": "link:../../lina/morphling-icons",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-icons"
+      },
+      "@byted-lina/morphling-types": {
+        "from": "@byted-lina/morphling-types",
+        "version": "link:../../lina/morphling-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types"
+      },
+      "@byted-lina/runtime": {
+        "from": "@byted-lina/runtime",
+        "version": "link:../../lina/lina-runtime",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime"
+      },
+      "@byted-lina/utils": {
+        "from": "@byted-lina/utils",
+        "version": "link:../../lina/lina-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils"
+      },
+      "@byted-lynx/flatten-ttml-rsbuild-plugin": {
+        "from": "@byted-lynx/flatten-ttml-rsbuild-plugin-canary",
+        "version": "0.0.2-canary-20250905-13b51ca5",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/flatten-ttml-rsbuild-plugin-canary/-/flatten-ttml-rsbuild-plugin-canary-0.0.2-canary-20250905-13b51ca5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+flatten-ttml-rsbuild-plugin-canary@0.0.2-canary-20250905-13b51ca5_@babel+core@7.2_rxb7qinyfbgdz3uvsvplfj7clm/node_modules/@byted-lynx/flatten-ttml-rsbuild-plugin-canary"
+      },
+      "@byted-so-design/avatar": {
+        "from": "@byted-so-design/avatar",
+        "version": "3.1.5",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/avatar/-/avatar-3.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+avatar@3.1.5/node_modules/@byted-so-design/avatar"
+      },
+      "@byted-so-design/user-cell": {
+        "from": "@byted-so-design/user-cell",
+        "version": "0.0.0-feat-user-cell-2025-08-25-20250905092953",
+        "resolved": "https://bnpm.byted.org/@byted-so-design/user-cell/-/user-cell-0.0.0-feat-user-cell-2025-08-25-20250905092953.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-so-design+user-cell@0.0.0-feat-user-cell-2025-08-25-20250905092953/node_modules/@byted-so-design/user-cell"
+      },
+      "@bytedance-dev/bdsword": {
+        "from": "@bytedance-dev/bdsword",
+        "version": "1.0.9",
+        "resolved": "https://bnpm.byted.org/@bytedance-dev/bdsword/-/bdsword-1.0.9.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@bytedance-dev+bdsword@1.0.9/node_modules/@bytedance-dev/bdsword"
+      },
+      "@ies/aweme-color-theme": {
+        "from": "@ies/aweme-color-theme",
+        "version": "0.1.31",
+        "resolved": "https://bnpm.byted.org/@ies/aweme-color-theme/-/aweme-color-theme-0.1.31.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+aweme-color-theme@0.1.31/node_modules/@ies/aweme-color-theme"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/cli": {
+        "from": "@byted-lina/cli",
+        "version": "link:../../lina/lina-cli",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli"
+      },
+      "@byted-lina/cli-rspeedy": {
+        "from": "@byted-lina/cli-rspeedy",
+        "version": "link:../../lina/lina-cli-rspeedy",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli-rspeedy"
+      },
+      "@byted-lina/lina-config-douyin-search": {
+        "from": "@byted-lina/lina-config-douyin-search",
+        "version": "link:../../lina/lina-config-douyin-search",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-config-douyin-search"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../../lina/shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../../lina/lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "tailwindcss": {
+        "from": "tailwindcss",
+        "version": "2.2.19",
+        "resolved": "https://bnpm.byted.org/tailwindcss/-/tailwindcss-2.2.19.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tailwindcss@2.2.19_autoprefixer@10.4.21_postcss@8.5.6__postcss@8.5.6_ts-node@10.9.2_@swc+core_ll65ojgrgrixnalho45et5dyxy/node_modules/tailwindcss"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

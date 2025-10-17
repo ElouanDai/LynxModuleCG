@@ -1,0 +1,215 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:14 GMT",
+	"functions": [
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/album/index.lepus.js:3:8:getAwemeList",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/album/index.lepus.js:5:19:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/index/index.lepus.js:3:8:getAwemeList",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/index/index.lepus.js:5:19:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live/index.lepus.js:3:8:getAwemeList",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/index.lepus.js:3:8:getAwemeList",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/index.lepus.js:5:12:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/index.ts:14:5:handleItemEvent",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/test/index.ts:24:5:handlePropsChange",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/index.lepus.js:3:8:getAwemeList",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/index.lepus.js:5:19:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/index.ts:14:5:handleItemEvent",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:62:3:attached",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:70:24:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:87:3:detached",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:95:5:scrollToVideoItem",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:103:5:scrollHorizontalListToIndex",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:117:5:handleDoPlayVideo",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:126:5:getLinaTrackerConfig",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:137:5:trackerReportWithFilter",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:149:5:handlePageScroll",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:155:5:openVideoDetail",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:156:64:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:164:5:loadMoreData",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:231:5:handleItemEvent",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:255:5:startAutoPlay",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:263:5:stopAutoPlay",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:273:5:scrollToIndex",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:282:5:handleScrollToBounce",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:291:5:handleScrollToActive",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:298:5:handleBounceViewStatus",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:300:54:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:309:5:getLiveSearchParams",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:356:5:handleNodeAppear",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:422:5:trackerReportItemWithFilter",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:11:8:getAwemeType",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:26:8:getItemSize",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:39:8:getActiveArea",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:53:8:getHorizontalStyle",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:67:1:parseAwemeRawData",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:104:8:getHorizontalAwemeItem",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:185:8:getHorizontalAwemeList",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:188:24:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:194:8:extractCardListProperty",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:198:32:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts:6:1$213:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts:11:1$236:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts:36:8:HorizontalLoadMoreHelper",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts:54:3:handleBounceViewStatus",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts:70:3:loadMore",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:eden.pipeline.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:jest.config.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:lina.config.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:material.config.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:meta.config.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:tailwind.config.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/album/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/album/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/charge_video/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/charge_video/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/index/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/index/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/types/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/test/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/types/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/common/constants/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/common/types/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/common/utils/douyin-mixins.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/common/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/common/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/types/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/index.ts:14:5:handleItemEvent": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/test/index.ts:24:5:handlePropsChange": [
+			"special:special::setData"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/index.ts:14:5:handleItemEvent": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:70:24:<anonymous>": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:137:5:trackerReportWithFilter": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:164:5:loadMoreData": [
+			"special:special::setData",
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:231:5:handleItemEvent": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:282:5:handleScrollToBounce": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:291:5:handleScrollToActive": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:298:5:handleBounceViewStatus": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:300:54:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:309:5:getLiveSearchParams": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:356:5:handleNodeAppear": [
+			"special:special::triggerEvent",
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:422:5:trackerReportItemWithFilter",
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:309:5:getLiveSearchParams"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:422:5:trackerReportItemWithFilter": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts:70:3:loadMore": [
+			"special:special::trackerReport",
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:70:24:<anonymous>"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:149:5:handlePageScroll": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:164:5:loadMoreData"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:117:5:handleDoPlayVideo": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:103:5:scrollHorizontalListToIndex"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:103:5:scrollHorizontalListToIndex": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:273:5:scrollToIndex"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:95:5:scrollToVideoItem": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:103:5:scrollHorizontalListToIndex"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/album/index.lepus.js:3:8:getAwemeList": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:185:8:getHorizontalAwemeList"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/index/index.lepus.js:3:8:getAwemeList": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:185:8:getHorizontalAwemeList"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live/index.lepus.js:3:8:getAwemeList": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:185:8:getHorizontalAwemeList"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/index.lepus.js:3:8:getAwemeList": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:185:8:getHorizontalAwemeList"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/index.lepus.js:3:8:getAwemeList": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js:185:8:getHorizontalAwemeList"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts:62:3:attached": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts:36:8:HorizontalLoadMoreHelper"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/album/index.lepus.js": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/charge_video/index.lepus.js": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/index/index.lepus.js": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live/index.lepus.js": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/index.lepus.js": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/index.ts": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:demos/live_show_conversion/components/live-item/types/index.ts"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/index.lepus.js": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/index.ts": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:demos/video_show_conversion/components/video-item/types/index.ts"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/index.ts": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/common/utils/douyin-mixins.ts",
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/types/index.ts",
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts"
+		],
+		"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/utils/index.ts": [
+			"@byted-so-design/xigua-horizontal-list@2.1.3:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-so-design/xigua-horizontal-list/lepus": [
+			"getHorizontalAwemeList"
+		]
+	}
+ }

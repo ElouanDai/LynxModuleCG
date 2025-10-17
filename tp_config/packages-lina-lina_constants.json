@@ -1,0 +1,31 @@
+{
+  "name": "@byted-lina/lina-constants",
+  "version": "3.0.1",
+  "description": "constants",
+  "keywords": [],
+  "license": "ISC",
+  "maintainers": [
+    "zhaohaibo.finger"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "start": "tsc -w",
+    "test": "jest",
+    "test:type": "tsc --noemit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@byted-lina/shared-configs": "workspace:*",
+    "@types/jest": "^27.0.1",
+    "@types/lodash": "^4.14.178",
+    "@types/node": "^18.0.6",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.5.2"
+  }
+}

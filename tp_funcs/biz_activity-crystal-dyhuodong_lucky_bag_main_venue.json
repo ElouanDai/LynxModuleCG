@@ -1,0 +1,165 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:44 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:31:1:getUsable",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:59:3:attached",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:73:3:detached",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:80:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:86:5:handleShow",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:115:5:onViewAppear",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:121:5:handleListScrollToLower",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:129:5:handleListComplete",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:133:5:controlAutoScroll",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:144:13:success",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:145:13:fail",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:152:5:onTabChange",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:164:16:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:166:19:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:168:11:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:168:43:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:175:49:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:178:79:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:179:20:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:209:5:onSearchItemClick",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:254:5:handleButtonClick",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:280:34:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:282:40:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:283:40:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:287:11:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:287:43:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:291:13:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:291:60:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:293:16:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:296:50:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:299:77:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:303:16:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:306:16:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:308:43:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:309:43:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:312:29:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:319:38:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:327:64:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:328:20:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:358:5:onMyClick",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:386:5:onRuleClick",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:414:5:getTabs",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:418:5:scrollToCard",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:428:18:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:431:20:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:437:26:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:438:26:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:440:26:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:443:17:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:450:5:animateNumber",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:453:65:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:454:19:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:462:13:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:2:1:getUsable",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:6:8:processRawData",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:13:31:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:19:12:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:20:15:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:21:15:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:23:7:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:23:42:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:38:20:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:38:37:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:40:24:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js:42:38:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:1:34:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:15:43:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:71:51:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:82:34:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:115:1:easeInOutQuad",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:122:8:animateChange",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:131:16:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:jest.config.js",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:lina.config.js",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:meta.config.js",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:tailwind.config.js",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/bullet/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:86:5:handleShow": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:450:5:animateNumber"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:121:5:handleListScrollToLower": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:152:5:onTabChange": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:450:5:animateNumber",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:414:5:getTabs"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:179:20:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:209:5:onSearchItemClick": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:414:5:getTabs"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:328:20:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:254:5:handleButtonClick": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:450:5:animateNumber",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:414:5:getTabs",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:71:51:<anonymous>",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:296:50:<anonymous>",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:319:38:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:358:5:onMyClick": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:386:5:onRuleClick": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:450:5:animateNumber": [
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:414:5:getTabs"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:129:5:handleListComplete": [
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:133:5:controlAutoScroll"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:115:5:onViewAppear": [
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:254:5:handleButtonClick"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:454:19:<anonymous>": [
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:122:8:animateChange"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts:131:16:<anonymous>": [
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:462:13:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/types/index.ts",
+			"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/utils/index.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-crystal/dyhuodong-lucky-bag-main-venue@3.0.2:src/components/index/index.ts:254:5:handleButtonClick": [
+			"Array.prototype.sort"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

@@ -1,0 +1,100 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:55 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/index.ts:5:3:attached",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/process.lepus.js:5:1:onlyOne",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/process.lepus.js:20:17:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/process.lepus.js:31:21:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:28:3:attached",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:39:3:detached",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:44:5:handleReportShow",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:47:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:52:5:handleScroll",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:59:5:handleItemClick",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:97:5:getButtonType",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:100:5:handleTapLongVideoItem",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:126:5:scrollTo",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:136:9:success",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:137:9:fail",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:140:5:loadmore",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:161:15:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:174:18:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:178:5:checkHasMore",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:186:5:getCursor",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:190:32:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:9:8:formatTime",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:17:1:notSameYear",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:21:1:formatActors",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:36:8:formatNormalVideoList",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:40:20:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:60:8:formatLongVideList",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:62:19:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:77:1:formatAppendList",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:84:25:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:104:8:getProgramShowList",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:132:8:getVerticalTop",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js:137:8:getIcon",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/index.lepus.js:1:8:processRawData",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:jest.config.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:lina.config.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:meta.config.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:tailwind.config.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/mock.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/process.lepus.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/format.lepus.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:44:5:handleReportShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:52:5:handleScroll": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:59:5:handleItemClick": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:97:5:getButtonType",
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:100:5:handleTapLongVideoItem"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:100:5:handleTapLongVideoItem": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:97:5:getButtonType"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:161:15:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:190:32:<anonymous>": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:140:5:loadmore": [
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:178:5:checkHasMore",
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts:186:5:getCursor"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/process.lepus.js:20:17:<anonymous>": [
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/index.lepus.js:1:8:processRawData"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/process.lepus.js": [
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:demos/index/mock.ts",
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-program-horizontal-scroll@1.1.2:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

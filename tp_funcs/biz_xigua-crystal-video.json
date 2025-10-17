@@ -1,0 +1,167 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:17 GMT",
+	"functions": [
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:16:5:handleTimeUpdate",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:21:5:handleStatusUpdate",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:27:5:handleControlPlay",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:30:5:handleControlPause",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:33:5:handleVideoTap",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:37:5:openSearchVideo",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:39:37:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:55:5:updateDebugText",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:60:5:handleLoad",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:40:7:observer",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:60:7:observer",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:87:3:attached",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:96:3:detached",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:101:5:initShowSpeedUpTip",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:121:19:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:124:20:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:128:22:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:134:5:hasShownSpeedUpTip",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:148:25:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:151:29:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:159:5:handleEnded",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:168:5:handleError",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:176:5:handleSeekEnd",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:184:5:handleRecallVideo",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:190:5:handleTimeUpdate",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:224:5:payVideoCountdown",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:254:5:bindpaid",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:260:5:bindpaidVideos",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:265:5:bindpreviewend",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:271:5:handlePlay",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:280:5:handlePause",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:288:5:handleLoading",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:295:5:updateVideoStatus",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:313:34:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:344:42:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:375:5:resetPlayRate",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:383:5:handleChangeSpeed",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/utils/index.lepus.js:18:8:getVideoSize",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/utils/index.lepus.js:68:8:getNumber",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/utils/index.lepus.js:83:8:showPlayController",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/utils/index.lepus.js:92:8:getShadowBoxStyle",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/tests/index.test.ts:12:27:<anonymous>",
+		"@byted-crystal-atom/xigua-video@20.1.2:eden.pipeline.js",
+		"@byted-crystal-atom/xigua-video@20.1.2:jest.config.js",
+		"@byted-crystal-atom/xigua-video@20.1.2:lina.config.js",
+		"@byted-crystal-atom/xigua-video@20.1.2:tailwind.config.js",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts",
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/types.ts",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/types/index.ts",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/utils/index.lepus.js",
+		"@byted-crystal-atom/xigua-video@20.1.2:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:37:5:openSearchVideo": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:55:5:updateDebugText": [
+			"special:special::setData"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:101:5:initShowSpeedUpTip": [
+			"special:special::triggerEvent",
+			"special:special::setData"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:134:5:hasShownSpeedUpTip": [
+			"special:special::setData"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:151:29:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:159:5:handleEnded": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:168:5:handleError": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:176:5:handleSeekEnd": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:184:5:handleRecallVideo": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:190:5:handleTimeUpdate": [
+			"special:special::triggerEvent",
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:224:5:payVideoCountdown",
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:101:5:initShowSpeedUpTip"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:224:5:payVideoCountdown": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:254:5:bindpaid": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:260:5:bindpaidVideos": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:271:5:handlePlay": [
+			"special:special::triggerEvent",
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:295:5:updateVideoStatus"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:280:5:handlePause": [
+			"special:special::triggerEvent",
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:295:5:updateVideoStatus"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:288:5:handleLoading": [
+			"special:special::triggerEvent",
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:295:5:updateVideoStatus"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:295:5:updateVideoStatus": [
+			"special:special::setData",
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:313:34:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:344:42:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:375:5:resetPlayRate": [
+			"special:special::setData"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:383:5:handleChangeSpeed": [
+			"special:special::setData",
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:265:5:bindpreviewend": [
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:224:5:payVideoCountdown"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:128:22:<anonymous>": [
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:134:5:hasShownSpeedUpTip"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:60:5:handleLoad": [
+			"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:55:5:updateDebugText"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:33:5:handleVideoTap": [
+			"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:55:5:updateDebugText",
+			"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:37:5:openSearchVideo"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:30:5:handleControlPause": [
+			"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:55:5:updateDebugText"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:27:5:handleControlPlay": [
+			"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:55:5:updateDebugText"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:21:5:handleStatusUpdate": [
+			"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts:55:5:updateDebugText"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:demos/index/index.ts": [
+			"@byted-crystal-atom/xigua-video@20.1.2:demos/index/types.ts"
+		],
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts": [
+			"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-crystal-atom/xigua-video@20.1.2:src/components/index/index.ts:40:7:observer": [
+			"Array.prototype.includes"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

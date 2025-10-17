@@ -1,0 +1,45 @@
+{
+  "name": "@byted-lina/lina-plugin-lynx2web",
+  "version": "2.1.1",
+  "description": "lynx2web",
+  "keywords": [
+    "lina",
+    "plugin",
+    "lynx2web"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "zhaohaibo.finger",
+    "lichenyang.anarkh"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "start": "tsc -w"
+  },
+  "dependencies": {
+    "@byted-lynx/plugin-tailwindcss": "2.3.3",
+    "@fe/druid-cli": "^0.8.7",
+    "@fe/druid-libs-core": "^0.6.2",
+    "@fe/druid-plugin-falken": "0.18.0",
+    "@fe/druid-plugin-webpack-base": "0.21.7",
+    "axios": "^1.6.7",
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@byted-lina/shared-configs": "workspace:*",
+    "@byted-lynx/lynx-speedy": "2.39.2",
+    "@byted/hdd": "^1.11.0",
+    "@types/fs-extra": "^9.0.13",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^18.0.6",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.5.2"
+  }
+}

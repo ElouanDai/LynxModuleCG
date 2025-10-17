@@ -1,0 +1,509 @@
+[
+  {
+    "name": "@byted-lina/lego-core",
+    "version": "1.3.164",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lego-core",
+    "private": false,
+    "dependencies": {
+      "@byted-crystal-atom/feedback": {
+        "from": "@byted-crystal-atom/feedback",
+        "version": "link:../../crystal-atom/feedback",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/feedback"
+      },
+      "@byted-crystal-atom/lego-abstract": {
+        "from": "@byted-crystal-atom/lego-abstract",
+        "version": "link:../../crystal-atom/lego-abstract",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-abstract"
+      },
+      "@byted-crystal-atom/lego-abstract-old": {
+        "from": "@byted-crystal-atom/lego-abstract-old",
+        "version": "link:../../crystal-atom/lego-abstract-old",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-abstract-old"
+      },
+      "@byted-crystal-atom/lego-answer-top": {
+        "from": "@byted-crystal-atom/lego-answer-top",
+        "version": "link:../../crystal-atom/lego-answer-top",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-answer-top"
+      },
+      "@byted-crystal-atom/lego-article": {
+        "from": "@byted-crystal-atom/lego-article",
+        "version": "link:../../crystal-atom/lego-article",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-article"
+      },
+      "@byted-crystal-atom/lego-article-aggr-items": {
+        "from": "@byted-crystal-atom/lego-article-aggr-items",
+        "version": "link:../../crystal-atom/lego-article-aggr-items",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-article-aggr-items"
+      },
+      "@byted-crystal-atom/lego-article-extra": {
+        "from": "@byted-crystal-atom/lego-article-extra",
+        "version": "link:../../crystal-atom/lego-article-extra",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-article-extra"
+      },
+      "@byted-crystal-atom/lego-article-header": {
+        "from": "@byted-crystal-atom/lego-article-header",
+        "version": "link:../../crystal-atom/lego-article-header",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-article-header"
+      },
+      "@byted-crystal-atom/lego-audio": {
+        "from": "@byted-crystal-atom/lego-audio",
+        "version": "link:../../crystal-atom/lego-audio",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-audio"
+      },
+      "@byted-crystal-atom/lego-avatar": {
+        "from": "@byted-crystal-atom/lego-avatar",
+        "version": "link:../../crystal-atom/lego-avatar",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-avatar"
+      },
+      "@byted-crystal-atom/lego-avatar-list": {
+        "from": "@byted-crystal-atom/lego-avatar-list",
+        "version": "link:../../crystal-atom/lego-avatar-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-avatar-list"
+      },
+      "@byted-crystal-atom/lego-button": {
+        "from": "@byted-crystal-atom/lego-button",
+        "version": "link:../../crystal-atom/lego-button",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-button"
+      },
+      "@byted-crystal-atom/lego-button-group": {
+        "from": "@byted-crystal-atom/lego-button-group",
+        "version": "link:../../crystal-atom/lego-button-group",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-button-group"
+      },
+      "@byted-crystal-atom/lego-card": {
+        "from": "@byted-crystal-atom/lego-card",
+        "version": "link:../../crystal-atom/lego-card",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-card"
+      },
+      "@byted-crystal-atom/lego-card-action": {
+        "from": "@byted-crystal-atom/lego-card-action",
+        "version": "link:../../crystal-atom/lego-card-action",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-card-action"
+      },
+      "@byted-crystal-atom/lego-card-extra": {
+        "from": "@byted-crystal-atom/lego-card-extra",
+        "version": "link:../../crystal-atom/lego-card-extra",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-card-extra"
+      },
+      "@byted-crystal-atom/lego-card-footer": {
+        "from": "@byted-crystal-atom/lego-card-footer",
+        "version": "link:../../crystal-atom/lego-card-footer",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-card-footer"
+      },
+      "@byted-crystal-atom/lego-card-title": {
+        "from": "@byted-crystal-atom/lego-card-title",
+        "version": "link:../../crystal-atom/lego-card-title",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-card-title"
+      },
+      "@byted-crystal-atom/lego-carousel": {
+        "from": "@byted-crystal-atom/lego-carousel",
+        "version": "link:../../crystal-atom/lego-carousel",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-carousel"
+      },
+      "@byted-crystal-atom/lego-cascade-select": {
+        "from": "@byted-crystal-atom/lego-cascade-select",
+        "version": "link:../../crystal-atom/lego-cascade-select",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-cascade-select"
+      },
+      "@byted-crystal-atom/lego-chart": {
+        "from": "@byted-crystal-atom/lego-chart",
+        "version": "link:../../crystal-atom/lego-chart",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-chart"
+      },
+      "@byted-crystal-atom/lego-container": {
+        "from": "@byted-crystal-atom/lego-container",
+        "version": "link:../../crystal-atom/lego-container",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-container"
+      },
+      "@byted-crystal-atom/lego-deepqa-paragraph": {
+        "from": "@byted-crystal-atom/lego-deepqa-paragraph",
+        "version": "link:../../crystal-atom/lego-deepqa-paragraph",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-deepqa-paragraph"
+      },
+      "@byted-crystal-atom/lego-drawer": {
+        "from": "@byted-crystal-atom/lego-drawer",
+        "version": "link:../../crystal-atom/lego-drawer",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-drawer"
+      },
+      "@byted-crystal-atom/lego-empty": {
+        "from": "@byted-crystal-atom/lego-empty",
+        "version": "link:../../crystal-atom/lego-empty",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-empty"
+      },
+      "@byted-crystal-atom/lego-entry-list": {
+        "from": "@byted-crystal-atom/lego-entry-list",
+        "version": "link:../../crystal-atom/lego-entry-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-entry-list"
+      },
+      "@byted-crystal-atom/lego-hanzi-view": {
+        "from": "@byted-crystal-atom/lego-hanzi-view",
+        "version": "link:../../crystal-atom/lego-hanzi-view",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-hanzi-view"
+      },
+      "@byted-crystal-atom/lego-header": {
+        "from": "@byted-crystal-atom/lego-header",
+        "version": "link:../../crystal-atom/lego-header",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-header"
+      },
+      "@byted-crystal-atom/lego-image": {
+        "from": "@byted-crystal-atom/lego-image",
+        "version": "link:../../crystal-atom/lego-image",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-image"
+      },
+      "@byted-crystal-atom/lego-image-atlas": {
+        "from": "@byted-crystal-atom/lego-image-atlas",
+        "version": "link:../../crystal-atom/lego-image-atlas",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-image-atlas"
+      },
+      "@byted-crystal-atom/lego-image-corner": {
+        "from": "@byted-crystal-atom/lego-image-corner",
+        "version": "link:../../crystal-atom/lego-image-corner",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-image-corner"
+      },
+      "@byted-crystal-atom/lego-image-mask": {
+        "from": "@byted-crystal-atom/lego-image-mask",
+        "version": "link:../../crystal-atom/lego-image-mask",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-image-mask"
+      },
+      "@byted-crystal-atom/lego-image-play": {
+        "from": "@byted-crystal-atom/lego-image-play",
+        "version": "link:../../crystal-atom/lego-image-play",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-image-play"
+      },
+      "@byted-crystal-atom/lego-image-tag": {
+        "from": "@byted-crystal-atom/lego-image-tag",
+        "version": "link:../../crystal-atom/lego-image-tag",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-image-tag"
+      },
+      "@byted-crystal-atom/lego-image-widget": {
+        "from": "@byted-crystal-atom/lego-image-widget",
+        "version": "link:../../crystal-atom/lego-image-widget",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-image-widget"
+      },
+      "@byted-crystal-atom/lego-input": {
+        "from": "@byted-crystal-atom/lego-input",
+        "version": "link:../../crystal-atom/lego-input",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-input"
+      },
+      "@byted-crystal-atom/lego-like": {
+        "from": "@byted-crystal-atom/lego-like",
+        "version": "link:../../crystal-atom/lego-like",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-like"
+      },
+      "@byted-crystal-atom/lego-list": {
+        "from": "@byted-crystal-atom/lego-list",
+        "version": "link:../../crystal-atom/lego-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-list"
+      },
+      "@byted-crystal-atom/lego-ordered-list": {
+        "from": "@byted-crystal-atom/lego-ordered-list",
+        "version": "link:../../crystal-atom/lego-ordered-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-ordered-list"
+      },
+      "@byted-crystal-atom/lego-ordered-list-item": {
+        "from": "@byted-crystal-atom/lego-ordered-list-item",
+        "version": "link:../../crystal-atom/lego-ordered-list-item",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-ordered-list-item"
+      },
+      "@byted-crystal-atom/lego-paragraph": {
+        "from": "@byted-crystal-atom/lego-paragraph",
+        "version": "link:../../crystal-atom/lego-paragraph",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-paragraph"
+      },
+      "@byted-crystal-atom/lego-poem": {
+        "from": "@byted-crystal-atom/lego-poem",
+        "version": "link:../../crystal-atom/lego-poem",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-poem"
+      },
+      "@byted-crystal-atom/lego-poetry-classic-chinese": {
+        "from": "@byted-crystal-atom/lego-poetry-classic-chinese",
+        "version": "link:../../crystal-atom/lego-poetry-classic-chinese",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-poetry-classic-chinese"
+      },
+      "@byted-crystal-atom/lego-poetry-header": {
+        "from": "@byted-crystal-atom/lego-poetry-header",
+        "version": "link:../../crystal-atom/lego-poetry-header",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-poetry-header"
+      },
+      "@byted-crystal-atom/lego-poetry-poem": {
+        "from": "@byted-crystal-atom/lego-poetry-poem",
+        "version": "link:../../crystal-atom/lego-poetry-poem",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-poetry-poem"
+      },
+      "@byted-crystal-atom/lego-poetry-tooltips": {
+        "from": "@byted-crystal-atom/lego-poetry-tooltips",
+        "version": "link:../../crystal-atom/lego-poetry-tooltips",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-poetry-tooltips"
+      },
+      "@byted-crystal-atom/lego-poetry-word": {
+        "from": "@byted-crystal-atom/lego-poetry-word",
+        "version": "link:../../crystal-atom/lego-poetry-word",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-poetry-word"
+      },
+      "@byted-crystal-atom/lego-property": {
+        "from": "@byted-crystal-atom/lego-property",
+        "version": "link:../../crystal-atom/lego-property",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-property"
+      },
+      "@byted-crystal-atom/lego-property-list": {
+        "from": "@byted-crystal-atom/lego-property-list",
+        "version": "link:../../crystal-atom/lego-property-list",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-property-list"
+      },
+      "@byted-crystal-atom/lego-property-list-item": {
+        "from": "@byted-crystal-atom/lego-property-list-item",
+        "version": "link:../../crystal-atom/lego-property-list-item",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-property-list-item"
+      },
+      "@byted-crystal-atom/lego-scroller": {
+        "from": "@byted-crystal-atom/lego-scroller",
+        "version": "link:../../crystal-atom/lego-scroller",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-scroller"
+      },
+      "@byted-crystal-atom/lego-scroller-row": {
+        "from": "@byted-crystal-atom/lego-scroller-row",
+        "version": "link:../../crystal-atom/lego-scroller-row",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-scroller-row"
+      },
+      "@byted-crystal-atom/lego-select": {
+        "from": "@byted-crystal-atom/lego-select",
+        "version": "link:../../crystal-atom/lego-select",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-select"
+      },
+      "@byted-crystal-atom/lego-short-answer": {
+        "from": "@byted-crystal-atom/lego-short-answer",
+        "version": "link:../../crystal-atom/lego-short-answer",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-short-answer"
+      },
+      "@byted-crystal-atom/lego-source": {
+        "from": "@byted-crystal-atom/lego-source",
+        "version": "link:../../crystal-atom/lego-source",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-source"
+      },
+      "@byted-crystal-atom/lego-table": {
+        "from": "@byted-crystal-atom/lego-table",
+        "version": "link:../../crystal-atom/lego-table",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-table"
+      },
+      "@byted-crystal-atom/lego-table-body": {
+        "from": "@byted-crystal-atom/lego-table-body",
+        "version": "link:../../crystal-atom/lego-table-body",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-table-body"
+      },
+      "@byted-crystal-atom/lego-table-cell": {
+        "from": "@byted-crystal-atom/lego-table-cell",
+        "version": "link:../../crystal-atom/lego-table-cell",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-table-cell"
+      },
+      "@byted-crystal-atom/lego-table-head": {
+        "from": "@byted-crystal-atom/lego-table-head",
+        "version": "link:../../crystal-atom/lego-table-head",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-table-head"
+      },
+      "@byted-crystal-atom/lego-table-row": {
+        "from": "@byted-crystal-atom/lego-table-row",
+        "version": "link:../../crystal-atom/lego-table-row",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-table-row"
+      },
+      "@byted-crystal-atom/lego-tabs": {
+        "from": "@byted-crystal-atom/lego-tabs",
+        "version": "link:../../crystal-atom/lego-tabs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-tabs"
+      },
+      "@byted-crystal-atom/lego-tag": {
+        "from": "@byted-crystal-atom/lego-tag",
+        "version": "link:../../crystal-atom/lego-tag",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-tag"
+      },
+      "@byted-crystal-atom/lego-text-split": {
+        "from": "@byted-crystal-atom/lego-text-split",
+        "version": "link:../../crystal-atom/lego-text-split",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-text-split"
+      },
+      "@byted-crystal-atom/lego-what-you-want": {
+        "from": "@byted-crystal-atom/lego-what-you-want",
+        "version": "link:../../crystal-atom/lego-what-you-want",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/lego-what-you-want"
+      },
+      "@byted-crystal-atom/tabs-v2": {
+        "from": "@byted-crystal-atom/tabs-v2",
+        "version": "link:../../crystal-atom/tabs-v2",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/tabs-v2"
+      },
+      "@byted-crystal-atom/ui-button": {
+        "from": "@byted-crystal-atom/ui-button",
+        "version": "link:../../crystal-atom/ui-button",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/crystal-atom/ui-button"
+      },
+      "@byted/lynx-lightcharts": {
+        "from": "@byted/lynx-lightcharts",
+        "version": "0.9.3-alpha.3",
+        "resolved": "https://bnpm.byted.org/@byted/lynx-lightcharts/-/lynx-lightcharts-0.9.3-alpha.3.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+lynx-lightcharts@0.9.3-alpha.3/node_modules/@byted/lynx-lightcharts"
+      },
+      "@lego/utils": {
+        "from": "@lego/utils",
+        "version": "3.0.11",
+        "resolved": "https://bnpm.byted.org/@lego/utils/-/utils-3.0.11.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@lego+utils@3.0.11_@babel+runtime@7.27.1_@lego+typings@0.2.6_@babel+runtime@7.27.1_/node_modules/@lego/utils"
+      },
+      "@tt-search/tools": {
+        "from": "@tt-search/tools",
+        "version": "4.0.37",
+        "resolved": "https://bnpm.byted.org/@tt-search/tools/-/tools-4.0.37.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@tt-search+tools@4.0.37_@babel+runtime@7.27.1_@lego+utils@3.0.11_@babel+runtime@7.27.1_@lego+_gmio3zbrae3umudk3ngxldovgy/node_modules/@tt-search/tools"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/cli": {
+        "from": "@byted-lina/cli",
+        "version": "link:../lina-cli",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli"
+      },
+      "@byted-lina/component-build": {
+        "from": "@byted-lina/component-build",
+        "version": "link:../lina-component-build",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-component-build"
+      },
+      "@byted-lina/crystal-scripts": {
+        "from": "@byted-lina/crystal-scripts",
+        "version": "link:../crystal-scripts",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/crystal-scripts"
+      },
+      "@byted-lina/lego-icons": {
+        "from": "@byted-lina/lego-icons",
+        "version": "link:../lego-icons",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lego-icons"
+      },
+      "@byted-lina/lepus-utils": {
+        "from": "@byted-lina/lepus-utils",
+        "version": "link:../lina-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-lepus-utils"
+      },
+      "@byted-lina/lina-config-douyin-search": {
+        "from": "@byted-lina/lina-config-douyin-search",
+        "version": "link:../lina-config-douyin-search",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-config-douyin-search"
+      },
+      "@byted-lina/morphling-bridge": {
+        "from": "@byted-lina/morphling-bridge",
+        "version": "link:../morphling-bridge",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-bridge"
+      },
+      "@byted-lina/morphling-icons": {
+        "from": "@byted-lina/morphling-icons",
+        "version": "link:../morphling-icons",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-icons"
+      },
+      "@byted-lina/morphling-types": {
+        "from": "@byted-lina/morphling-types",
+        "version": "link:../morphling-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types"
+      },
+      "@byted-lina/runtime": {
+        "from": "@byted-lina/runtime",
+        "version": "link:../lina-runtime",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@byted-lina/utils": {
+        "from": "@byted-lina/utils",
+        "version": "link:../lina-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils"
+      },
+      "@byted-lynx/testing": {
+        "from": "@byted-lynx/testing",
+        "version": "0.0.0-develop.fed75b29",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/testing/-/testing-0.0.0-develop.fed75b29.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+testing@0.0.0-develop.fed75b29/node_modules/@byted-lynx/testing"
+      },
+      "@byted-lynx/testing-utils": {
+        "from": "@byted-lynx/testing-utils",
+        "version": "0.2.3",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/testing-utils/-/testing-utils-0.2.3.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+testing-utils@0.2.3_@byted-lynx+lynx-speedy@3.6.3/node_modules/@byted-lynx/testing-utils"
+      },
+      "@ies/aweme-color-theme": {
+        "from": "@ies/aweme-color-theme",
+        "version": "0.1.31",
+        "resolved": "https://bnpm.byted.org/@ies/aweme-color-theme/-/aweme-color-theme-0.1.31.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+aweme-color-theme@0.1.31/node_modules/@ies/aweme-color-theme"
+      },
+      "@lego/aweme_atom": {
+        "from": "@lego/aweme_atom",
+        "version": "0.0.14",
+        "resolved": "https://bnpm.byted.org/@lego/aweme_atom/-/aweme_atom-0.0.14.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@lego+aweme_atom@0.0.14_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@lego/aweme_atom"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "18.19.103",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-18.19.103.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@18.19.103/node_modules/@types/node"
+      },
+      "fs-extra": {
+        "from": "fs-extra",
+        "version": "10.0.0",
+        "resolved": "https://bnpm.byted.org/fs-extra/-/fs-extra-10.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/fs-extra@10.0.0/node_modules/fs-extra"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@18.19.103_typescript@4.9.5_/node_modules/jest"
+      },
+      "sort-package-json": {
+        "from": "sort-package-json",
+        "version": "1.57.0",
+        "resolved": "https://bnpm.byted.org/sort-package-json/-/sort-package-json-1.57.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/sort-package-json@1.57.0/node_modules/sort-package-json"
+      },
+      "symlink-dir": {
+        "from": "symlink-dir",
+        "version": "5.2.1",
+        "resolved": "https://bnpm.byted.org/symlink-dir/-/symlink-dir-5.2.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/symlink-dir@5.2.1/node_modules/symlink-dir"
+      },
+      "tailwindcss": {
+        "from": "tailwindcss",
+        "version": "2.2.19",
+        "resolved": "https://bnpm.byted.org/tailwindcss/-/tailwindcss-2.2.19.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tailwindcss@2.2.19_autoprefixer@10.4.21_postcss@8.5.6__postcss@8.5.6_ts-node@10.9.2_@swc+core_paxp4heeyzoimjx4fhbuyqt3hi/node_modules/tailwindcss"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_yxvhb2kk7yccilszc2jppfnvky/node_modules/ts-jest"
+      },
+      "tslib": {
+        "from": "tslib",
+        "version": "2.5.0",
+        "resolved": "https://bnpm.byted.org/tslib/-/tslib-2.5.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tslib@2.5.0/node_modules/tslib"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

@@ -1,0 +1,157 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:06 GMT",
+	"functions": [
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:material.config.js:18:14:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:demos/index/process.lepus.js:10:17:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:demos/index/process.lepus.js:758:21:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/constant.ts:4:1$200:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:47:3:attached",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:51:5:getLinaTrackerConfig",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:63:5:onVideoPlay",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:71:5:onVideoPause",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:79:5:onVideoLoading",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:85:26:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:89:5:openVideoDetail",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:263:5:onControlTap",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:313:5:jumpHref",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/utils/index.lepus.js:6:8:getExtraLog",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/utils/index.lepus.js:23:8:calc",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:42:3:attached",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:50:3:detached",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:64:5:checkData",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:76:39:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:93:5:addEventListener",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:105:5:onPageScroll",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:117:5:onWindowResize",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:121:38:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:122:50:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:129:5:onLoadMore",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:156:5:getLinaTrackerConfig",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:165:5:handleShow",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:189:5:onScrollToActive",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:194:5:onListItemAppear",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:6:1:addExtraLog",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:7:20:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:29:1:getVideoSize",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:42:8:getAwemeLite",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:54:8:getHorizontalConfig",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:94:8:generateHorizontalData",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:114:13:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:118:10:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:205:15:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:209:12:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.lepus.js:4:1:processAwemeList",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.lepus.js:19:8:processRawData",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:eden.pipeline.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:jest.config.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:lina.config.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:material.config.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:meta.config.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:tailwind.config.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:demos/index/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:demos/index/process.lepus.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/common/constants/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/common/types/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/common/utils/douyin-mixins.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/common/utils/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/constant.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/icons.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/types/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/utils/index.lepus.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/utils/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/types/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.lepus.js",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.ts",
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:63:5:onVideoPlay": [
+			"special:special::setData"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:71:5:onVideoPause": [
+			"special:special::setData"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:79:5:onVideoLoading": [
+			"special:special::setData"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:89:5:openVideoDetail": [
+			"special:special::getTrackerParams",
+			"special:special::trackerReport",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:313:5:jumpHref"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:263:5:onControlTap": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts:313:5:jumpHref": [
+			"special:special::getTrackerParams",
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:64:5:checkData": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:76:39:<anonymous>": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:117:5:onWindowResize": [
+			"special:special::setData"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:129:5:onLoadMore": [
+			"special:special::setData",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:94:8:generateHorizontalData"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:165:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts:194:5:onListItemAppear": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:demos/index/process.lepus.js:10:17:<anonymous>": [
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.lepus.js:19:8:processRawData"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.lepus.js:19:8:processRawData": [
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:54:8:getHorizontalConfig",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:94:8:generateHorizontalData"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:demos/index/process.lepus.js": [
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.lepus.js"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/index.ts": [
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/common/utils/douyin-mixins.ts",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/constant.ts",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/icons.ts",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/types/index.ts"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/types/index.ts": [
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/constant.ts",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/aweme-item/icons.ts"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/index.ts": [
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/common/utils/douyin-mixins.ts",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/types/index.ts",
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js"
+		],
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/index.lepus.js": [
+			"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js"
+		]
+	},
+	"nativeCalls": {
+		"@byted-so-design/dyhuodong-horizontal-multi-type-video@3.0.1:src/components/index/utils/horizontal.lepus.js:94:8:generateHorizontalData": [
+			"Array.prototype.push"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-lina/lepus-utils/dist/douyin/icon": [
+			"getAlbumIconType"
+		],
+		"@byted-lina/lepus-utils/dist/number": [
+			"transNumToW"
+		]
+	}
+ }

@@ -1,0 +1,96 @@
+[
+  {
+    "name": "@byted-lina/utils-douyin",
+    "version": "0.0.5",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils-douyin",
+    "private": false,
+    "dependencies": {
+      "@byted-growth/zlink-sdk-lynx": {
+        "from": "@byted-growth/zlink-sdk-lynx",
+        "version": "1.2.4",
+        "resolved": "https://bnpm.byted.org/@byted-growth/zlink-sdk-lynx/-/zlink-sdk-lynx-1.2.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-growth+zlink-sdk-lynx@1.2.4/node_modules/@byted-growth/zlink-sdk-lynx"
+      },
+      "@byted-lina/morphling-bridge": {
+        "from": "@byted-lina/morphling-bridge",
+        "version": "link:../morphling-bridge",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-bridge"
+      },
+      "@byted-lina/tracker": {
+        "from": "@byted-lina/tracker",
+        "version": "link:../lina-tracker",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-tracker"
+      },
+      "@byted-lina/utils-ng": {
+        "from": "@byted-lina/utils-ng",
+        "version": "link:../lina-utils-ng",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils-ng"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/morphling-types": {
+        "from": "@byted-lina/morphling-types",
+        "version": "link:../morphling-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "ttypescript": {
+        "from": "ttypescript",
+        "version": "1.5.15",
+        "resolved": "https://bnpm.byted.org/ttypescript/-/ttypescript-1.5.15.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ttypescript@1.5.15_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21__kvdppksqf46x3wjbrxh56abemm/node_modules/ttypescript"
+      },
+      "typedoc": {
+        "from": "typedoc",
+        "version": "0.25.13",
+        "resolved": "https://bnpm.byted.org/typedoc/-/typedoc-0.25.13.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typedoc@0.25.13_typescript@4.9.5/node_modules/typedoc"
+      },
+      "typedoc-plugin-markdown": {
+        "from": "typedoc-plugin-markdown",
+        "version": "3.17.1",
+        "resolved": "https://bnpm.byted.org/typedoc-plugin-markdown/-/typedoc-plugin-markdown-3.17.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typedoc-plugin-markdown@3.17.1_typedoc@0.25.13_typescript@4.9.5_/node_modules/typedoc-plugin-markdown"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      },
+      "url": {
+        "from": "url",
+        "version": "0.11.4",
+        "resolved": "https://bnpm.byted.org/url/-/url-0.11.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/url@0.11.4/node_modules/url"
+      }
+    }
+  }
+]

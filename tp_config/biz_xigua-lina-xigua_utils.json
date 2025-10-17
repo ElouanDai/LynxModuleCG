@@ -1,0 +1,45 @@
+{
+  "name": "@byted-lina/xigua-utils",
+  "version": "0.0.41",
+  "description": "Project created by Eden",
+  "keywords": [
+    "lina",
+    "utils"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "lichunlin.lcl"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "docs"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "build:doc": "typedoc",
+    "prepublish:only": "typedoc",
+    "start": "tsc -w",
+    "test": "TZ=Asia/Shanghai jest",
+    "test:type": "tsc --noemit"
+  },
+  "dependencies": {
+    "@byted-lina/morphling-bridge": "workspace:*",
+    "@byted-lina/utils": "workspace:*"
+  },
+  "devDependencies": {
+    "@byted-lina/hotspot-types": "workspace:*",
+    "@byted-lina/morphling-types": "workspace:*",
+    "@byted-lina/shared-configs": "workspace:*",
+    "@byted-lina/types": "workspace:*",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.4",
+    "typedoc": "^0.25.4",
+    "typedoc-plugin-markdown": "^3.17.1",
+    "typescript": "^4.8.2",
+    "url": "^0.11.0"
+  }
+}

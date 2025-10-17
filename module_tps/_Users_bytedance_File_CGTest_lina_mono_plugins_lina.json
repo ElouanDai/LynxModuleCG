@@ -1,0 +1,248 @@
+[
+  {
+    "name": "@byted-lina/eden-mono-plugin",
+    "version": "1.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/plugins/lina",
+    "private": false,
+    "dependencies": {
+      "@byted-lynx/parser-ttml": {
+        "from": "@byted-lynx/parser-ttml",
+        "version": "2.18.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/parser-ttml/-/parser-ttml-2.18.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+parser-ttml@2.18.2/node_modules/@byted-lynx/parser-ttml"
+      },
+      "@byted-service/fetch": {
+        "from": "@byted-service/fetch",
+        "version": "2.6.5",
+        "resolved": "https://bnpm.byted.org/@byted-service/fetch/-/fetch-2.6.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-service+fetch@2.6.5/node_modules/@byted-service/fetch"
+      },
+      "@byted/eden-mono-config": {
+        "from": "@byted/eden-mono-config",
+        "version": "3.6.1",
+        "resolved": "https://bnpm.byted.org/@byted/eden-mono-config/-/eden-mono-config-3.6.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+eden-mono-config@3.6.1/node_modules/@byted/eden-mono-config"
+      },
+      "@byted/eden-mono-shared": {
+        "from": "@byted/eden-mono-shared",
+        "version": "3.6.1",
+        "resolved": "https://bnpm.byted.org/@byted/eden-mono-shared/-/eden-mono-shared-3.6.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+eden-mono-shared@3.6.1/node_modules/@byted/eden-mono-shared"
+      },
+      "@byted/emo-cloud-utils": {
+        "from": "@byted/emo-cloud-utils",
+        "version": "0.0.5",
+        "resolved": "https://bnpm.byted.org/@byted/emo-cloud-utils/-/emo-cloud-utils-0.0.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+emo-cloud-utils@0.0.5/node_modules/@byted/emo-cloud-utils"
+      },
+      "@byted/lina-works-utils": {
+        "from": "@byted/lina-works-utils",
+        "version": "0.2.2",
+        "resolved": "https://bnpm.byted.org/@byted/lina-works-utils/-/lina-works-utils-0.2.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+lina-works-utils@0.2.2/node_modules/@byted/lina-works-utils"
+      },
+      "@ies/eden-monorepo": {
+        "from": "@ies/eden-monorepo",
+        "version": "3.5.0",
+        "resolved": "https://bnpm.byted.org/@ies/eden-monorepo/-/eden-monorepo-3.5.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+eden-monorepo@3.5.0/node_modules/@ies/eden-monorepo"
+      },
+      "@ies/eden-util": {
+        "from": "@ies/eden-util",
+        "version": "1.2.30",
+        "resolved": "https://bnpm.byted.org/@ies/eden-util/-/eden-util-1.2.30.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+eden-util@1.2.30/node_modules/@ies/eden-util"
+      },
+      "@mocha-data/common-data-tools": {
+        "from": "@mocha-data/common-data-tools",
+        "version": "0.2.61",
+        "resolved": "https://bnpm.byted.org/@mocha-data/common-data-tools/-/common-data-tools-0.2.61.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@mocha-data+common-data-tools@0.2.61/node_modules/@mocha-data/common-data-tools"
+      },
+      "@pnpm/lockfile-file": {
+        "from": "@pnpm/lockfile-file",
+        "version": "4.3.1",
+        "resolved": "https://bnpm.byted.org/@pnpm/lockfile-file/-/lockfile-file-4.3.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@pnpm+lockfile-file@4.3.1_@pnpm+logger@4.0.0/node_modules/@pnpm/lockfile-file"
+      },
+      "@pnpm/logger": {
+        "from": "@pnpm/logger",
+        "version": "4.0.0",
+        "resolved": "https://bnpm.byted.org/@pnpm/logger/-/logger-4.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@pnpm+logger@4.0.0/node_modules/@pnpm/logger"
+      },
+      "@pnpm/prune-lockfile": {
+        "from": "@pnpm/prune-lockfile",
+        "version": "3.0.18",
+        "resolved": "https://bnpm.byted.org/@pnpm/prune-lockfile/-/prune-lockfile-3.0.18.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@pnpm+prune-lockfile@3.0.18/node_modules/@pnpm/prune-lockfile"
+      },
+      "axios": {
+        "from": "axios",
+        "version": "0.25.0",
+        "resolved": "https://bnpm.byted.org/axios/-/axios-0.25.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/axios@0.25.0/node_modules/axios"
+      },
+      "compressing": {
+        "from": "compressing",
+        "version": "1.10.3",
+        "resolved": "https://bnpm.byted.org/compressing/-/compressing-1.10.3.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/compressing@1.10.3/node_modules/compressing"
+      },
+      "diff": {
+        "from": "diff",
+        "version": "5.2.0",
+        "resolved": "https://bnpm.byted.org/diff/-/diff-5.2.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/diff@5.2.0/node_modules/diff"
+      },
+      "enhanced-resolve": {
+        "from": "enhanced-resolve",
+        "version": "5.18.1",
+        "resolved": "https://bnpm.byted.org/enhanced-resolve/-/enhanced-resolve-5.18.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/enhanced-resolve@5.18.1/node_modules/enhanced-resolve"
+      },
+      "enquirer": {
+        "from": "enquirer",
+        "version": "2.4.1",
+        "resolved": "https://bnpm.byted.org/enquirer/-/enquirer-2.4.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/enquirer@2.4.1/node_modules/enquirer"
+      },
+      "fast-glob": {
+        "from": "fast-glob",
+        "version": "3.2.11",
+        "resolved": "https://bnpm.byted.org/fast-glob/-/fast-glob-3.2.11.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/fast-glob@3.2.11/node_modules/fast-glob"
+      },
+      "fs-extra": {
+        "from": "fs-extra",
+        "version": "10.0.0",
+        "resolved": "https://bnpm.byted.org/fs-extra/-/fs-extra-10.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/fs-extra@10.0.0/node_modules/fs-extra"
+      },
+      "js-yaml": {
+        "from": "js-yaml",
+        "version": "4.1.0",
+        "resolved": "https://bnpm.byted.org/js-yaml/-/js-yaml-4.1.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml"
+      },
+      "lodash": {
+        "from": "lodash",
+        "version": "4.17.21",
+        "resolved": "https://bnpm.byted.org/lodash/-/lodash-4.17.21.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash"
+      },
+      "ramda": {
+        "from": "ramda",
+        "version": "0.28.0",
+        "resolved": "https://bnpm.byted.org/ramda/-/ramda-0.28.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ramda@0.28.0/node_modules/ramda"
+      },
+      "semver": {
+        "from": "semver",
+        "version": "7.7.2",
+        "resolved": "https://bnpm.byted.org/semver/-/semver-7.7.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/semver@7.7.2/node_modules/semver"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/check-data-utils": {
+        "from": "@byted-lina/check-data-utils",
+        "version": "link:../../packages/lina/check-data-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/check-data-utils"
+      },
+      "@byted-lina/crystal-scripts": {
+        "from": "@byted-lina/crystal-scripts",
+        "version": "link:../../packages/lina/crystal-scripts",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/crystal-scripts"
+      },
+      "@byted-lina/crystal-types": {
+        "from": "@byted-lina/crystal-types",
+        "version": "link:../../packages/lina/crystal-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/crystal-types"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../../packages/lina/shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@types/fs-extra": {
+        "from": "@types/fs-extra",
+        "version": "9.0.13",
+        "resolved": "https://bnpm.byted.org/@types/fs-extra/-/fs-extra-9.0.13.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+fs-extra@9.0.13/node_modules/@types/fs-extra"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "@types/js-yaml": {
+        "from": "@types/js-yaml",
+        "version": "4.0.9",
+        "resolved": "https://bnpm.byted.org/@types/js-yaml/-/js-yaml-4.0.9.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+js-yaml@4.0.9/node_modules/@types/js-yaml"
+      },
+      "@types/lodash": {
+        "from": "@types/lodash",
+        "version": "4.17.17",
+        "resolved": "https://bnpm.byted.org/@types/lodash/-/lodash-4.17.17.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+lodash@4.17.17/node_modules/@types/lodash"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "17.0.45",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-17.0.45.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@17.0.45/node_modules/@types/node"
+      },
+      "@types/ramda": {
+        "from": "@types/ramda",
+        "version": "0.28.25",
+        "resolved": "https://bnpm.byted.org/@types/ramda/-/ramda-0.28.25.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+ramda@0.28.25/node_modules/@types/ramda"
+      },
+      "@types/semver": {
+        "from": "@types/semver",
+        "version": "7.7.0",
+        "resolved": "https://bnpm.byted.org/@types/semver/-/semver-7.7.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+semver@7.7.0/node_modules/@types/semver"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@17.0.45_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_nlz76eirizb47a7lxt2jgh7vma/node_modules/ts-jest"
+      },
+      "ts-json-schema-generator": {
+        "from": "ts-json-schema-generator",
+        "version": "2.4.0",
+        "resolved": "https://bnpm.byted.org/ts-json-schema-generator/-/ts-json-schema-generator-2.4.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-json-schema-generator@2.4.0/node_modules/ts-json-schema-generator"
+      },
+      "ts-morph": {
+        "from": "ts-morph",
+        "version": "14.0.0",
+        "resolved": "https://bnpm.byted.org/ts-morph/-/ts-morph-14.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-morph@14.0.0/node_modules/ts-morph"
+      },
+      "ts-node": {
+        "from": "ts-node",
+        "version": "10.9.2",
+        "resolved": "https://bnpm.byted.org/ts-node/-/ts-node-10.9.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@17.0.45_typescript@4.9.5/node_modules/ts-node"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

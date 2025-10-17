@@ -1,0 +1,77 @@
+[
+  {
+    "name": "@byted-lina/lina-plugin-build-on-end-callback",
+    "version": "1.1.6",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-plugin-build-on-end-callback",
+    "private": false,
+    "dependencies": {
+      "@byted/eden-mono-shared": {
+        "from": "@byted/eden-mono-shared",
+        "version": "3.6.1",
+        "resolved": "https://bnpm.byted.org/@byted/eden-mono-shared/-/eden-mono-shared-3.6.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+eden-mono-shared@3.6.1/node_modules/@byted/eden-mono-shared"
+      },
+      "json-colorizer": {
+        "from": "json-colorizer",
+        "version": "3.0.1",
+        "resolved": "https://bnpm.byted.org/json-colorizer/-/json-colorizer-3.0.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/json-colorizer@3.0.1/node_modules/json-colorizer"
+      },
+      "socket.io-client": {
+        "from": "socket.io-client",
+        "version": "4.8.1",
+        "resolved": "https://bnpm.byted.org/socket.io-client/-/socket.io-client-4.8.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/socket.io-client@4.8.1/node_modules/socket.io-client"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lynx/lynx-speedy": {
+        "from": "@byted-lynx/lynx-speedy",
+        "version": "2.46.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/lynx-speedy/-/lynx-speedy-2.46.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lynx-speedy@2.46.2_@byted-lynx+speedy-config-preset-env@1.7.1_@byted-lynx+web-run_twdk6qdvhobwvjdc2dzxg4232q/node_modules/@byted-lynx/lynx-speedy"
+      },
+      "@speedy-js/esbuild": {
+        "from": "@speedy-js/esbuild",
+        "version": "0.17.18-lynx.6",
+        "resolved": "https://bnpm.byted.org/@speedy-js/esbuild/-/esbuild-0.17.18-lynx.6.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@speedy-js+esbuild@0.17.18-lynx.6/node_modules/@speedy-js/esbuild"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "18.19.103",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-18.19.103.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@18.19.103/node_modules/@types/node"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@18.19.103_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_yxvhb2kk7yccilszc2jppfnvky/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

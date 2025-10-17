@@ -1,0 +1,87 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:12 GMT",
+	"functions": [
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:33:3:created",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:37:3:detached",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:41:3:attached",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:47:5:getLinaTrackerConfig",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:64:5:handleShow",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:68:5:handleVideoTap",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:75:5:handleStatusChange",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:89:5:handleSorakaCliReport",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:96:5:doPlayVideo",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:107:5:doPauseVideo",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:115:5:handleVideoPlay",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:123:5:handleVideoPause",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:127:5:handleVideoLoading",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:131:5:handleVideoEnded",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:137:5:updateVideoStatus",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:146:5:handleError",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:eden.pipeline.js",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:jest.config.js",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:lina.config.js",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:meta.config.js",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:tailwind.config.js",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:demos/index/index.ts",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/common/constants/index.ts",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/common/types/index.ts",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/common/utils/index.ts",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/types/index.ts",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/utils/index.ts",
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:68:5:handleVideoTap": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:89:5:handleSorakaCliReport": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:96:5:doPlayVideo": [
+			"special:special::triggerEvent",
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:107:5:doPauseVideo": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:115:5:handleVideoPlay": [
+			"special:special::triggerEvent",
+			"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:89:5:handleSorakaCliReport",
+			"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:137:5:updateVideoStatus"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:131:5:handleVideoEnded": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:137:5:updateVideoStatus": [
+			"special:special::setData"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:146:5:handleError": [
+			"special:special::trackerReport",
+			"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:89:5:handleSorakaCliReport"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:127:5:handleVideoLoading": [
+			"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:137:5:updateVideoStatus"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:123:5:handleVideoPause": [
+			"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:137:5:updateVideoStatus"
+		],
+		"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:75:5:handleStatusChange": [
+			"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:107:5:doPauseVideo",
+			"@byted-crystal/xigua-dytrending-video-item@21.0.2:src/components/index/index.ts:96:5:doPlayVideo"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-lina/hotspot-lepus-utils": [
+			"transformAuthor",
+			"getVideoInittime",
+			"showContinueLabel"
+		]
+	}
+ }

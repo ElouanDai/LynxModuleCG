@@ -1,0 +1,72 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:16 GMT",
+	"functions": [
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:70:3:attached",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:73:3:detached",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:77:5:getLinaTrackerConfig",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:82:5:handlePromptTap",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:99:11:<anonymous>",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:108:5:handleBtnTap",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:125:11:<anonymous>",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:135:5:handleDownloadTipsTap",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:175:5:handleDownloadCancelTap",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:195:5:onExposure",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:196:22:<anonymous>",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:213:5:reportGuideState",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:229:16:<anonymous>",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/utils/index.lepus.js:2:8:getPrompts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:eden.pipeline.js",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:jest.config.js",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:lina.config.js",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:meta.config.js",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:tailwind.config.js",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:demos/index/index.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/common/constants/index.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/common/types/index.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/common/utils/index.lepus.js",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/common/utils/index.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/types/index.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/utils/index.ts",
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:82:5:handlePromptTap": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:108:5:handleBtnTap": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:135:5:handleDownloadTipsTap": [
+			"special:special::getTrackerParams",
+			"special:special::trackerReport",
+			"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:213:5:reportGuideState"
+		],
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:175:5:handleDownloadCancelTap": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:213:5:reportGuideState"
+		],
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:196:22:<anonymous>": [
+			"special:special::trackerReport",
+			"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:213:5:reportGuideState"
+		],
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts:213:5:reportGuideState": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/index.ts": [
+			"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/douyin-gaokao-ai-zhushou@2.3.2:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

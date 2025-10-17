@@ -1,0 +1,215 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:20 GMT",
+	"functions": [
+		"@byted-crystal/dytrending-aggregation@2.0.20:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:36:7:observer",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:51:3:created",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:55:3:attached",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:56:16:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:62:3:detached",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:67:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:73:5:handleShow",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:98:5:getSubResultLogParams",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:114:5:handleTapMore",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:125:5:loadMore",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:159:57:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:160:59:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:166:50:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:167:58:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:185:5:resolveInitialIsLoading",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:191:5:initAwemeList",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:202:5:appendAwemeList",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:210:5:handleTapItem",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:222:5:handleTapHotspotInfo",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:252:5:openVideoDetail",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:255:46:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:289:55:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:342:5:handleNodeAppear",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:365:5:parseHotspotParams",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:400:5:parseIsChallengeTrending",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:34:3:created",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:38:3:detached",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:42:3:attached",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:49:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:65:5:handleShow",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:69:5:handleVideoTap",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:76:5:handleHotspotInfoTap",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:84:5:handleStatusChange",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:98:5:handleSorakaCliReport",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:105:5:doPlayVideo",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:113:5:doPauseVideo",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:121:5:handleVideoPlay",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:126:5:handleVideoPause",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:130:5:handleVideoLoading",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:134:5:updateVideoStatus",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:143:5:handleVideoEnded",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:149:5:handleError",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/utils/index.lepus.js:7:1:resolveVerify",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/utils/index.lepus.js:21:8:transformAuthor",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/utils/index.lepus.js:29:8:getBoardIcon",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/utils/index.lepus.js:54:8:getBoardTitle",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/utils/index.lepus.js:63:8:getVideoHeight",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.lepus.js:7:8:getLogExtra",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.lepus.js:69:8:getObjectFit",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.lepus.js:76:8:getAwemeIndex",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:11:1:resolveItemType",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:22:1:convertColor",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:34:1:parseAwemeRawData",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:72:8:getHorizontalAwemeList",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:75:10:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:82:13:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:86:10:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:87:49:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:130:8:getOpenSearchVideoDetailExtraParams",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/index.ts:27:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/index.ts:33:5:onClickFeedback",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dytrending-aggregation@2.0.20:eden.pipeline.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:jest.config.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:lina.config.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:meta.config.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:tailwind.config.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:demos/index/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/common/constants/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/common/types/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/common/utils/index.lepus.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/common/utils/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/loading/icons.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/loading/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/loading/types/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/types/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/utils/index.lepus.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/utils/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/types/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.lepus.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/types/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/utils/index.ts",
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:73:5:handleShow": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:365:5:parseHotspotParams",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:98:5:getSubResultLogParams"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:125:5:loadMore": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:202:5:appendAwemeList",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:72:8:getHorizontalAwemeList"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:191:5:initAwemeList": [
+			"special:special::setData",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:185:5:resolveInitialIsLoading"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:202:5:appendAwemeList": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:222:5:handleTapHotspotInfo": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:98:5:getSubResultLogParams",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:400:5:parseIsChallengeTrending"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:252:5:openVideoDetail": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:400:5:parseIsChallengeTrending",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:98:5:getSubResultLogParams",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:365:5:parseHotspotParams",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts:130:8:getOpenSearchVideoDetailExtraParams"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:342:5:handleNodeAppear": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:400:5:parseIsChallengeTrending",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:98:5:getSubResultLogParams"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:365:5:parseHotspotParams": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:69:5:handleVideoTap": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:76:5:handleHotspotInfoTap": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:98:5:handleSorakaCliReport": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:105:5:doPlayVideo": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:113:5:doPauseVideo": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:134:5:updateVideoStatus": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:143:5:handleVideoEnded": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:149:5:handleError": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:98:5:handleSorakaCliReport"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/index.ts:33:5:onClickFeedback": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:130:5:handleVideoLoading": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:134:5:updateVideoStatus"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:126:5:handleVideoPause": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:134:5:updateVideoStatus"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:121:5:handleVideoPlay": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:98:5:handleSorakaCliReport",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:134:5:updateVideoStatus"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:84:5:handleStatusChange": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:113:5:doPauseVideo",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/index.ts:105:5:doPlayVideo"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:210:5:handleTapItem": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:252:5:openVideoDetail"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:114:5:handleTapMore": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:252:5:openVideoDetail"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:98:5:getSubResultLogParams": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts:365:5:parseHotspotParams"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/index.ts": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/types/index.ts",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/loading/index.ts": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/loading/icons.ts"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/loading/types/index.ts": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/loading/icons.ts"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/components/video-item/types/index.ts": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/types/index.ts": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/horizontal-video/utils/index.ts": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/index.ts": [
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dytrending-aggregation@2.0.20:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

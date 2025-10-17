@@ -1,0 +1,45 @@
+{
+  "name": "@byted-lina/speedy-compress-image-plugin",
+  "version": "1.0.4",
+  "description": "a speedy plugin for compress image",
+  "keywords": [],
+  "license": "ISC",
+  "maintainers": [
+    "linweixuan.599",
+    "chenjiawei.cjw",
+    "zhusichao"
+  ],
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "watch": "npm run dev"
+  },
+  "dependencies": {
+    "@byted-service/env": "1.11.1",
+    "@byted/uploader_v5": "^4.0.0",
+    "axios": "0.24.0",
+    "chalk": "4.1.2",
+    "fast-glob": "3.2.11",
+    "fs-extra": "10.0.0",
+    "imagemin": "7.0.1",
+    "imagemin-jpegtran": "7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "p-queue": "6.6.2",
+    "signale": "1.4.0"
+  },
+  "devDependencies": {
+    "@byted-lynx/lynx-speedy": "3.5.7",
+    "@types/fs-extra": "11.0.4",
+    "@types/imagemin": "9.0.1",
+    "@types/node": "^22",
+    "@types/signale": "^1.4.7",
+    "typescript": "^4.5.2"
+  }
+}

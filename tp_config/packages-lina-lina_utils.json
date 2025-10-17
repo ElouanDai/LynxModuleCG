@@ -1,0 +1,54 @@
+{
+  "name": "@byted-lina/utils",
+  "version": "26.0.0",
+  "description": "Project created by Eden",
+  "keywords": [
+    "lina",
+    "utils"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "yanhongwei",
+    "zhusichao"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "docs"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "build:doc": "typedoc",
+    "prepublish:only": "typedoc",
+    "start": "tsc -w",
+    "test": "TZ=Asia/Shanghai jest",
+    "test:type": "tsc --noemit"
+  },
+  "dependencies": {
+    "@byted-btm/hybrid": "1.2.4",
+    "@byted-growth/zlink-sdk-lynx": "1.2.4",
+    "@byted-life/confirm-order-direct-show": "0.1.7",
+    "@byted-lina/lina-mixin-entity": "workspace:*",
+    "@byted-lina/morphling-bridge": "workspace:*",
+    "@byted-lina/tracker": "workspace:*",
+    "@byted-poi/biz": "^4.1.14",
+    "@byted-poi/btm-sdk": "2.1.3",
+    "@byted/tma_schema_codec": "^4.0.2"
+  },
+  "devDependencies": {
+    "@bridge/life": "latest",
+    "@byted-lina/morphling-types": "workspace:*",
+    "@byted-lina/shared-configs": "workspace:*",
+    "@byted-lina/types": "workspace:*",
+    "@byted-poi/tracker": "latest",
+    "@types/jest": "^27.0.1",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typedoc": "^0.25.4",
+    "typedoc-plugin-markdown": "^3.17.1",
+    "typescript": "^4.8.2",
+    "url": "^0.11.0"
+  }
+}

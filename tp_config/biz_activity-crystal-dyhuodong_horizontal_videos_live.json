@@ -1,0 +1,58 @@
+{
+  "name": "@byted-crystal/dyhuodong-horizontal-videos-live",
+  "version": "19.0.2",
+  "description": "活动横滑组件",
+  "license": "ISC",
+  "maintainers": [
+    "xushujun.sunny bianyingchun"
+  ],
+  "exports": {
+    "./dist/*": "./dist/components/index/*",
+    ".": "./src/components/index/index",
+    "./lepus": "./src/components/index/utils/index.lepus.js"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "scripts": {
+    "build": "exit 0",
+    "build:demo": "lina build --demo",
+    "build:h5": "CUSTOM_BUILD_DSL=Lynx2web lina build -o ./dist/web",
+    "prepublish:only": "lcb build -s src/components -o dist/components && npm run build:h5",
+    "start:demo": "lina start --demo",
+    "start:h5": "CUSTOM_BUILD_DSL=Lynx2web lina start",
+    "test": "exit 0 && npm run build:demo && jest",
+    "test:type": "tsc --noemit",
+    "test:update": "npm run build:demo && jest -u"
+  },
+  "dependencies": {
+    "@byted-crystal-atom/horizontal-v2": "workspace:*",
+    "@byted-so-design/dyhuodong-standard-title": "workspace:*"
+  },
+  "devDependencies": {
+    "@byted-lina/cli": "workspace:*",
+    "@byted-lina/component-build": "workspace:*",
+    "@byted-lina/crystal-scripts": "workspace:*",
+    "@byted-lina/lepus-utils": "workspace:*",
+    "@byted-lina/lina-config-douyin-search": "workspace:*",
+    "@byted-lina/morphling-bridge": "workspace:*",
+    "@byted-lina/morphling-icons": "workspace:*",
+    "@byted-lina/morphling-types": "workspace:*",
+    "@byted-lina/runtime": "workspace:*",
+    "@byted-lina/shared-configs": "workspace:*",
+    "@byted-lina/types": "workspace:*",
+    "@byted-lina/utils": "workspace:*",
+    "@byted-lynx/testing": "alpha",
+    "@byted-lynx/testing-utils": "^0.2.2",
+    "@ies/aweme-color-theme": "^0.1.21",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^18.11.17",
+    "jest": "^27.4.5",
+    "tailwindcss": "2.2.19",
+    "ts-jest": "^27.1.2",
+    "tslib": "^2.4.0",
+    "typescript": "^4.5.2"
+  },
+  "preview-url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/fuubzeh7ubqbozbe/e4982ee5-3eee-45fa-82a3-55ff0d72f98e.jpeg"
+}

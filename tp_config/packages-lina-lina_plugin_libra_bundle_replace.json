@@ -1,0 +1,38 @@
+{
+  "name": "@byted-lina/lina-plugin-libra-bundle-rename",
+  "version": "2.0.1",
+  "description": "libra-bundle-rename",
+  "keywords": [
+    "lina",
+    "plugin",
+    "libra-bundle-rename"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "zhusichao"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "start": "tsc -w"
+  },
+  "dependencies": {
+    "fast-glob": "~3.3.3",
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@byted-lina/shared-configs": "workspace:*",
+    "@byted-lynx/lynx-speedy": "2.39.2",
+    "@types/fs-extra": "^9.0.13",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^18.0.6",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.5.2"
+  }
+}

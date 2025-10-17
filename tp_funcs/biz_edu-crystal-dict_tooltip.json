@@ -1,0 +1,97 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:16 GMT",
+	"functions": [
+		"@byted-crystal/dict-tooltip@2.0.3:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:31:7:observer",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:55:3:attached",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:56:3:attached:WEB",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:61:16:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:70:3:detached",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:71:3:detached:WEB",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:84:5:isInPopper",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:98:5:handleClose",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:101:18:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:108:15:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:113:5:handleClickPopper",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:141:5:handleClickPopper:WEB",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:151:20:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:164:20:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:180:5:calculatePointAndPopX",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:210:5:calculatePointAndPopY",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:224:5:calculateAllPositions",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:244:9:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:245:22:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:254:5:startCalculate",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:255:37:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:265:11:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:271:5:handleScroll",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:272:5:handleScroll:WEB",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:275:5:handleClickAway",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:276:5:handleClickAway:WEB",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:282:5:getLinaTrackerConfig",
+		"@byted-crystal/dict-tooltip@2.0.3:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dict-tooltip@2.0.3:eden.pipeline.js",
+		"@byted-crystal/dict-tooltip@2.0.3:jest.config.js",
+		"@byted-crystal/dict-tooltip@2.0.3:lina.config.js",
+		"@byted-crystal/dict-tooltip@2.0.3:meta.config.js",
+		"@byted-crystal/dict-tooltip@2.0.3:tailwind.config.js",
+		"@byted-crystal/dict-tooltip@2.0.3:demos/index/index.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/common/constants/index.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/common/types/index.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/common/utils/index.lepus.js",
+		"@byted-crystal/dict-tooltip@2.0.3:src/common/utils/index.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/types/index.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/utils/index.ts",
+		"@byted-crystal/dict-tooltip@2.0.3:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:31:7:observer": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:101:18:<anonymous>": [
+			"special:special::triggerEvent",
+			"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:84:5:isInPopper"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:113:5:handleClickPopper": [
+			"special:special::trackerReport",
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:141:5:handleClickPopper:WEB": [
+			"special:special::trackerReport",
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:245:22:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:224:5:calculateAllPositions": [
+			"special:special::setData",
+			"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:210:5:calculatePointAndPopY",
+			"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:180:5:calculatePointAndPopX"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:255:37:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:272:5:handleScroll:WEB": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:276:5:handleClickAway:WEB": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:265:11:<anonymous>": [
+			"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts:224:5:calculateAllPositions"
+		],
+		"@byted-crystal/dict-tooltip@2.0.3:src/components/index/index.ts": [
+			"@byted-crystal/dict-tooltip@2.0.3:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dict-tooltip@2.0.3:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

@@ -1,0 +1,236 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:29 GMT",
+	"functions": [
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts:6:8:Barrier",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts:13:33:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts:18:3:isOpen",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts:22:3:open",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts:27:3:wait",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:48:7:observer",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:64:3:created",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:70:3:attached",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:75:3:detached",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:81:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:89:5:loadMore",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:126:52:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:127:59:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:148:5:initAwemeList",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:154:5:appendAwemeList",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:160:30:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:177:5:handleTapItem",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:239:5:openSearchVideoDetail",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:246:41:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:283:59:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:328:5:hotSpotBroadcast",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:346:9:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:352:5:handlePageScrollShow",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:361:5:handleShow",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:388:5:parseHotspotParams",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.lepus.js:1:8:getLogExtra",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.lepus.js:49:8:getItemDesc",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.lepus.js:73:8:isAwemeType",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:10:1:resolveItemType",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:21:1:convertColor",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:33:1:parseAwemeRawData",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:64:8:getHorizontalAwemeList",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:67:10:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:74:13:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:78:10:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:79:49:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:108:8:getOpenSearchVideoDetailExtraParams",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:43:7:observer",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:58:3:created",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:63:3:attached",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:65:16:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:70:3:detached",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:75:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:82:5:handleShow",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:90:5:handleTapMore",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:98:5:handleScrollToActive",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:109:5:loadMore",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:145:57:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:146:59:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:152:50:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:153:58:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:171:5:resolveInitialIsLoading",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:178:5:initAwemeList",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:189:5:appendAwemeList",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:197:5:handleTapItem",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:209:5:openVideoDetail",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:213:46:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:249:55:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:294:5:hotSpotBroadcast",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:312:9:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:318:5:handleNodeAppear",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:337:5:parseHotspotParams",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.lepus.js:7:8:getLogExtra",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.lepus.js:55:8:getObjectFit",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.lepus.js:64:8:getAwemeList",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:11:1:resolveItemType",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:25:1:convertColor",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:37:1:parseAwemeRawData",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:75:8:getHorizontalAwemeList",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:78:10:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:85:13:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:89:10:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:90:49:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:133:8:getOpenSearchVideoDetailExtraParams",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:61:3:created",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:65:3:attached",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:69:3:detached",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:74:5:handleShow",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:88:5:handleTapListInfo",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:92:5:openHotspotDetail",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:101:5:onClickFeedback",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:105:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:111:41:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/utils/index.lepus.js:5:8:getFeedbackTop",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dytrending-miniview@31.0.4:eden.pipeline.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:jest.config.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:lina.config.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:meta.config.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:tailwind.config.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:demos/index/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/constants/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/types/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/types/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.lepus.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/components/loading/icons.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/components/loading/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/components/loading/types/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/types/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.lepus.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/utils/index.ts",
+		"@byted-crystal/dytrending-miniview@31.0.4:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:89:5:loadMore": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:154:5:appendAwemeList",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:64:8:getHorizontalAwemeList"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:177:5:handleTapItem": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:239:5:openSearchVideoDetail"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:239:5:openSearchVideoDetail": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:388:5:parseHotspotParams",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts:108:8:getOpenSearchVideoDetailExtraParams"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:361:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:388:5:parseHotspotParams": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:109:5:loadMore": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:189:5:appendAwemeList",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:75:8:getHorizontalAwemeList"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:178:5:initAwemeList": [
+			"special:special::setData",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:171:5:resolveInitialIsLoading"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:189:5:appendAwemeList": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:209:5:openVideoDetail": [
+			"special:special::trackerReport",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:337:5:parseHotspotParams",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts:133:8:getOpenSearchVideoDetailExtraParams"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:318:5:handleNodeAppear": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:337:5:parseHotspotParams": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:74:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:88:5:handleTapListInfo": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:92:5:openHotspotDetail": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts:101:5:onClickFeedback": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:197:5:handleTapItem": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:209:5:openVideoDetail"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:90:5:handleTapMore": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:209:5:openVideoDetail"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:82:5:handleShow": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:294:5:hotSpotBroadcast"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:352:5:handlePageScrollShow": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:328:5:hotSpotBroadcast"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts:58:3:created": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts:6:8:Barrier"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts:64:3:created": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts:6:8:Barrier"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/types/index.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/types/index.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/types/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/common/types/index.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/content-item/utils/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/common/utils/barrier.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts",
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/components/loading/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/components/loading/icons.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/components/loading/types/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/components/loading/icons.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/types/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/horizontal-video/utils/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts"
+		],
+		"@byted-crystal/dytrending-miniview@31.0.4:src/components/index/types/index.ts": [
+			"@byted-crystal/dytrending-miniview@31.0.4:src/common/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

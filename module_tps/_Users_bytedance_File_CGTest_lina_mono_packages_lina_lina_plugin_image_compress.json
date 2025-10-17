@@ -1,0 +1,114 @@
+[
+  {
+    "name": "@byted-lina/speedy-compress-image-plugin",
+    "version": "1.0.4",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-plugin-image-compress",
+    "private": false,
+    "dependencies": {
+      "@byted-service/env": {
+        "from": "@byted-service/env",
+        "version": "1.11.1",
+        "resolved": "https://bnpm.byted.org/@byted-service/env/-/env-1.11.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-service+env@1.11.1/node_modules/@byted-service/env"
+      },
+      "@byted/uploader_v5": {
+        "from": "@byted/uploader_v5",
+        "version": "4.0.8",
+        "resolved": "https://bnpm.byted.org/@byted/uploader_v5/-/uploader_v5-4.0.8.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted+uploader_v5@4.0.8_webpack@5.99.9_@swc+core@1.13.5_@swc+helpers@0.5.17__/node_modules/@byted/uploader_v5"
+      },
+      "axios": {
+        "from": "axios",
+        "version": "0.24.0",
+        "resolved": "https://bnpm.byted.org/axios/-/axios-0.24.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/axios@0.24.0/node_modules/axios"
+      },
+      "chalk": {
+        "from": "chalk",
+        "version": "4.1.2",
+        "resolved": "https://bnpm.byted.org/chalk/-/chalk-4.1.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/chalk@4.1.2/node_modules/chalk"
+      },
+      "fast-glob": {
+        "from": "fast-glob",
+        "version": "3.2.11",
+        "resolved": "https://bnpm.byted.org/fast-glob/-/fast-glob-3.2.11.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/fast-glob@3.2.11/node_modules/fast-glob"
+      },
+      "fs-extra": {
+        "from": "fs-extra",
+        "version": "10.0.0",
+        "resolved": "https://bnpm.byted.org/fs-extra/-/fs-extra-10.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/fs-extra@10.0.0/node_modules/fs-extra"
+      },
+      "imagemin": {
+        "from": "imagemin",
+        "version": "7.0.1",
+        "resolved": "https://bnpm.byted.org/imagemin/-/imagemin-7.0.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/imagemin@7.0.1/node_modules/imagemin"
+      },
+      "imagemin-jpegtran": {
+        "from": "imagemin-jpegtran",
+        "version": "7.0.0",
+        "resolved": "https://bnpm.byted.org/imagemin-jpegtran/-/imagemin-jpegtran-7.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/imagemin-jpegtran@7.0.0/node_modules/imagemin-jpegtran"
+      },
+      "imagemin-pngquant": {
+        "from": "imagemin-pngquant",
+        "version": "9.0.2",
+        "resolved": "https://bnpm.byted.org/imagemin-pngquant/-/imagemin-pngquant-9.0.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/imagemin-pngquant@9.0.2/node_modules/imagemin-pngquant"
+      },
+      "p-queue": {
+        "from": "p-queue",
+        "version": "6.6.2",
+        "resolved": "https://bnpm.byted.org/p-queue/-/p-queue-6.6.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/p-queue@6.6.2/node_modules/p-queue"
+      },
+      "signale": {
+        "from": "signale",
+        "version": "1.4.0",
+        "resolved": "https://bnpm.byted.org/signale/-/signale-1.4.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/signale@1.4.0/node_modules/signale"
+      }
+    },
+    "devDependencies": {
+      "@byted-lynx/lynx-speedy": {
+        "from": "@byted-lynx/lynx-speedy",
+        "version": "3.5.7",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/lynx-speedy/-/lynx-speedy-3.5.7.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lynx-speedy@3.5.7_@byted-lynx+speedy-config-preset-env@1.7.1_tslib@2.8.1_typescript@4.9.5/node_modules/@byted-lynx/lynx-speedy"
+      },
+      "@types/fs-extra": {
+        "from": "@types/fs-extra",
+        "version": "11.0.4",
+        "resolved": "https://bnpm.byted.org/@types/fs-extra/-/fs-extra-11.0.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+fs-extra@11.0.4/node_modules/@types/fs-extra"
+      },
+      "@types/imagemin": {
+        "from": "@types/imagemin",
+        "version": "9.0.1",
+        "resolved": "https://bnpm.byted.org/@types/imagemin/-/imagemin-9.0.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+imagemin@9.0.1/node_modules/@types/imagemin"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "22.15.21",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-22.15.21.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@22.15.21/node_modules/@types/node"
+      },
+      "@types/signale": {
+        "from": "@types/signale",
+        "version": "1.4.7",
+        "resolved": "https://bnpm.byted.org/@types/signale/-/signale-1.4.7.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+signale@1.4.7/node_modules/@types/signale"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

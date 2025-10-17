@@ -1,0 +1,147 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:54 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:34:3:attached",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:42:22:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:47:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:52:5:checkData",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:63:5:handleShow",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:72:5:updateTabListData",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:79:52:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:81:41:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:88:5:handleTabChange",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:111:5:handleViewMore",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:131:5:handlePlayletClick",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:158:5:scrollTo",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:162:9:success",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:163:9:fail",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:7:8:formatPlayCnt",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:24:8:isDarkMode",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:29:8:getMoreBtnCfg",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:46:8:getTagStyleConfig",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:64:8:getItemStyle",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:79:8:generateRows",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:96:8:getItemsIndexMap",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:101:1:getPlayletDesc",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:111:8:formatPlayletItem",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:126:8:isPlayletItemReady",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js:11:8:processRawData",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js:33:51:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js:36:46:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js:38:12:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js:41:15:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:17:1:preloadPlayletImages",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:23:15:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:24:12:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:31:55:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:44:8:getTabListData",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:51:39:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:62:11:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:66:41:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:89:8:isTabListDataReady",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:93:24:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:96:8:getLogBaseParams",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:jest.config.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:lina.config.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:meta.config.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:tailwind.config.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/components/playlet-item/index.lepus.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/components/playlet-item/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:34:3:attached": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:52:5:checkData": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:63:5:handleShow": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:96:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:79:52:<anonymous>": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:81:41:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:88:5:handleTabChange": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:72:5:updateTabListData",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:158:5:scrollTo",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:96:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:111:5:handleViewMore": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:96:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:131:5:handlePlayletClick": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:96:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:72:5:updateTabListData": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:89:8:isTabListDataReady",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:44:8:getTabListData"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:93:24:<anonymous>": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:126:8:isPlayletItemReady"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:66:41:<anonymous>": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:111:8:formatPlayletItem"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js:38:12:<anonymous>": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:111:8:formatPlayletItem"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js:11:8:processRawData": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:79:8:generateRows",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:29:8:getMoreBtnCfg",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js:24:8:isDarkMode"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:62:11:<anonymous>": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts:79:52:<anonymous>",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:66:41:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:89:8:isTabListDataReady": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:93:24:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:44:8:getTabListData": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts:51:39:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/types/index.ts",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.lepus.js": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js"
+		],
+		"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/index.ts": [
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/types/index.ts",
+			"@byted-crystal/dyhuodong-playlet-combine@1.0.9:src/components/index/utils/custom.lepus.js"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./custom.lepus": [
+			"getItemStyle",
+			"getItemsIndexMap",
+			"isPlayletItemReady"
+		]
+	}
+ }

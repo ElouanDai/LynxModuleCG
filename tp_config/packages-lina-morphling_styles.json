@@ -1,0 +1,17 @@
+{
+  "name": "@byted-lina/morphling-styles",
+  "version": "1.0.2",
+  "maintainers": [
+    "qiuyanfeng"
+  ],
+  "scripts": {
+    "build": "exit 0",
+    "build:watch": "exit 0",
+    "start": "exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@edenx/module-tools": "1.56.2"
+  },
+  "peerDependencies": {}
+}

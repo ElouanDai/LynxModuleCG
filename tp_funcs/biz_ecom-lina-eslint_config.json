@@ -1,0 +1,14 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:14 GMT",
+	"functions": [
+		"@byted-lina/eslint-config-ecom@2.0.12:eden.pipeline.js",
+		"@byted-lina/eslint-config-ecom@2.0.12:config/typescript.js"
+	],
+	"fun2fun": {
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}}

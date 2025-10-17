@@ -1,0 +1,122 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:13 GMT",
+	"functions": [
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:demos/test/index.ts:24:5:handlePropsChange",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:35:3:attached",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:40:5:getLinaTrackerConfig",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:61:5:trackerReportWithFilter",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:83:5:handleUpdateSessionId",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:96:29:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:137:5:getSearchParams",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:173:5:openVideoDetail",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:212:5:handleTapVideoCtrl",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:231:5:doPlayVideo",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:249:9:success",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:250:9:fail",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:256:5:doPauseVideo",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:276:9:success",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:277:9:fail",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:283:31:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:292:32:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:301:5:handleVideoLoading",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:315:5:handleVideoEnded",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:320:5:updateVideoStatus",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:338:5:handleError",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:349:5:handlePreviewEnd",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:350:44:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:362:5:handleTimeupdate",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:364:44:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:368:5:handleCountDownUpdate",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/types/index.ts:4:1$200:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/types/index.ts:222:1$229:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/utils/index.lepus.js:3:8:getTagStyle",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/utils/index.lepus.js:13:8:getBottomDisplayConfig",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/utils/index.lepus.js:32:8:getLogExtra",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:eden.pipeline.js",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:jest.config.js",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:lina.config.js",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:meta.config.js",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:tailwind.config.js",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:demos/index/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:demos/test/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/common/constants/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/common/types/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/common/utils/douyin-mixins.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/common/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/common/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/icon.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/types/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/utils/index.lepus.js",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/utils/index.ts",
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:demos/test/index.ts:24:5:handlePropsChange": [
+			"special:special::setData"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:61:5:trackerReportWithFilter": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:83:5:handleUpdateSessionId": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:96:29:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:137:5:getSearchParams": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:231:5:doPlayVideo": [
+			"special:special::triggerEvent",
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:61:5:trackerReportWithFilter"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:283:31:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:292:32:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:315:5:handleVideoEnded": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:320:5:updateVideoStatus": [
+			"special:special::triggerEvent",
+			"special:special::setData"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:338:5:handleError": [
+			"special:special::trackerReport"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:349:5:handlePreviewEnd": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:368:5:handleCountDownUpdate": [
+			"special:special::triggerEvent"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:301:5:handleVideoLoading": [
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:320:5:updateVideoStatus"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:256:5:doPauseVideo": [
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:61:5:trackerReportWithFilter"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:212:5:handleTapVideoCtrl": [
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:231:5:doPlayVideo",
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts:256:5:doPauseVideo"
+		],
+		"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/index.ts": [
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/common/utils/douyin-mixins.ts",
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/icon.ts",
+			"@byted-so-design/xigua-horizontal-charge-video-item@2.1.15:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-so-design/video-tag/lepus": [
+			"getVideoLabel"
+		]
+	}
+ }

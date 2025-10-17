@@ -1,0 +1,24 @@
+{
+  "name": "@byted-lina/eslint-config",
+  "version": "0.0.8",
+  "description": "An eslint config for lina-mono",
+  "license": "ISC",
+  "maintainers": [
+    "zhaohaonan",
+    "linweixuan.599"
+  ],
+  "exports": {
+    "./js": "./config/javascript.js",
+    "./lepus": "./config/lepus.js",
+    "./style": "./config/style.js",
+    "./ts": "./config/typescript.js",
+    "./ttml": "./config/ttml.js",
+    "./json": "./config/json.js",
+    "./config": "./config/config.js",
+    "./msite": "./config/msite.js"
+  },
+  "main": "./config/javascript.js",
+  "files": [
+    "config"
+  ]
+}

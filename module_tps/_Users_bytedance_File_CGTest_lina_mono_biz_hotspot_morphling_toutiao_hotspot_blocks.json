@@ -1,0 +1,244 @@
+[
+  {
+    "name": "@byted-morphling/toutiao_hotspot_blocks",
+    "version": "1.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/morphling/toutiao_hotspot_blocks",
+    "private": true,
+    "dependencies": {
+      "@arco-design/toutiao-color-theme": {
+        "from": "@arco-design/toutiao-color-theme",
+        "version": "0.0.8",
+        "resolved": "https://bnpm.byted.org/@arco-design/toutiao-color-theme/-/toutiao-color-theme-0.0.8.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@arco-design+toutiao-color-theme@0.0.8/node_modules/@arco-design/toutiao-color-theme"
+      },
+      "@byted-amos/common-types": {
+        "from": "@byted-amos/common-types",
+        "version": "0.0.0-feature-publish-feed-cards-20240605125035",
+        "resolved": "https://bnpm.byted.org/@byted-amos/common-types/-/common-types-0.0.0-feature-publish-feed-cards-20240605125035.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+common-types@0.0.0-feature-publish-feed-cards-20240605125035_@types+react@19.1.5_react@18.3.1/node_modules/@byted-amos/common-types"
+      },
+      "@byted-amos/hot-rio-page-common": {
+        "from": "@byted-amos/hot-rio-page-common",
+        "version": "0.0.0-feat-feed-cards-publish-20240724123017",
+        "resolved": "https://bnpm.byted.org/@byted-amos/hot-rio-page-common/-/hot-rio-page-common-0.0.0-feat-feed-cards-publish-20240724123017.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+hot-rio-page-common@0.0.0-feat-feed-cards-publish-20240724123017_@babel+core@7.28_d7qivbyti5daxtwd72izscxeka/node_modules/@byted-amos/hot-rio-page-common"
+      },
+      "@byted-amos/lynx-alm-blocks": {
+        "from": "@byted-amos/lynx-alm-blocks",
+        "version": "0.0.0-feat-feed-cards-publish-20240724123017",
+        "resolved": "https://bnpm.byted.org/@byted-amos/lynx-alm-blocks/-/lynx-alm-blocks-0.0.0-feat-feed-cards-publish-20240724123017.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+lynx-alm-blocks@0.0.0-feat-feed-cards-publish-20240724123017_@babel+core@7.28.4_@_hvu4putwkljcgfp67d63rft5va/node_modules/@byted-amos/lynx-alm-blocks"
+      },
+      "@byted-amos/lynx-alm-common-types": {
+        "from": "@byted-amos/lynx-alm-common-types",
+        "version": "0.0.0-feature-publish-feed-cards-20240605125035",
+        "resolved": "https://bnpm.byted.org/@byted-amos/lynx-alm-common-types/-/lynx-alm-common-types-0.0.0-feature-publish-feed-cards-20240605125035.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+lynx-alm-common-types@0.0.0-feature-publish-feed-cards-20240605125035_react@18.3.1/node_modules/@byted-amos/lynx-alm-common-types"
+      },
+      "@byted-amos/lynx-alm-components": {
+        "from": "@byted-amos/lynx-alm-components",
+        "version": "0.0.0-feat-feed-cards-publish-20240724123017",
+        "resolved": "https://bnpm.byted.org/@byted-amos/lynx-alm-components/-/lynx-alm-components-0.0.0-feat-feed-cards-publish-20240724123017.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+lynx-alm-components@0.0.0-feat-feed-cards-publish-20240724123017_@babel+core@7.28_lvtka4tk2kblqfvxe6nhcmy34i/node_modules/@byted-amos/lynx-alm-components"
+      },
+      "@byted-amos/lynx-alm-feed-cards": {
+        "from": "@byted-amos/lynx-alm-feed-cards",
+        "version": "0.0.0-feat-feed-cards-publish-20240724123017",
+        "resolved": "https://bnpm.byted.org/@byted-amos/lynx-alm-feed-cards/-/lynx-alm-feed-cards-0.0.0-feat-feed-cards-publish-20240724123017.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+lynx-alm-feed-cards@0.0.0-feat-feed-cards-publish-20240724123017_@babel+core@7.28_4qril7g5refb7zp3r4qpucraza/node_modules/@byted-amos/lynx-alm-feed-cards"
+      },
+      "@byted-amos/lynx-alm-lepus": {
+        "from": "@byted-amos/lynx-alm-lepus",
+        "version": "0.0.0-feat-feed-cards-publish-20240724123017",
+        "resolved": "https://bnpm.byted.org/@byted-amos/lynx-alm-lepus/-/lynx-alm-lepus-0.0.0-feat-feed-cards-publish-20240724123017.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+lynx-alm-lepus@0.0.0-feat-feed-cards-publish-20240724123017_@types+react@19.1.5_react@18.3.1/node_modules/@byted-amos/lynx-alm-lepus"
+      },
+      "@byted-amos/lynx-alm-list-render-base": {
+        "from": "@byted-amos/lynx-alm-list-render-base",
+        "version": "0.0.0-feat-feed-cards-publish-20240724123017",
+        "resolved": "https://bnpm.byted.org/@byted-amos/lynx-alm-list-render-base/-/lynx-alm-list-render-base-0.0.0-feat-feed-cards-publish-20240724123017.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+lynx-alm-list-render-base@0.0.0-feat-feed-cards-publish-20240724123017_@babel+cor_izgf5u73cr3ktqgl5yc2mxgqzy/node_modules/@byted-amos/lynx-alm-list-render-base"
+      },
+      "@byted-amos/lynx-alm-utils": {
+        "from": "@byted-amos/lynx-alm-utils",
+        "version": "0.0.0-feat-feed-cards-publish-20240724123017",
+        "resolved": "https://bnpm.byted.org/@byted-amos/lynx-alm-utils/-/lynx-alm-utils-0.0.0-feat-feed-cards-publish-20240724123017.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-amos+lynx-alm-utils@0.0.0-feat-feed-cards-publish-20240724123017_@types+react@19.1.5_react@18.3.1/node_modules/@byted-amos/lynx-alm-utils"
+      },
+      "@byted-lina/hotspot-lepus-utils": {
+        "from": "@byted-lina/hotspot-lepus-utils",
+        "version": "link:../../lina/hotspot-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/lina/hotspot-lepus-utils"
+      },
+      "@byted-lina/hotspot-types": {
+        "from": "@byted-lina/hotspot-types",
+        "version": "link:../../lina/hotspot-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/lina/hotspot-types"
+      },
+      "@byted-lina/hotspot-utils": {
+        "from": "@byted-lina/hotspot-utils",
+        "version": "link:../../lina/hotspot-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/biz-hotspot/lina/hotspot-utils"
+      },
+      "@byted-lina/lepus-utils": {
+        "from": "@byted-lina/lepus-utils",
+        "version": "link:../../../packages/lina/lina-lepus-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-lepus-utils"
+      },
+      "@byted-lina/lina-douyin-search-mixins": {
+        "from": "@byted-lina/lina-douyin-search-mixins",
+        "version": "link:../../../packages/lina/lina-douyin-search-mixins",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-douyin-search-mixins"
+      },
+      "@byted-lina/morphling-bridge": {
+        "from": "@byted-lina/morphling-bridge",
+        "version": "link:../../../packages/lina/morphling-bridge",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-bridge"
+      },
+      "@byted-lina/morphling-icons": {
+        "from": "@byted-lina/morphling-icons",
+        "version": "link:../../../packages/lina/morphling-icons",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-icons"
+      },
+      "@byted-lina/morphling-types": {
+        "from": "@byted-lina/morphling-types",
+        "version": "link:../../../packages/lina/morphling-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/morphling-types"
+      },
+      "@byted-lina/runtime-ng": {
+        "from": "@byted-lina/runtime-ng",
+        "version": "link:../../../packages/lina/lina-runtime-ng",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-runtime-ng"
+      },
+      "@byted-lina/utils": {
+        "from": "@byted-lina/utils",
+        "version": "link:../../../packages/lina/lina-utils",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-utils"
+      },
+      "@byted-lynx/lynx-speedy": {
+        "from": "@byted-lynx/lynx-speedy",
+        "version": "3.6.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/lynx-speedy/-/lynx-speedy-3.6.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lynx-speedy@3.6.2_@byted-lynx+speedy-config-preset-env@1.7.1_tslib@2.8.1_typescript@4.9.5/node_modules/@byted-lynx/lynx-speedy"
+      },
+      "@byted-lynx/react": {
+        "from": "@byted-lynx/react",
+        "version": "0.14.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/react/-/react-0.14.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+react@0.14.2_@byted-lynx+lynx-speedy@3.6.2_@byted-lynx+type-x-element@1.1.4_@types+react@19.1.5/node_modules/@byted-lynx/react"
+      },
+      "@byted-lynx/react-runtime": {
+        "from": "@byted-lynx/react-runtime",
+        "version": "2.11.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/react-runtime/-/react-runtime-2.11.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+react-runtime@2.11.2_@types+react@19.1.5_react@18.3.1/node_modules/@byted-lynx/react-runtime"
+      },
+      "@ies/aweme-color-theme": {
+        "from": "@ies/aweme-color-theme",
+        "version": "0.1.31",
+        "resolved": "https://bnpm.byted.org/@ies/aweme-color-theme/-/aweme-color-theme-0.1.31.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@ies+aweme-color-theme@0.1.31/node_modules/@ies/aweme-color-theme"
+      },
+      "@toutiao-infra/bridge": {
+        "from": "@toutiao-infra/bridge",
+        "version": "0.0.24",
+        "resolved": "https://bnpm.byted.org/@toutiao-infra/bridge/-/bridge-0.0.24.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@toutiao-infra+bridge@0.0.24/node_modules/@toutiao-infra/bridge"
+      },
+      "@toutiao-infra/exposure": {
+        "from": "@toutiao-infra/exposure",
+        "version": "0.0.57",
+        "resolved": "https://bnpm.byted.org/@toutiao-infra/exposure/-/exposure-0.0.57.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@toutiao-infra+exposure@0.0.57_@types+react@19.1.5_byted-tea-sdk@5.3.4_react@18.3.1/node_modules/@toutiao-infra/exposure"
+      },
+      "@toutiao-infra/logger": {
+        "from": "@toutiao-infra/logger",
+        "version": "0.0.57",
+        "resolved": "https://bnpm.byted.org/@toutiao-infra/logger/-/logger-0.0.57.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@toutiao-infra+logger@0.0.57_@types+react@19.1.5_byted-tea-sdk@5.3.4_react@18.3.1/node_modules/@toutiao-infra/logger"
+      },
+      "@toutiao-infra/request": {
+        "from": "@toutiao-infra/request",
+        "version": "0.0.57",
+        "resolved": "https://bnpm.byted.org/@toutiao-infra/request/-/request-0.0.57.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@toutiao-infra+request@0.0.57_@types+react@19.1.5_byted-tea-sdk@5.3.4_react@18.3.1/node_modules/@toutiao-infra/request"
+      },
+      "@toutiao-infra/runtime": {
+        "from": "@toutiao-infra/runtime",
+        "version": "0.0.56",
+        "resolved": "https://bnpm.byted.org/@toutiao-infra/runtime/-/runtime-0.0.56.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@toutiao-infra+runtime@0.0.56/node_modules/@toutiao-infra/runtime"
+      },
+      "@toutiao-infra/style": {
+        "from": "@toutiao-infra/style",
+        "version": "0.0.56",
+        "resolved": "https://bnpm.byted.org/@toutiao-infra/style/-/style-0.0.56.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@toutiao-infra+style@0.0.56_@types+react@19.1.5_react@18.3.1/node_modules/@toutiao-infra/style"
+      },
+      "@toutiao-infra/utils": {
+        "from": "@toutiao-infra/utils",
+        "version": "0.0.56",
+        "resolved": "https://bnpm.byted.org/@toutiao-infra/utils/-/utils-0.0.56.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@toutiao-infra+utils@0.0.56_@types+react@19.1.5_react@18.3.1/node_modules/@toutiao-infra/utils"
+      },
+      "byted-ttfe-data-transform": {
+        "from": "byted-ttfe-data-transform",
+        "version": "0.3.12",
+        "resolved": "https://bnpm.byted.org/byted-ttfe-data-transform/-/byted-ttfe-data-transform-0.3.12.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/byted-ttfe-data-transform@0.3.12/node_modules/byted-ttfe-data-transform"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/cli": {
+        "from": "@byted-lina/cli",
+        "version": "link:../../../packages/lina/lina-cli",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-cli"
+      },
+      "@byted-lina/lina-config-douyin-search": {
+        "from": "@byted-lina/lina-config-douyin-search",
+        "version": "link:../../../packages/lina/lina-config-douyin-search",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-config-douyin-search"
+      },
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../../../packages/lina/shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lina/types": {
+        "from": "@byted-lina/types",
+        "version": "link:../../../packages/lina/lina-types",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-types"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "tailwindcss": {
+        "from": "tailwindcss",
+        "version": "2.2.19",
+        "resolved": "https://bnpm.byted.org/tailwindcss/-/tailwindcss-2.2.19.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tailwindcss@2.2.19_autoprefixer@10.4.21_postcss@8.5.6__postcss@8.5.6_ts-node@10.9.2_@swc+core_ll65ojgrgrixnalho45et5dyxy/node_modules/tailwindcss"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_zcey7j7bcyktvmk3h34fxfeahy/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

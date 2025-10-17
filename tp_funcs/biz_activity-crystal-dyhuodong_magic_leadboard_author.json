@@ -1,0 +1,312 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:46 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:9:1:getMainDataList",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:31:50:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:38:1:processAweme",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:83:7:observer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:105:7:observer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:126:7:observer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:160:3:resetActionInDrawer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:166:3:resetActionInMain",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:171:3:attached",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:176:3:detached",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:180:3:ready",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:196:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:202:5:onExposure",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:249:5:handleShow",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:256:5:handleClick",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:264:36:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:293:9:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:304:5:handleSwitchPrimaryTab",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:327:5:handleSwitchSecondaryTab",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:371:5:closeDrawer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:381:5:openDrawer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:434:5:setFollowStatus",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:449:25:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:453:41:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:473:5:handleClickDrawerItem",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:495:49:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:521:5:handleSwitchPrimaryTabInDrawer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:563:5:handleSwitchSecondaryTabInDrawer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:624:5:fetchDataListAndUpdate",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:641:34:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:750:5:fetchAuthorDataList",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:808:45:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:830:48:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:858:49:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:860:40:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:880:5:fetchMyPostDataList",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:943:44:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:964:50:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:990:50:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:992:42:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:993:40:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1018:5:fetchAwemeDetail",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1043:5:fetchUserDetail",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1062:5:fetchData",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1189:5:fetchMyPost",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1221:9:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1253:5:fetchAllAuthorList",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1305:5:gotoVideoList",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1361:5:getIncentivePlanId",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1365:5:getTrackId",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1371:5:getTrackType",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1377:5:getRankId",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1385:5:getCurrentIdx",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:17:3:attached",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:22:3:onExposure",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:24:43:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:26:30:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:51:3:onDisExposure",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:52:43:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:53:30:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:62:3:onTouchStart",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:66:3:onTouchEnd",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:86:3:onTouchCancel",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:106:3:bindscroll",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:74:5:handleBounce",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:87:5:handleSwitchPrimaryTab",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:92:5:handleSwitchSecondaryTab",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:100:5:handleClickItem",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/utils/index.lepus.js:1:8:shouldScroll",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/utils/index.lepus.js:9:3:calLen",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:35:7:observer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:65:3:attached",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:74:5:onTap",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:79:28:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:83:5:scrollTo",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:92:34:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:103:19:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:109:5:getPosition",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:110:26:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:116:22:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:119:19:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/utils/index.lepus.js:8:8:getFixedWidth",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/utils/index.lepus.js:17:8:getFixedWidthForTextLenDiff",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/utils/index.lepus.js:19:12:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/utils/index.lepus.js:34:8:getTabPadding",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/index.ts:19:3:ready",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/utils/index.lepus.js:5:8:adaptUserInfo",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/utils/index.lepus.js:74:8:findUserIndex",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/utils/index.lepus.js:77:34:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/utils/index.lepus.js:86:8:generateSkeletonList",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/utils/index.lepus.js:96:8:genLogData",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:1:1:isDoubleLayer",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:22:1:processUser",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:38:8:processRawData",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:41:18:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:45:17:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:59:13:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:64:10:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:72:17:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:76:14:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:89:37:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:106:13:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:109:11:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:139:47:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:145:10:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:147:39:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:152:10:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:216:53:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:267:76:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:269:38:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:289:35:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:293:38:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:310:3:processUserFollow",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:315:32:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:330:27:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:337:32:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:338:29:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:351:8:getMainDataList",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:367:48:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js:374:8:getRankCreateTime",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:jest.config.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:lina.config.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:meta.config.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:tailwind.config.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/types/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/utils/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/user-list/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:126:7:observer": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:202:5:onExposure": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:249:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:256:5:handleClick": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:304:5:handleSwitchPrimaryTab": [
+			"special:special::trackerReport",
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:327:5:handleSwitchSecondaryTab": [
+			"special:special::trackerReport",
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:624:5:fetchDataListAndUpdate",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1385:5:getCurrentIdx"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:371:5:closeDrawer": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:381:5:openDrawer": [
+			"special:special::trackerReport",
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:624:5:fetchDataListAndUpdate",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1385:5:getCurrentIdx"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:473:5:handleClickDrawerItem": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1305:5:gotoVideoList"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:521:5:handleSwitchPrimaryTabInDrawer": [
+			"special:special::trackerReport",
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:624:5:fetchDataListAndUpdate"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:563:5:handleSwitchSecondaryTabInDrawer": [
+			"special:special::trackerReport",
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:624:5:fetchDataListAndUpdate",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1385:5:getCurrentIdx"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:641:34:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:624:5:fetchDataListAndUpdate": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:434:5:setFollowStatus",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:880:5:fetchMyPostDataList",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:750:5:fetchAuthorDataList"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:26:30:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:66:3:onTouchEnd": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/bounce-layout/index.ts:106:3:bindscroll": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:74:5:handleBounce": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:87:5:handleSwitchPrimaryTab": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:92:5:handleSwitchSecondaryTab": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/lead-board/index.ts:100:5:handleClickItem": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:74:5:onTap": [
+			"special:special::triggerEvent",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:83:5:scrollTo"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:79:28:<anonymous>": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:83:5:scrollTo": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:79:28:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1253:5:fetchAllAuthorList": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1062:5:fetchData"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1189:5:fetchMyPost": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1062:5:fetchData",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1221:9:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1062:5:fetchData": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1043:5:fetchUserDetail": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1062:5:fetchData"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1018:5:fetchAwemeDetail": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1062:5:fetchData"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:880:5:fetchMyPostDataList": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1018:5:fetchAwemeDetail",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1189:5:fetchMyPost",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1377:5:getRankId",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1365:5:getTrackId",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1361:5:getIncentivePlanId",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:943:44:<anonymous>",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:964:50:<anonymous>",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:990:50:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:750:5:fetchAuthorDataList": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:260:5:customReport",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1043:5:fetchUserDetail",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1253:5:fetchAllAuthorList",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1371:5:getTrackType",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1377:5:getRankId",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1365:5:getTrackId",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:1361:5:getIncentivePlanId",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:808:45:<anonymous>",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:830:48:<anonymous>",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:858:49:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:92:34:<anonymous>": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/components/secondary-tab/index.ts:79:28:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:990:50:<anonymous>": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:993:40:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:434:5:setFollowStatus": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:449:25:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:858:49:<anonymous>": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:860:40:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:990:50:<anonymous>": [
+			"Array.prototype.find"
+		],
+		"@byted-crystal/dyhuodong-magic-leadboard-author@2.1.1:src/components/index/index.ts:880:5:fetchMyPostDataList": [
+			"Array.prototype.map"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

@@ -1,0 +1,114 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:07 GMT",
+	"functions": [
+		"@byted-crystal/spu-list-container@3.3.0:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:21:7:observer",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:37:3:attached",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:42:3:detached",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:46:3:resetScroll",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:47:16:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:55:18:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:56:15:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:60:3:onExposure",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:64:7:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:67:30:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:79:3:onDisExposure",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:81:7:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:83:30:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:90:3:onTouchStart",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:94:3:onTouchEnd",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:104:3:onTouchCancel",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:114:3:bindscroll",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:62:7:observer",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:77:3:attached",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:84:3:detached",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:90:5:onExposure",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:111:5:handleComponentTap",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:139:5:resetScroll",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:142:18:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:152:22:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:155:19:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:171:22:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:174:19:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:186:5:getLinaTrackerConfig",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:192:5:onScroll",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:199:5:onTapScrollView",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:204:52:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:211:5:onScrollToBounce",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:221:43:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:228:5:onJumpPOIDetail",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:268:5:handleDynamicClick",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:291:5:onSpuItemTap",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:300:63:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:409:5:onSpuItemShow",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:422:60:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:479:5:onSpuListShow",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/utils/index.lepus.js:4:8:getMaxShowCount",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/utils/index.lepus.js:11:8:getSpuListMaxLength",
+		"@byted-crystal/spu-list-container@3.3.0:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/spu-list-container@3.3.0:eden.pipeline.js",
+		"@byted-crystal/spu-list-container@3.3.0:jest.config.js",
+		"@byted-crystal/spu-list-container@3.3.0:lina.config.js",
+		"@byted-crystal/spu-list-container@3.3.0:meta.config.js",
+		"@byted-crystal/spu-list-container@3.3.0:tailwind.config.js",
+		"@byted-crystal/spu-list-container@3.3.0:demos/index/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/common/constants/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/common/types/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/common/utils/index.lepus.js",
+		"@byted-crystal/spu-list-container@3.3.0:src/common/utils/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/types/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/utils/index.ts",
+		"@byted-crystal/spu-list-container@3.3.0:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/spu-list-container@3.3.0:src/components/bounce-layout/index.ts:114:3:bindscroll": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:192:5:onScroll": [
+			"special:special::setData"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:228:5:onJumpPOIDetail": [
+			"special:special::trackerReport",
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:291:5:onSpuItemTap": [
+			"special:special::getTrackerParams",
+			"special:special::trackerReport",
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:409:5:onSpuItemShow": [
+			"special:special::getTrackerParams",
+			"special:special::trackerReport",
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:211:5:onScrollToBounce": [
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:228:5:onJumpPOIDetail",
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:199:5:onTapScrollView": [
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:228:5:onJumpPOIDetail",
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:111:5:handleComponentTap": [
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:90:5:onExposure": [
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts:405:5:getRootEntityPath"
+		],
+		"@byted-crystal/spu-list-container@3.3.0:src/components/index/index.ts": [
+			"@byted-crystal/spu-list-container@3.3.0:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/spu-list-container@3.3.0:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

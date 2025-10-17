@@ -1,0 +1,29 @@
+[
+  {
+    "name": "@byted-lina/crystal-types",
+    "version": "0.5.1",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/crystal-types",
+    "private": false,
+    "dependencies": {
+      "@byted-lynx/type-ttml": {
+        "from": "@byted-lynx/type-ttml",
+        "version": "0.0.3",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/type-ttml/-/type-ttml-0.0.3.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+type-ttml@0.0.3_@byted-lynx+type-lynx@3.1.1/node_modules/@byted-lynx/type-ttml"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

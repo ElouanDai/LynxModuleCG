@@ -1,0 +1,163 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:00 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:37:3:attached",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:43:38:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:50:3:detached",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:55:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:61:5:checkData",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:72:5:onViewAppear",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:84:5:handleShow",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:94:5:updateTabListData",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:119:57:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:127:5:handleTabChange",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:152:5:handleViewMore",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:235:5:openSchemaWithBTM",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:240:5:openSchemaWithBTM:WEB",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:253:5:openSchema",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:258:5:openSchema:WEB",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:270:5:handleProductClick",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:355:5:handleProductShow",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/components/product-item/index.lepus.js:1:8:getTitleHeight",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:2:8:isDarkMode",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:7:8:getMoreBtnCfg",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:26:8:getItemStyle",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:41:8:generateRows",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:58:8:getItemsIndexMap",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:62:8:formatProductItem",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:84:8:generateFakeProductList",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:92:8:formatTabData",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:96:16:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:99:19:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:114:8:isProductItemReady",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.lepus.js:13:8:processRawData",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.lepus.js:35:41:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:14:1:preloadProductImages",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:20:15:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:21:12:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:28:55:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:41:8:getTabData",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:49:11:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:70:8:isTabListDataReady",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:74:28:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:77:8:getUserInfo",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:88:8:getLogBaseParams",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:110:8:getLifeSearchParams",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:jest.config.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:lina.config.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:meta.config.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:tailwind.config.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/components/product-item/index.lepus.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/components/product-item/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:37:3:attached": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:77:8:getUserInfo"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:61:5:checkData": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:72:5:onViewAppear": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:94:5:updateTabListData",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:77:8:getUserInfo"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:84:5:handleShow": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:88:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:119:57:<anonymous>": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:127:5:handleTabChange": [
+			"special:special::setData",
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:94:5:updateTabListData",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:88:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:152:5:handleViewMore": [
+			"special:special::getTrackerParams",
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:235:5:openSchemaWithBTM",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:253:5:openSchema",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:110:8:getLifeSearchParams",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:88:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:240:5:openSchemaWithBTM:WEB": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:258:5:openSchema:WEB": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:270:5:handleProductClick": [
+			"special:special::getTrackerParams",
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:235:5:openSchemaWithBTM",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:253:5:openSchema",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:110:8:getLifeSearchParams",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:88:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:355:5:handleProductShow": [
+			"special:special::trackerReport",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:88:8:getLogBaseParams"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:94:5:updateTabListData": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:77:8:getUserInfo",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:70:8:isTabListDataReady",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:41:8:getTabData"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:74:28:<anonymous>": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:114:8:isProductItemReady"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts:49:11:<anonymous>": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:92:8:formatTabData",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts:119:57:<anonymous>"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.lepus.js:13:8:processRawData": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:92:8:formatTabData",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:41:8:generateRows",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:2:8:isDarkMode"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.lepus.js:35:41:<anonymous>": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js:92:8:formatTabData"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/types/index.ts",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.lepus.js": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js"
+		],
+		"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/index.ts": [
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/types/index.ts",
+			"@byted-crystal/dyhuodong-tab-trade@1.0.7:src/components/index/utils/custom.lepus.js"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./custom.lepus": [
+			"getItemStyle",
+			"getItemsIndexMap",
+			"isProductItemReady"
+		]
+	}
+ }

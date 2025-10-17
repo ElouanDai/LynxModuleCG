@@ -1,0 +1,96 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:30 GMT",
+	"functions": [
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:demos/index/index.ts:5:5:_trackerReport",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:78:3:attached",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:80:5:getLinaTrackerConfig",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:97:5:trackerReportWithFilter",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:113:5:handleLivePlay",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:119:5:handleLiveEnd",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:125:5:handleLiveError",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:131:5:handleLiveStop",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:137:5:handleBuyBtnTap",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:165:50:<anonymous>",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:184:11:success",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:187:11:fail",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:199:5:handleTapLive",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:221:5:handlePlayRemainTime",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:271:5:getSearchParams",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:309:5:openVideoDetail",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/types/index.ts:26:1$200:<anonymous>",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:10:1:parseAwemeRawData",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:55:8:getSimplifiedAweme",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:101:8:getBottomDisplayConfig",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:110:8:shouldShowBottomInfo",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:121:8:getLogExtra",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:171:8:getPayDesc",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:196:8:calcSinglePlayerSize",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:253:8:getPlayerSizeStyle",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:259:8:getObjectFit",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js:279:8:enablePlay",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:eden.pipeline.js",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:jest.config.js",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:lina.config.js",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:meta.config.js",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:tailwind.config.js",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:demos/index/index.ts",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/common/constants/index.ts",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/common/types/index.ts",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/common/utils/index.lepus.js",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/common/utils/index.ts",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/types/index.ts",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:97:5:trackerReportWithFilter": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:113:5:handleLivePlay": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:119:5:handleLiveEnd": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:125:5:handleLiveError": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:131:5:handleLiveStop": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:137:5:handleBuyBtnTap": [
+			"special:special::triggerEvent",
+			"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:97:5:trackerReportWithFilter"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:199:5:handleTapLive": [
+			"special:special::triggerEvent",
+			"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:309:5:openVideoDetail"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:221:5:handlePlayRemainTime": [
+			"special:special::setData",
+			"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:97:5:trackerReportWithFilter"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:271:5:getSearchParams": [
+			"special:special::getTrackerParams"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:309:5:openVideoDetail": [
+			"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts:271:5:getSearchParams"
+		],
+		"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/index.ts": [
+			"@byted-crystal/dytrending-paid-live-item@2.0.0:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dytrending-paid-live-item@2.0.0:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"@byted-lina/hotspot-lepus-utils": [
+			"transformAuthor"
+		]
+	}
+ }

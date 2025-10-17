@@ -1,0 +1,57 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:30 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:14:3:attached",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:18:3:ready",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:36:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:49:5:handleShow",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:54:3:onTabShowEvent",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:65:3:onTabClickEvent",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/utils/index.lepus.js:4:8:processRawData",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/utils/index.lepus.js:19:28:<anonymous>",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/tab/index.ts:16:5:onTabClickEvent",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:jest.config.js",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:lina.config.js",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:meta.config.js",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:tailwind.config.js",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/common/types/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/tab/index.ts",
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:18:3:ready": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:49:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:54:3:onTabShowEvent": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts:65:3:onTabClickEvent": [
+			"special:special::setData",
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/tab/index.ts:16:5:onTabClickEvent": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-ecom-product-list-with-tag@3.0.0:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

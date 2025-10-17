@@ -1,0 +1,86 @@
+{
+	"time": "Fri, 17 Oct 2025 05:18:35 GMT",
+	"functions": [
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:26:3:attached",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:41:3:detached",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:47:5:getLinaTrackerConfig",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:53:5:checkData",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:66:5:handlePinCommentChange",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:73:5:handleShow",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:96:5:handleClickItem",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:138:5:handleTapFooter",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:177:5:handleCommentAddEvent",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:188:5:handleCommentUpdateEvent",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:200:5:handleCommentDeleteEvent",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:2:8:processRawData",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:8:1:padStart",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:14:8:toRelative",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:67:8:getScore",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:75:8:fomartText",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:82:8:getShowCommentList",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:88:29:<anonymous>",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js:94:12:<anonymous>",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.ts:5:8:getCommentFromCommentStruct",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/score/utils/index.lepus.js:7:8:getStarCount",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/tests/index.test.ts:15:32:<anonymous>",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:eden.pipeline.js",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:jest.config.js",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:lina.config.js",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:meta.config.js",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:tailwind.config.js",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:demos/index/index.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/common/constants/index.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/common/utils/douyin-mixins.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/common/utils/index.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/types/index.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/score/index.ts",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/score/utils/index.lepus.js",
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:53:5:checkData": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:66:5:handlePinCommentChange": [
+			"special:special::setData"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:73:5:handleShow": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:96:5:handleClickItem": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:138:5:handleTapFooter": [
+			"special:special::trackerReport"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:177:5:handleCommentAddEvent": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.ts:5:8:getCommentFromCommentStruct"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:188:5:handleCommentUpdateEvent": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.ts:5:8:getCommentFromCommentStruct"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts:200:5:handleCommentDeleteEvent": [
+			"special:special::setData",
+			"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.ts:5:8:getCommentFromCommentStruct"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/index.ts": [
+			"@byted-crystal/dyhuodong-film-command@26.0.2:src/common/utils/douyin-mixins.ts",
+			"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/types/index.ts",
+			"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.ts"
+		],
+		"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/utils/index.ts": [
+			"@byted-crystal/dyhuodong-film-command@26.0.2:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

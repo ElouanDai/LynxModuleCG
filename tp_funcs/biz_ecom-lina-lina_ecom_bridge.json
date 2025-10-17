@@ -1,0 +1,45 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:15 GMT",
+	"functions": [
+		"@byted-lina/ecom-bridge@2.0.7:src/bridge-change-keyword.ts:25:8:searchKeywordChange",
+		"@byted-lina/ecom-bridge@2.0.7:src/bridge-open-video.ts:24:8:openSearchVideoDetail",
+		"@byted-lina/ecom-bridge@2.0.7:src/bst-open.ts:20:8:open",
+		"@byted-lina/ecom-bridge@2.0.7:src/utils/jsb-type-util.ts:3:8:isChangeWordType",
+		"@byted-lina/ecom-bridge@2.0.7:src/utils/jsb-type-util.ts:20:10:isOpenVideoType",
+		"@byted-lina/ecom-bridge@2.0.7:tests/index.test.ts:1:19:<anonymous>",
+		"@byted-lina/ecom-bridge@2.0.7:eden.pipeline.js",
+		"@byted-lina/ecom-bridge@2.0.7:src/bridge-change-keyword.ts",
+		"@byted-lina/ecom-bridge@2.0.7:src/bridge-open-video.ts",
+		"@byted-lina/ecom-bridge@2.0.7:src/bst-open.ts",
+		"@byted-lina/ecom-bridge@2.0.7:src/index.ts",
+		"@byted-lina/ecom-bridge@2.0.7:src/type/jsb-type.ts",
+		"@byted-lina/ecom-bridge@2.0.7:src/utils/jsb-type-util.ts",
+		"@byted-lina/ecom-bridge@2.0.7:tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-lina/ecom-bridge@2.0.7:src/index.ts": [
+			"@byted-lina/ecom-bridge@2.0.7:src/bridge-change-keyword.ts",
+			"@byted-lina/ecom-bridge@2.0.7:src/bridge-open-video.ts",
+			"@byted-lina/ecom-bridge@2.0.7:src/bst-open.ts",
+			"@byted-lina/ecom-bridge@2.0.7:src/type/jsb-type.ts",
+			"@byted-lina/ecom-bridge@2.0.7:src/utils/jsb-type-util.ts"
+		],
+		"@byted-lina/ecom-bridge@2.0.7:src/utils/jsb-type-util.ts": [
+			"@byted-lina/ecom-bridge@2.0.7:src/type/jsb-type.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./type/jsb-type": [
+			"ChangeKeywordType",
+			"OpenVideoType"
+		],
+		"./utils/jsb-type-util": [
+			"isChangeWordType",
+			"isOpenVideoType"
+		]
+	}
+ }

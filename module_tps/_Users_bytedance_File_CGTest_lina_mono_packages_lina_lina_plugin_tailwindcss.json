@@ -1,0 +1,167 @@
+[
+  {
+    "name": "@byted-lina/lina-plugin-tailwindcss",
+    "version": "4.0.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-plugin-tailwindcss",
+    "private": false,
+    "dependencies": {
+      "@babel/core": {
+        "from": "@babel/core",
+        "version": "7.21.0",
+        "resolved": "https://bnpm.byted.org/@babel/core/-/core-7.21.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+core@7.21.0/node_modules/@babel/core"
+      },
+      "@babel/plugin-syntax-jsx": {
+        "from": "@babel/plugin-syntax-jsx",
+        "version": "7.18.6",
+        "resolved": "https://bnpm.byted.org/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.18.6.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+plugin-syntax-jsx@7.18.6_@babel+core@7.21.0/node_modules/@babel/plugin-syntax-jsx"
+      },
+      "@babel/preset-typescript": {
+        "from": "@babel/preset-typescript",
+        "version": "7.21.0",
+        "resolved": "https://bnpm.byted.org/@babel/preset-typescript/-/preset-typescript-7.21.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+preset-typescript@7.21.0_@babel+core@7.21.0/node_modules/@babel/preset-typescript"
+      },
+      "@babel/types": {
+        "from": "@babel/types",
+        "version": "7.21.2",
+        "resolved": "https://bnpm.byted.org/@babel/types/-/types-7.21.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+types@7.21.2/node_modules/@babel/types"
+      },
+      "@fullhuman/postcss-purgecss": {
+        "from": "@fullhuman/postcss-purgecss",
+        "version": "4.1.3",
+        "resolved": "https://bnpm.byted.org/@fullhuman/postcss-purgecss/-/postcss-purgecss-4.1.3.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@fullhuman+postcss-purgecss@4.1.3_postcss@8.3.11/node_modules/@fullhuman/postcss-purgecss"
+      },
+      "fs-extra": {
+        "from": "fs-extra",
+        "version": "10.0.0",
+        "resolved": "https://bnpm.byted.org/fs-extra/-/fs-extra-10.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/fs-extra@10.0.0/node_modules/fs-extra"
+      },
+      "lodash": {
+        "from": "lodash",
+        "version": "4.17.21",
+        "resolved": "https://bnpm.byted.org/lodash/-/lodash-4.17.21.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash"
+      },
+      "lodash.memoize": {
+        "from": "lodash.memoize",
+        "version": "4.1.2",
+        "resolved": "https://bnpm.byted.org/lodash.memoize/-/lodash.memoize-4.1.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/lodash.memoize@4.1.2/node_modules/lodash.memoize"
+      },
+      "postcss": {
+        "from": "postcss",
+        "version": "8.3.11",
+        "resolved": "https://bnpm.byted.org/postcss/-/postcss-8.3.11.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/postcss@8.3.11/node_modules/postcss"
+      },
+      "postcss-css-variables": {
+        "from": "postcss-css-variables",
+        "version": "0.18.0",
+        "resolved": "https://bnpm.byted.org/postcss-css-variables/-/postcss-css-variables-0.18.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/postcss-css-variables@0.18.0_postcss@8.3.11/node_modules/postcss-css-variables"
+      },
+      "postcss-discard-duplicates": {
+        "from": "postcss-discard-duplicates",
+        "version": "5.0.1",
+        "resolved": "https://bnpm.byted.org/postcss-discard-duplicates/-/postcss-discard-duplicates-5.0.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/postcss-discard-duplicates@5.0.1_postcss@8.3.11/node_modules/postcss-discard-duplicates"
+      },
+      "postcss-remove-classes": {
+        "from": "postcss-remove-classes",
+        "version": "2.0.0",
+        "resolved": "https://bnpm.byted.org/postcss-remove-classes/-/postcss-remove-classes-2.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/postcss-remove-classes@2.0.0_postcss@8.3.11/node_modules/postcss-remove-classes"
+      },
+      "tailwindcss": {
+        "from": "tailwindcss",
+        "version": "3.2.1",
+        "resolved": "https://bnpm.byted.org/tailwindcss/-/tailwindcss-3.2.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tailwindcss@3.2.1_postcss@8.3.11_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+_4dp4x5zunpzde3kqj5qzp3tzdm/node_modules/tailwindcss"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@byted-lynx/lynx-speedy": {
+        "from": "@byted-lynx/lynx-speedy",
+        "version": "2.49.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/lynx-speedy/-/lynx-speedy-2.49.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+lynx-speedy@2.49.2_@byted-lynx+speedy-config-preset-env@1.7.1_@byted-lynx+web-run_eum6vwynn72exoe6u2tkrpziue/node_modules/@byted-lynx/lynx-speedy"
+      },
+      "@speedy-js/esbuild": {
+        "from": "@speedy-js/esbuild",
+        "version": "0.14.28-speedy-lynx-1",
+        "resolved": "https://bnpm.byted.org/@speedy-js/esbuild/-/esbuild-0.14.28-speedy-lynx-1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@speedy-js+esbuild@0.14.28-speedy-lynx-1/node_modules/@speedy-js/esbuild"
+      },
+      "@types/babel__core": {
+        "from": "@types/babel__core",
+        "version": "7.20.0",
+        "resolved": "https://bnpm.byted.org/@types/babel__core/-/babel__core-7.20.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+babel__core@7.20.0/node_modules/@types/babel__core"
+      },
+      "@types/fs-extra": {
+        "from": "@types/fs-extra",
+        "version": "9.0.13",
+        "resolved": "https://bnpm.byted.org/@types/fs-extra/-/fs-extra-9.0.13.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+fs-extra@9.0.13/node_modules/@types/fs-extra"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "@types/lodash": {
+        "from": "@types/lodash",
+        "version": "4.17.17",
+        "resolved": "https://bnpm.byted.org/@types/lodash/-/lodash-4.17.17.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+lodash@4.17.17/node_modules/@types/lodash"
+      },
+      "@types/lodash.memoize": {
+        "from": "@types/lodash.memoize",
+        "version": "4.1.9",
+        "resolved": "https://bnpm.byted.org/@types/lodash.memoize/-/lodash.memoize-4.1.9.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+lodash.memoize@4.1.9/node_modules/@types/lodash.memoize"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "18.19.103",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-18.19.103.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@18.19.103/node_modules/@types/node"
+      },
+      "@types/tailwindcss": {
+        "from": "@types/tailwindcss",
+        "version": "2.2.4",
+        "resolved": "https://bnpm.byted.org/@types/tailwindcss/-/tailwindcss-2.2.4.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+tailwindcss@2.2.4/node_modules/@types/tailwindcss"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@18.19.103_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.21.0_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.21.0__je_yl7e3wfy7slvjoe62bcwhlaewy/node_modules/ts-jest"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

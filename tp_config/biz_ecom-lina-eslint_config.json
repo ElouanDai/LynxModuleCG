@@ -1,0 +1,34 @@
+{
+  "name": "@byted-lina/eslint-config-ecom",
+  "version": "2.0.12",
+  "description": "电商搜索差异化的lint规则",
+  "license": "ISC",
+  "maintainers": [
+    "wangfandu"
+  ],
+  "exports": {
+    "./js": "./config/javascript.js",
+    "./ts": "./config/typescript.js"
+  },
+  "main": "./config/javascript.js",
+  "files": [
+    "config"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "@byted-lina/eslint-plugin": "workspace:*",
+    "@byted-lina/lina-constants": "workspace:*"
+  },
+  "devDependencies": {
+    "@babel/types": "^7.19.4",
+    "@byted-lynx/parser-ttml": "^2.13.1",
+    "@byted-lynx/parser-ttml-eslint": "0.0.1-alpha",
+    "@typescript-eslint/parser": "^5.50.0",
+    "eslint": "^8.19.0",
+    "eslint-doc-generator": "^1.0.0",
+    "eslint-plugin-eslint-plugin": "^5.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "jsonc-eslint-parser": "2.4.0",
+    "mocha": "^10.0.0"
+  }
+}

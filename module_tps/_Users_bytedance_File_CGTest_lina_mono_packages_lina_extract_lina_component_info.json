@@ -1,0 +1,71 @@
+[
+  {
+    "name": "@byted-lina/extract-lina-component-info",
+    "version": "0.2.0",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/extract-lina-component-info",
+    "private": false,
+    "dependencies": {
+      "@byted-lynx/parser-ttml": {
+        "from": "@byted-lynx/parser-ttml",
+        "version": "2.18.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/parser-ttml/-/parser-ttml-2.18.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+parser-ttml@2.18.2/node_modules/@byted-lynx/parser-ttml"
+      }
+    },
+    "devDependencies": {
+      "@byted-lina/shared-configs": {
+        "from": "@byted-lina/shared-configs",
+        "version": "link:../shared-configs",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/shared-configs"
+      },
+      "@types/jest": {
+        "from": "@types/jest",
+        "version": "27.5.2",
+        "resolved": "https://bnpm.byted.org/@types/jest/-/jest-27.5.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+jest@27.5.2/node_modules/@types/jest"
+      },
+      "@types/node": {
+        "from": "@types/node",
+        "version": "22.15.21",
+        "resolved": "https://bnpm.byted.org/@types/node/-/node-22.15.21.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@types+node@22.15.21/node_modules/@types/node"
+      },
+      "esno": {
+        "from": "esno",
+        "version": "0.16.3",
+        "resolved": "https://bnpm.byted.org/esno/-/esno-0.16.3.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/esno@0.16.3/node_modules/esno"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://bnpm.byted.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jest@27.5.1_ts-node@10.9.2_@swc+core@1.13.5_@swc+helpers@0.5.17__@types+node@22.15.21_typescript@4.9.5_/node_modules/jest"
+      },
+      "ts-jest": {
+        "from": "ts-jest",
+        "version": "27.1.5",
+        "resolved": "https://bnpm.byted.org/ts-jest/-/ts-jest-27.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-jest@27.1.5_@babel+core@7.28.4_@types+jest@27.5.2_babel-jest@27.5.1_@babel+core@7.28.4__es_xbtbzc3yentd62pl4ocgxtwtz4/node_modules/ts-jest"
+      },
+      "ts-morph": {
+        "from": "ts-morph",
+        "version": "14.0.0",
+        "resolved": "https://bnpm.byted.org/ts-morph/-/ts-morph-14.0.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/ts-morph@14.0.0/node_modules/ts-morph"
+      },
+      "tsup": {
+        "from": "tsup",
+        "version": "5.12.9",
+        "resolved": "https://bnpm.byted.org/tsup/-/tsup-5.12.9.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/tsup@5.12.9_@swc+core@1.13.5_@swc+helpers@0.5.17__postcss@8.5.6_ts-node@10.9.2_@swc+core@1.13_xu5g6c4vbxposynrp6apf76nca/node_modules/tsup"
+      },
+      "typescript": {
+        "from": "typescript",
+        "version": "4.9.5",
+        "resolved": "https://bnpm.byted.org/typescript/-/typescript-4.9.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/typescript@4.9.5/node_modules/typescript"
+      }
+    }
+  }
+]

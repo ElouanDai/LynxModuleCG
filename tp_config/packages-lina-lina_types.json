@@ -1,0 +1,32 @@
+{
+  "name": "@byted-lina/types",
+  "version": "4.2.1",
+  "description": "Project created by Eden",
+  "keywords": [
+    "lina",
+    "types"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "zhaohaibo.finger",
+    "yanhongwei",
+    "gouwantong"
+  ],
+  "types": "src/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "build": "exit 0",
+    "start": "exit 0",
+    "test": "tsc -p tests"
+  },
+  "dependencies": {
+    "@byted-lynx/type-lynx": "^3.0.0",
+    "@byted-lynx/type-ttml": "0.0.3"
+  },
+  "devDependencies": {
+    "@byted-lina/shared-configs": "workspace:*",
+    "typescript": "^4.5.2"
+  }
+}

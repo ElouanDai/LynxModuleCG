@@ -1,0 +1,48 @@
+{
+  "name": "@byted-lina/lina-mixin-dynamic-card",
+  "version": "3.6.3",
+  "description": "lina-mixin-dynamic-card",
+  "keywords": [
+    "lina",
+    "mixin",
+    "font_scale"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    "wangjian.xiaofan"
+  ],
+  "sideEffects": [
+    "./dist/esm/index.js"
+  ],
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && npm run build:esm && npm run build:cjs",
+    "build:cjs": "ttsc --outDir dist/cjs --module CommonJS",
+    "build:esm": "ttsc --outDir dist/esm --module ESNext",
+    "start": "rm -rf dist && npm run start:cjs & npm run start:esm",
+    "start:cjs": "ttsc -w --outDir dist/cjs --module CommonJS",
+    "start:esm": "ttsc -w --outDir dist/esm --module ESNext"
+  },
+  "dependencies": {
+    "@byted-btm/hybrid": "1.2.4",
+    "@byted-lina/lepus-utils": "workspace:*",
+    "@byted-lina/lina-mixin-entity": "workspace:*",
+    "@byted-lina/morphling-bridge": "workspace:*",
+    "@byted-lina/runtime-ng": "workspace:*",
+    "@byted-lina/utils": "workspace:*"
+  },
+  "devDependencies": {
+    "@byted-lina/shared-configs": "workspace:*",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^18.0.6",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "ttypescript": "^1.5.15",
+    "typescript": "^4.5.2"
+  }
+}

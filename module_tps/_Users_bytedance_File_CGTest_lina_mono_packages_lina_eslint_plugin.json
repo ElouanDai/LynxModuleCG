@@ -1,0 +1,125 @@
+[
+  {
+    "name": "@byted-lina/eslint-plugin",
+    "version": "4.0.11",
+    "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/eslint-plugin",
+    "private": false,
+    "dependencies": {
+      "@babel/core": {
+        "from": "@babel/core",
+        "version": "7.27.1",
+        "resolved": "https://bnpm.byted.org/@babel/core/-/core-7.27.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+core@7.27.1/node_modules/@babel/core"
+      },
+      "@byted-lina/lina-constants": {
+        "from": "@byted-lina/lina-constants",
+        "version": "link:../lina-constants",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/packages/lina/lina-constants"
+      },
+      "espree": {
+        "from": "espree",
+        "version": "10.3.0",
+        "resolved": "https://bnpm.byted.org/espree/-/espree-10.3.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/espree@10.3.0/node_modules/espree"
+      },
+      "estraverse": {
+        "from": "estraverse",
+        "version": "5.3.0",
+        "resolved": "https://bnpm.byted.org/estraverse/-/estraverse-5.3.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/estraverse@5.3.0/node_modules/estraverse"
+      },
+      "requireindex": {
+        "from": "requireindex",
+        "version": "1.2.0",
+        "resolved": "https://bnpm.byted.org/requireindex/-/requireindex-1.2.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/requireindex@1.2.0/node_modules/requireindex"
+      }
+    },
+    "devDependencies": {
+      "@babel/types": {
+        "from": "@babel/types",
+        "version": "7.27.1",
+        "resolved": "https://bnpm.byted.org/@babel/types/-/types-7.27.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@babel+types@7.27.1/node_modules/@babel/types"
+      },
+      "@byted-lynx/parser-ttml": {
+        "from": "@byted-lynx/parser-ttml",
+        "version": "2.18.2",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/parser-ttml/-/parser-ttml-2.18.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+parser-ttml@2.18.2/node_modules/@byted-lynx/parser-ttml"
+      },
+      "@byted-lynx/parser-ttml-eslint": {
+        "from": "@byted-lynx/parser-ttml-eslint",
+        "version": "0.0.1-alpha",
+        "resolved": "https://bnpm.byted.org/@byted-lynx/parser-ttml-eslint/-/parser-ttml-eslint-0.0.1-alpha.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@byted-lynx+parser-ttml-eslint@0.0.1-alpha_@byted-lynx+parser-ttml@2.18.2/node_modules/@byted-lynx/parser-ttml-eslint"
+      },
+      "@dp/tea-sdk-node": {
+        "from": "@dp/tea-sdk-node",
+        "version": "3.0.8",
+        "resolved": "https://bnpm.byted.org/@dp/tea-sdk-node/-/tea-sdk-node-3.0.8.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@dp+tea-sdk-node@3.0.8/node_modules/@dp/tea-sdk-node"
+      },
+      "@logsdk/node-plugin-http": {
+        "from": "@logsdk/node-plugin-http",
+        "version": "3.3.1",
+        "resolved": "https://bnpm.byted.org/@logsdk/node-plugin-http/-/node-plugin-http-3.3.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@logsdk+node-plugin-http@3.3.1/node_modules/@logsdk/node-plugin-http"
+      },
+      "@typescript-eslint/parser": {
+        "from": "@typescript-eslint/parser",
+        "version": "5.62.0",
+        "resolved": "https://bnpm.byted.org/@typescript-eslint/parser/-/parser-5.62.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/@typescript-eslint+parser@5.62.0_eslint@8.57.1_typescript@5.8.3/node_modules/@typescript-eslint/parser"
+      },
+      "eslint": {
+        "from": "eslint",
+        "version": "8.57.1",
+        "resolved": "https://bnpm.byted.org/eslint/-/eslint-8.57.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint"
+      },
+      "eslint-doc-generator": {
+        "from": "eslint-doc-generator",
+        "version": "1.7.1",
+        "resolved": "https://bnpm.byted.org/eslint-doc-generator/-/eslint-doc-generator-1.7.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/eslint-doc-generator@1.7.1_eslint@8.57.1_typescript@5.8.3/node_modules/eslint-doc-generator"
+      },
+      "eslint-plugin-eslint-plugin": {
+        "from": "eslint-plugin-eslint-plugin",
+        "version": "5.5.1",
+        "resolved": "https://bnpm.byted.org/eslint-plugin-eslint-plugin/-/eslint-plugin-eslint-plugin-5.5.1.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/eslint-plugin-eslint-plugin@5.5.1_eslint@8.57.1/node_modules/eslint-plugin-eslint-plugin"
+      },
+      "eslint-plugin-node": {
+        "from": "eslint-plugin-node",
+        "version": "11.1.0",
+        "resolved": "https://bnpm.byted.org/eslint-plugin-node/-/eslint-plugin-node-11.1.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/eslint-plugin-node@11.1.0_eslint@8.57.1/node_modules/eslint-plugin-node"
+      },
+      "jsonc-eslint-parser": {
+        "from": "jsonc-eslint-parser",
+        "version": "2.4.0",
+        "resolved": "https://bnpm.byted.org/jsonc-eslint-parser/-/jsonc-eslint-parser-2.4.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/jsonc-eslint-parser@2.4.0/node_modules/jsonc-eslint-parser"
+      },
+      "mocha": {
+        "from": "mocha",
+        "version": "10.8.2",
+        "resolved": "https://bnpm.byted.org/mocha/-/mocha-10.8.2.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/mocha@10.8.2/node_modules/mocha"
+      },
+      "mock-fs": {
+        "from": "mock-fs",
+        "version": "5.5.0",
+        "resolved": "https://bnpm.byted.org/mock-fs/-/mock-fs-5.5.0.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/mock-fs@5.5.0/node_modules/mock-fs"
+      },
+      "npm-run-all": {
+        "from": "npm-run-all",
+        "version": "4.1.5",
+        "resolved": "https://bnpm.byted.org/npm-run-all/-/npm-run-all-4.1.5.tgz",
+        "path": "/Users/bytedance/File/CGTest/lina-mono/node_modules/.pnpm/npm-run-all@4.1.5/node_modules/npm-run-all"
+      }
+    }
+  }
+]

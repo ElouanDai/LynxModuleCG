@@ -1,0 +1,375 @@
+{
+	"time": "Fri, 17 Oct 2025 05:20:18 GMT",
+	"functions": [
+		"@byted-lina/xigua-lepus-utils@13.7.11:scripts/transformer.ts:3:59:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:scripts/transformer.ts:3:70:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:scripts/transformer.ts:4:19:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:scripts/transformer.ts:6:50:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:1:1$199:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:10:1:includes",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:12:16:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:24:8:isCommonApp",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:29:8:isAweme",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:33:8:isLite",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:37:8:isHuoshan",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:41:8:isEcom",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:45:8:isJingXuan",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:49:8:isDouyinSearch",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts:53:8:formatAppId",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/baike.ts:2:8:replaceContainerBGColor",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:31:8:generateStyleStr",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:92:8:getCardStyleConf",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:128:8:getEcomCardStyleConf",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:145:8:calcCardStyleWithEnterFrom",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:154:10:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:195:8:calcCardStyle",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calcFallbackSize.ts:3:8:calcFallbackSize",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:13:8:isString",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:17:8:isNumber",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:21:8:isBoolean",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:25:8:isObject",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:29:8:isEmpty",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:45:8:typeCheck",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:61:8:objectGet",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:79:8:checkRawData",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:89:26:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/color.ts:6:8:argb2rgba",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/compatible-lepus.ts:8:8:indexOf",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/compatible-lepus.ts:23:8:subStr",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js:1:1:padStart",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js:6:8:dateFormatInHotSpots",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js:61:8:formatDurationToTime",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js:81:8:isIAA",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js:94:8:getCountdownTime",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js:121:8:formatTime",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js:123:3:addPrefixZero",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts:1:1:round",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts:10:8:setFontScaleType",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts:24:8:getDualCardHeight",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts:41:8:isWaterfallLayout",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts:56:8:getLayoutClass",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts:71:8:updatePreserveData",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:5:1:convertRange",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:32:1:truncateMaxLine",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:35:23:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:42:23:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:63:8:getContentList",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:69:49:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:73:30:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:77:32:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:99:30:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:125:8:dealMarkdownText",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-version.ts:4:8:formatVersion",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-version.ts:9:48:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts:8:8:getContainerWidthFromData",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts:21:8:getContainerWidth",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts:6:1:isGeneralVision",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts:17:8:getGlobalProps",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/highlight.ts:8:8:splitByHighlight",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/highlight.ts:39:18:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts:4:8:isTimelineyNewStyle",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts:8:1:concatParamsToSchema",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts:11:31:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts:24:8:getTopicPageSchema",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts:4:8:isArray",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:105:8:isFullUpdate",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:112:8:isPreserveDataUpdate",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:119:8:isContainerWidthUpdate",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:126:8:getUpdateType",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:139:8:setGlobalProps",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:152:8:LinaLepus",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:153:3:processRawData",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:3:1$208:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:23:8:MarkdownAnalysis",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:63:3:resetState",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:97:3:dealContentEpisode",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:116:3:resetPointer",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:126:3:dealBoldStart",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:140:3:dealMarkStart",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:153:3:dealRefStart",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:165:3:dealTableRefStart",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:177:3:recursionTableContent",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:184:25:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:218:25:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:509:27:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:517:38:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:535:38:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:4:8:flexibleToFixed",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:10:1:getStrLength",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:26:8:transNumToW",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:67:8:transNumToWanForAccessibility",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:78:8:transUserFollowerCount",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:91:8:transHot",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts:3:8:get",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts:16:8:set",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts:33:8:pick",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts:49:8:keyIterator",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/search-utils.ts:1:1$199:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/search-utils.ts:7:8:isGeneralSearch",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/time.ts:1:1:padStart",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/time.ts:11:8:dateFormatInExperience",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/time.ts:61:8:dateFormatInHotSpots",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/time.ts:106:8:dateFormatInDoubleColumn",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/time.ts:160:8:formatDurationToTime",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/tracker.ts:6:8:getCommonLogData",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/tracker.ts:26:8:getCommonLogExtra",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/tracker.ts:44:8:getCommonVideoLogExtra",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/tracker.ts:62:8:getCommonSearchVideoDetailLogExtra",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/douyin/huodong.ts:10:8:calcCardBottom",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/douyin/huodong.ts:54:8:getModuleStyle",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/douyin/huodong.ts:104:8:getComponentWidth",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/tests/index.test.ts:1:17:<anonymous>",
+		"@byted-lina/xigua-lepus-utils@13.7.11:eden.pipeline.js",
+		"@byted-lina/xigua-lepus-utils@13.7.11:jest.config.js",
+		"@byted-lina/xigua-lepus-utils@13.7.11:scripts/transformer.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/baike.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calcFallbackSize.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/color.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/compatible-lepus.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/date.lepusng.js",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-version.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/highlight.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/index.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/morphling.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/search-utils.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/time.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/tracker.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/douyin/huodong.ts",
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:26:8:transNumToW": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts:26:8:transNumToW"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:145:8:calcCardStyleWithEnterFrom": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/search-utils.ts:7:8:isGeneralSearch"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:63:8:getContentList": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:23:8:MarkdownAnalysis",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:97:3:dealContentEpisode"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts:125:8:dealMarkdownText": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:23:8:MarkdownAnalysis",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:97:3:dealContentEpisode"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:25:8:isObject": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts:4:8:isArray"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:29:8:isEmpty": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts:4:8:isArray"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:45:8:typeCheck": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts:4:8:isArray"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts:61:8:objectGet": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts:4:8:isArray"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts:33:8:pick": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts:4:8:isArray"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts:8:8:getContainerWidthFromData": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts:17:8:getGlobalProps",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:92:8:getCardStyleConf"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:139:8:setGlobalProps": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts:17:8:getGlobalProps"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calcFallbackSize.ts:3:8:calcFallbackSize": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts:21:8:getContainerWidth"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts:153:3:processRawData": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts:21:8:getContainerWidth"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/douyin/huodong.ts:54:8:getModuleStyle": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts:195:8:calcCardStyle"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/douyin/huodong.ts:104:8:getComponentWidth": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/format-version.ts:4:8:formatVersion"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts:8:1:concatParamsToSchema": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/compatible-lepus.ts:8:8:indexOf"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:535:38:<anonymous>": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:165:3:dealTableRefStart"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:116:3:resetPointer",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:140:3:dealMarkStart",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:126:3:dealBoldStart",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:153:3:dealRefStart",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:165:3:dealTableRefStart": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:177:3:recursionTableContent"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:177:3:recursionTableContent": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:177:3:recursionTableContent"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:97:3:dealContentEpisode": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:63:3:resetState",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:126:3:dealBoldStart": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:140:3:dealMarkStart": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:153:3:dealRefStart": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/search-utils.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/calcFallbackSize.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/format-llm-raw-data.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/compatible-lepus.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/index.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/color.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/number.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/time.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/check-raw-data.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/format-version.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/compatible-lepus.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/app-utils.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/baike.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/hsa-utils.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/double-column.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/calcFallbackSize.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/tracker.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/morphling.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-container-width.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/get-global-props.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/lina.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/object.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/is-array.ts"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/douyin/huodong.ts": [
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/calc-card-style.ts",
+			"@byted-lina/xigua-lepus-utils@13.7.11:src/format-version.ts"
+		]
+	},
+	"nativeCalls": {
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:184:25:<anonymous>": [
+			"Array.prototype.push"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:177:3:recursionTableContent": [
+			"Array.prototype.push"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:208:3:recursionContent": [
+			"Array.prototype.push"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:116:3:resetPointer": [
+			"Array.prototype.push"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:218:25:<anonymous>": [
+			"Array.prototype.push"
+		],
+		"@byted-lina/xigua-lepus-utils@13.7.11:src/markdown-analysis.ts:509:27:<anonymous>": [
+			"Array.prototype.push"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./color": [
+			"*"
+		],
+		"./number": [
+			"*"
+		],
+		"./time": [
+			"*"
+		],
+		"./is-array": [
+			"*"
+		],
+		"./check-raw-data": [
+			"*"
+		],
+		"./format-version": [
+			"*"
+		],
+		"./lina": [
+			"*",
+			"isFullUpdate",
+			"isPreserveDataUpdate",
+			"isContainerWidthUpdate",
+			"getUpdateType"
+		],
+		"./object": [
+			"*"
+		],
+		"./compatible-lepus": [
+			"*"
+		],
+		"./app-utils": [
+			"*"
+		],
+		"./baike": [
+			"*"
+		],
+		"./hsa-utils": [
+			"*"
+		],
+		"./double-column": [
+			"*"
+		],
+		"./calc-card-style": [
+			"*"
+		],
+		"./get-container-width": [
+			"*",
+			"getContainerWidth"
+		],
+		"./get-global-props": [
+			"*",
+			"getGlobalProps"
+		],
+		"./calcFallbackSize": [
+			"*"
+		],
+		"./tracker": [
+			"*"
+		]
+	}
+ }

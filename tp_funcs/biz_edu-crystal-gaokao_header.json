@@ -1,0 +1,37 @@
+{
+	"time": "Fri, 17 Oct 2025 05:19:17 GMT",
+	"functions": [
+		"@byted-crystal/gaokao-header@15.0.1:demos/index/index.ts:6:5:handleEnter",
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/index.ts:35:5:getLinaTrackerConfig",
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/index.ts:39:5:handleTap",
+		"@byted-crystal/gaokao-header@15.0.1:src/tests/index.test.ts:12:33:<anonymous>",
+		"@byted-crystal/gaokao-header@15.0.1:eden.pipeline.js",
+		"@byted-crystal/gaokao-header@15.0.1:jest.config.js",
+		"@byted-crystal/gaokao-header@15.0.1:lina.config.js",
+		"@byted-crystal/gaokao-header@15.0.1:meta.config.js",
+		"@byted-crystal/gaokao-header@15.0.1:tailwind.config.js",
+		"@byted-crystal/gaokao-header@15.0.1:demos/index/index.ts",
+		"@byted-crystal/gaokao-header@15.0.1:src/common/constants/index.ts",
+		"@byted-crystal/gaokao-header@15.0.1:src/common/types/index.ts",
+		"@byted-crystal/gaokao-header@15.0.1:src/common/utils/index.ts",
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/index.ts",
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/types/index.ts",
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/utils/index.lepus.js",
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/utils/index.ts",
+		"@byted-crystal/gaokao-header@15.0.1:src/tests/index.test.ts"
+	],
+	"fun2fun": {
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/index.ts:39:5:handleTap": [
+			"special:special::triggerEvent"
+		],
+		"@byted-crystal/gaokao-header@15.0.1:src/components/index/index.ts": [
+			"@byted-crystal/gaokao-header@15.0.1:src/components/index/types/index.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }
