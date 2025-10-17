@@ -4,7 +4,7 @@ cg-filtered/
 module_tps/
 tp_config/
 tp_funcs/
-mono-module-list-filtered.txt
-mono-module-list.txt
-mono-tp-list.json
-mono-tp-list.txt
+out-module-list-filtered.txt
+out-module-list.txt
+out-tp-list.json
+out-tp-list.txt
