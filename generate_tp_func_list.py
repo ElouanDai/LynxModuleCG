@@ -51,24 +51,25 @@ def main():
     for index, path in enumerate(paths, 1):
         print(f'处理路径 {index}/{len(paths)}: {path}')
         # 检查路径是否存在
-        # 跳过大文件（保留原有逻辑）
-        if index == 789 or index == 1121 or index == 1122:
-            continue
         if not os.path.exists(path):
             print(f'警告：路径不存在，跳过: {path}')
             continue
         
         try:
             # 构建相对路径作为输出文件名（相对于工作区根目录）
+            # 提取仓库名称（从workspace_root路径中）
+            repo_name = os.path.basename(workspace_root).replace('-', '_')
+            
             relative_path = os.path.relpath(path, workspace_root)
             
-            # 特殊处理根目录
+            # 生成从仓库名称开始的路径格式
             if relative_path == '.':
-                output_filename = 'root.json'
+                # 根目录情况
+                output_filename = f"{repo_name}.json"
             else:
-                # 替换路径中的-为_，然后用-连接路径组件
+                # 替换路径中的特殊字符，确保格式一致
                 safe_relative_path = relative_path.replace('-', '_').replace(os.sep, '-')
-                output_filename = f"{safe_relative_path}.json"
+                output_filename = f"{repo_name}-{safe_relative_path}.json"
             
             output_path = os.path.join(output_dir, output_filename)
 

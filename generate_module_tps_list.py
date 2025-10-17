@@ -45,19 +45,42 @@ def main():
                 continue
             
             # 构建文件名
-            if module_path.startswith(base_dir):
-                relative_path = os.path.relpath(module_path, base_dir)
-            else:
-                # 如果路径不是基于预期的基础目录，则使用完整路径的一部分
-                relative_path = module_path.replace('/', '_').replace('\\', '_').replace(':', '_')
+            # 提取仓库名称（从base_dir路径中）
+            repo_name = os.path.basename(base_dir).replace('-', '_')
             
-            # 特殊处理根目录
-            if relative_path == '.':
-                output_filename = 'root.json'
+            if module_path.startswith(base_dir):
+                # 获取相对于仓库根目录的路径
+                relative_path = os.path.relpath(module_path, base_dir)
+                
+                # 生成从仓库名称开始的路径格式
+                if relative_path == '.':
+                    # 根目录情况
+                    output_filename = f"{repo_name}.json"
+                else:
+                    # 替换路径中的特殊字符，确保格式一致
+                    safe_relative_path = relative_path.replace('-', '_').replace(os.sep, '-')
+                    output_filename = f"{repo_name}-{safe_relative_path}.json"
             else:
-                # 替换路径中的-为_，然后用-连接路径组件
-                safe_relative_path = relative_path.replace('-', '_').replace(os.sep, '-')
-                output_filename = f"{safe_relative_path}.json"
+                # 如果路径不是基于仓库目录，尝试提取有用信息
+                # 查找包含仓库名称的部分
+                parts = module_path.replace(os.sep, '/').split('/')
+                # 从路径中查找与仓库相关的部分
+                relevant_parts = []
+                found_repo = False
+                for part in parts:
+                    if part == os.path.basename(base_dir) or repo_name in part:
+                        found_repo = True
+                        relevant_parts.append(repo_name)
+                    elif found_repo:
+                        relevant_parts.append(part)
+                
+                if relevant_parts:
+                    # 构建从仓库名称开始的路径
+                    output_filename = f"{'-'.join([p.replace('-', '_') for p in relevant_parts])}.json"
+                else:
+                    # 如果无法识别，使用简化的路径
+                    safe_path = module_path.split('/')[-2:] if len(module_path.split('/')) > 1 else module_path.split('/')[-1:]
+                    output_filename = f"{repo_name}-{'-'.join([p.replace('-', '_') for p in safe_path])}.json"
             
             output_path = os.path.join(output_dir, output_filename)
             

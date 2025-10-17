@@ -139,7 +139,7 @@ def extract_package_and_method(api_call_str):
     pattern = r'<([^>]+)>[.]([^()]+)\(\)'  
     match = re.search(pattern, api_call_str)
     if not match:
-        print(f"警告：API调用格式不正确: {api_call_str}")
+        # print(f"警告：API调用格式不正确: {api_call_str}")
         return []
     
     content = match.group(1)
@@ -223,7 +223,7 @@ def search_function_signature(package_name, path_name, method_name, mono_tp_list
     
     # 检查文件是否存在
     if not os.path.exists(tp_func_path):
-        print(f"警告：未找到tp_funcs文件: {tp_func_path}")
+        # print(f"警告：未找到tp_funcs文件: {tp_func_path}")
         return results
     
     try:
@@ -272,7 +272,7 @@ def enhance_file(file_path, output_dir, mono_tp_list, workspace_root, tp_funcs_d
         
         # 检查是否有apiUsage部分
         if 'apiUsage' not in data:
-            print(f"警告：文件{file_path}没有apiUsage部分，跳过处理")
+            # print(f"警告：文件{file_path}没有apiUsage部分，跳过处理")
             return ResSummary()
         
         enhanced_api_usage = {}

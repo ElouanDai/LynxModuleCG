@@ -49,15 +49,19 @@ def main():
                 continue
             
             # 构建相对路径作为输出文件名（相对于工作区根目录）
+            # 提取仓库名称（从workspace_root路径中）
+            repo_name = os.path.basename(workspace_root).replace('-', '_')
+            
             relative_path = os.path.relpath(path, workspace_root)
             
-            # 特殊处理根目录
+            # 生成从仓库名称开始的路径格式
             if relative_path == '.':
-                output_filename = 'root.json'
+                # 根目录情况
+                output_filename = f"{repo_name}.json"
             else:
-                # 替换路径中的-为_，然后用-连接路径组件
+                # 替换路径中的特殊字符，确保格式一致
                 safe_relative_path = relative_path.replace('-', '_').replace(os.sep, '-')
-                output_filename = f"{safe_relative_path}.json"
+                output_filename = f"{repo_name}-{safe_relative_path}.json"
             
             output_path = os.path.join(output_dir, output_filename)
 
