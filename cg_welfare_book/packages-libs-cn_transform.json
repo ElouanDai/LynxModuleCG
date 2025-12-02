@@ -1,0 +1,185 @@
+{
+	"time": "Tue, 02 Dec 2025 13:40:56 GMT",
+	"functions": [
+		"@ies/cn-transform@1.0.39:src/build.js:5:1:addWord",
+		"@ies/cn-transform@1.0.39:src/build.js:21:1:loadFile",
+		"@ies/cn-transform@1.0.39:src/build.js:27:10:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:32:13:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:33:10:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:39:1:flatternObj",
+		"@ies/cn-transform@1.0.39:src/build.js:52:1:run",
+		"@ies/cn-transform@1.0.39:src/build.js:57:13:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:58:14:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:67:1:loadKVFile",
+		"@ies/cn-transform@1.0.39:src/build.js:74:10:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:84:1:getStr",
+		"@ies/cn-transform@1.0.39:src/build.js:86:26:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:86:58:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/build.js:99:1:generateTranslateStr",
+		"@ies/cn-transform@1.0.39:src/main/common.ts:4:8:Trie",
+		"@ies/cn-transform@1.0.39:src/main/common.ts:18:3:convert",
+		"@ies/cn-transform@1.0.39:src/main/getArrMap.ts:1:1:isNumber",
+		"@ies/cn-transform@1.0.39:src/main/getArrMap.ts:8:8:getArrMap",
+		"@ies/cn-transform@1.0.39:src/main/isUncommon.ts:3:1:loadDict",
+		"@ies/cn-transform@1.0.39:src/main/isUncommon.ts:6:26:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/main/isUncommon.ts:14:8:isUnCommon",
+		"@ies/cn-transform@1.0.39:src/main/s2tm.ts:8:1:loadDict",
+		"@ies/cn-transform@1.0.39:src/main/s2tm.ts:15:8:converterSimpleChar",
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts:14:8:t2s",
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts:20:32:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts:23:12:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts:27:18:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/main/t2st.ts:11:8:t2st",
+		"@ies/cn-transform@1.0.39:src/main/t2st.ts:16:30:<anonymous>",
+		"@ies/cn-transform@1.0.39:src/main/t2st.ts:19:10:<anonymous>",
+		"@ies/cn-transform@1.0.39:eden.config.ts",
+		"@ies/cn-transform@1.0.39:src/build.js",
+		"@ies/cn-transform@1.0.39:src/index.ts",
+		"@ies/cn-transform@1.0.39:src/main/common.ts",
+		"@ies/cn-transform@1.0.39:src/main/getArrMap.ts",
+		"@ies/cn-transform@1.0.39:src/main/isUncommon.ts",
+		"@ies/cn-transform@1.0.39:src/main/s2tm.ts",
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts",
+		"@ies/cn-transform@1.0.39:src/main/t2st.ts"
+	],
+	"fun2fun": {
+		"@ies/cn-transform@1.0.39:src/build.js:33:10:<anonymous>": [
+			"@ies/cn-transform@1.0.39:src/build.js:5:1:addWord"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:58:14:<anonymous>": [
+			"@ies/cn-transform@1.0.39:src/build.js:21:1:loadFile"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:52:1:run": [
+			"@ies/cn-transform@1.0.39:src/build.js:39:1:flatternObj",
+			"@ies/cn-transform@1.0.39:src/build.js:57:13:<anonymous>",
+			"@ies/cn-transform@1.0.39:src/build.js:58:14:<anonymous>"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:99:1:generateTranslateStr": [
+			"@ies/cn-transform@1.0.39:src/build.js:67:1:loadKVFile",
+			"@ies/cn-transform@1.0.39:src/build.js:84:1:getStr"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js": [
+			"@ies/cn-transform@1.0.39:src/build.js:99:1:generateTranslateStr",
+			"@ies/cn-transform@1.0.39:src/build.js:52:1:run"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:5:1:addWord": [
+			"@ies/cn-transform@1.0.39:src/build.js:5:1:addWord"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:39:1:flatternObj": [
+			"@ies/cn-transform@1.0.39:src/build.js:39:1:flatternObj"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:84:1:getStr": [
+			"@ies/cn-transform@1.0.39:src/build.js:86:26:<anonymous>",
+			"@ies/cn-transform@1.0.39:src/build.js:86:58:<anonymous>"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:21:1:loadFile": [
+			"@ies/cn-transform@1.0.39:src/build.js:27:10:<anonymous>",
+			"@ies/cn-transform@1.0.39:src/build.js:32:13:<anonymous>",
+			"@ies/cn-transform@1.0.39:src/build.js:33:10:<anonymous>"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:67:1:loadKVFile": [
+			"@ies/cn-transform@1.0.39:src/build.js:74:10:<anonymous>"
+		],
+		"@ies/cn-transform@1.0.39:src/main/getArrMap.ts:8:8:getArrMap": [
+			"@ies/cn-transform@1.0.39:src/main/getArrMap.ts:1:1:isNumber"
+		],
+		"@ies/cn-transform@1.0.39:src/main/isUncommon.ts": [
+			"@ies/cn-transform@1.0.39:src/main/isUncommon.ts:3:1:loadDict"
+		],
+		"@ies/cn-transform@1.0.39:src/main/isUncommon.ts:3:1:loadDict": [
+			"@ies/cn-transform@1.0.39:src/main/isUncommon.ts:6:26:<anonymous>"
+		],
+		"@ies/cn-transform@1.0.39:src/main/s2tm.ts": [
+			"@ies/cn-transform@1.0.39:src/main/s2tm.ts:8:1:loadDict",
+			"@ies/cn-transform@1.0.39:src/main/common.ts"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts:14:8:t2s": [
+			"@ies/cn-transform@1.0.39:src/main/t2s.ts:14:8:t2s",
+			"@ies/cn-transform@1.0.39:src/main/t2s.ts:23:12:<anonymous>",
+			"@ies/cn-transform@1.0.39:src/main/t2s.ts:20:32:<anonymous>"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2st.ts:11:8:t2st": [
+			"@ies/cn-transform@1.0.39:src/main/t2st.ts:19:10:<anonymous>",
+			"@ies/cn-transform@1.0.39:src/main/t2st.ts:16:30:<anonymous>"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2st.ts": [
+			"@ies/cn-transform@1.0.39:src/main/getArrMap.ts:8:8:getArrMap",
+			"@ies/cn-transform@1.0.39:src/main/getArrMap.ts"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts": [
+			"@ies/cn-transform@1.0.39:src/main/getArrMap.ts:8:8:getArrMap",
+			"@ies/cn-transform@1.0.39:src/main/getArrMap.ts"
+		],
+		"@ies/cn-transform@1.0.39:src/main/s2tm.ts:8:1:loadDict": [
+			"@ies/cn-transform@1.0.39:src/main/common.ts:4:8:Trie"
+		],
+		"@ies/cn-transform@1.0.39:src/main/s2tm.ts:15:8:converterSimpleChar": [
+			"@ies/cn-transform@1.0.39:src/main/common.ts:18:3:convert"
+		],
+		"@ies/cn-transform@1.0.39:src/index.ts": [
+			"@ies/cn-transform@1.0.39:src/main/t2s.ts",
+			"@ies/cn-transform@1.0.39:src/main/isUncommon.ts",
+			"@ies/cn-transform@1.0.39:src/main/s2tm.ts",
+			"@ies/cn-transform@1.0.39:src/main/t2st.ts"
+		]
+	},
+	"nativeCalls": {
+		"@ies/cn-transform@1.0.39:src/build.js:52:1:run": [
+			"JSON.stringify"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:99:1:generateTranslateStr": [
+			"JSON.stringify"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:84:1:getStr": [
+			"Array.prototype.join",
+			"Array.prototype.push",
+			"Array.prototype.map",
+			"Array.prototype.sort"
+		],
+		"@ies/cn-transform@1.0.39:src/build.js:58:14:<anonymous>": [
+			"Array.prototype.indexOf"
+		],
+		"@ies/cn-transform@1.0.39:src/main/common.ts:18:3:convert": [
+			"Array.prototype.join",
+			"Array.prototype.push"
+		],
+		"@ies/cn-transform@1.0.39:src/main/getArrMap.ts:8:8:getArrMap": [
+			"Array.from"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts:14:8:t2s": [
+			"Array.from",
+			"Array.prototype.map",
+			"Array.prototype.join"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts:27:18:<anonymous>": [
+			"Array.prototype.push"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2s.ts": [
+			"Array.prototype.join"
+		],
+		"@ies/cn-transform@1.0.39:src/main/t2st.ts:11:8:t2st": [
+			"Array.from",
+			"Array.prototype.map",
+			"Array.prototype.join"
+		]
+	},
+	"apiUsage": {
+		"@ies/cn-transform@1.0.39:eden.config.ts": [
+			{"api": "<@ies/eden-lib-build>.createEdenConfig()", "importType": "import"}
+		]
+	},
+	"reexports": {
+		"./main/t2s": [
+			"t2s"
+		],
+		"./main/isUncommon": [
+			"isUnCommon"
+		],
+		"./main/s2tm": [
+			"s2tm"
+		],
+		"./main/t2st": [
+			"t2st"
+		]
+	}
+ }

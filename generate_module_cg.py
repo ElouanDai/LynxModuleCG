@@ -10,7 +10,7 @@ import argparse
 def main():
     parser = argparse.ArgumentParser(description='Generate module call graph')
     parser.add_argument('target_dir', help='Target directory to scan')
-    parser.add_argument('jelly', help='Jelly executable path')
+    parser.add_argument('jelly_path', help='Jelly executable path')
     args = parser.parse_args()
     
     target_dir = args.target_dir

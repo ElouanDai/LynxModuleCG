@@ -1,0 +1,854 @@
+{
+	"time": "Tue, 02 Dec 2025 13:40:55 GMT",
+	"functions": [
+		"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx:21:8:useAssistantContext",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:34:1$320:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:79:8:AssistantChat",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:103:26:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:113:36:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:131:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:136:12:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:142:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:146:21:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:160:12:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:166:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:184:26:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:185:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:195:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:199:40:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:202:25:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:205:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:209:25:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:214:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:228:5:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:245:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:254:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:264:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:265:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:273:29:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:283:25:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:288:17:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:293:22:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:295:17:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:301:29:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:305:32:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:309:30:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:317:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:337:26:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:346:33:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:362:34:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:378:30:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:383:28:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:407:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:408:12:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/index.tsx:423:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:64:15:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:65:15:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:85:8:useAssistantChat",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:94:5:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:200:39:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:230:43:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:231:41:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:236:26:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:246:25:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:277:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:287:28:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:8:8:updateDomStyle",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:11:53:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:12:22:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:13:46:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:19:40:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:38:28:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:42:33:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:44:41:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:45:36:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:49:8:pushStream",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:56:46:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:64:8:getHistoryQuery",
+		"@guji/shidian-ai@0.1.0:src/utils.ts:68:8:openUrl",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:31:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:32:40:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:33:44:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:34:36:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:35:35:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:36:34:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:37:36:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:38:49:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:39:34:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:41:44:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:48:36:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:49:38:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:49:76:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:51:42:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:51:79:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:53:37:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:82:8:Answer",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:83:30:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:86:27:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:16:29:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:33:16:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:89:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:90:16:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:129:21:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:161:21:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:168:1$887:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:174:26:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:207:33:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:17:1:Link",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:26:30:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:50:58:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:56:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:64:1:Content",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:72:8:AnswerContent",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:87:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:96:36:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:111:30:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:12:8:LinkList",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:16:45:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:17:22:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:24:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:47:21:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:50:56:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/QuestionList/index.tsx:7:8:QuestionList",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/QuestionList/index.tsx:22:25:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/QuestionList/index.tsx:23:50:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:32:1:Feedback",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:39:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:43:24:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:55:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:65:5:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:86:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:91:12:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:97:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:101:21:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:115:12:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:138:31:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:142:24:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:167:1:Copy",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:171:22:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:175:34:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:193:8:Toolbar",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:199:27:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:213:25:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:218:22:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:225:28:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:246:31:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:269:30:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:269:45:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:270:33:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:270:48:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:272:24:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:308:50:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:10:1:isStreamShow",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:11:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:14:19:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:15:34:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:20:22:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:30:8:ChatList",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:50:21:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:1:1$247:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:32:8:ChatTextarea",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:45:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:56:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:57:30:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:74:12:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:81:32:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:100:29:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:115:26:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:122:18:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:132:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:137:16:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:140:16:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:20:8:PresetQuestion",
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:24:23:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:39:36:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:54:13:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:68:45:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:69:64:<anonymous>",
+		"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx",
+		"@guji/shidian-ai@0.1.0:src/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts",
+		"@guji/shidian-ai@0.1.0:src/utils.ts",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/QuestionList/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx",
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx"
+	],
+	"fun2fun": {
+		"@guji/shidian-ai@0.1.0:src/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:34:1$320:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts",
+			"@guji/shidian-ai@0.1.0:src/utils.ts"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:113:36:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:103:26:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:8:8:updateDomStyle"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:228:5:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:103:26:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:245:19:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:254:19:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:309:30:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:103:26:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:8:8:updateDomStyle"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:362:34:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:103:26:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:346:33:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:378:30:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:346:33:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:423:13:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:103:26:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:195:13:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:199:40:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:79:8:AssistantChat": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:113:36:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:228:5:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:131:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:142:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:166:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:195:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:205:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:214:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:317:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:407:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:423:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:20:8:PresetQuestion",
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:32:8:ChatTextarea",
+			"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:30:8:ChatList",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo",
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:85:8:useAssistantChat"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:337:26:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:378:30:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:383:28:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:362:34:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:199:40:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:202:25:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:205:13:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:209:25:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:264:19:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:265:23:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:283:25:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:288:17:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:293:22:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:295:17:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:142:13:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:146:21:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:166:13:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx:184:26:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/index.tsx:185:19:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:64:8:getHistoryQuery"
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:94:5:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:64:15:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:277:23:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:64:15:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:65:15:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:85:8:useAssistantChat": [
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:94:5:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:287:28:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:8:8:updateDomStyle": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:19:40:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:11:53:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:12:22:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:49:8:pushStream": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:56:46:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:38:28:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:42:33:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:44:41:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:45:36:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:83:30:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:31:23:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:82:8:Answer": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:86:27:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:83:30:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:193:8:Toolbar",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/QuestionList/index.tsx:7:8:QuestionList",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:12:8:LinkList",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:72:8:AnswerContent"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:168:1$887:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:207:33:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:16:29:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:16:29:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:33:16:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:161:21:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:129:21:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:33:16:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:89:19:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:90:16:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:50:58:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:26:30:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:96:36:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:17:1:Link",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:64:1:Content"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:50:56:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:24:23:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:12:8:LinkList": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:47:21:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:16:45:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx:21:8:useAssistantContext"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:142:24:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:55:23:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:213:25:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:199:27:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:218:22:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:199:27:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:225:28:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:199:27:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:246:31:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:199:27:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:193:8:Toolbar": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:167:1:Copy",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:32:1:Feedback",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:269:30:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:270:33:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx:21:8:useAssistantContext"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:171:22:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:175:34:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:32:1:Feedback": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:138:31:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:65:5:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:39:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:86:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:97:13:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:269:30:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:269:45:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:270:33:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:270:48:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:97:13:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:101:21:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:50:21:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:20:22:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:10:1:isStreamShow",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:82:8:Answer"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:1:1$247:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx",
+			"@guji/shidian-ai@0.1.0:src/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/utils.ts"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:100:29:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:81:32:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:122:18:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:81:32:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:115:26:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:122:18:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:132:23:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:137:16:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:140:16:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:32:8:ChatTextarea": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:45:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:56:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx:21:8:useAssistantContext"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:56:13:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:57:30:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:74:12:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:57:30:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:69:64:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:24:23:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:20:8:PresetQuestion": [
+			"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:39:36:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:54:13:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:68:45:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx:21:8:useAssistantContext"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:31:23:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:207:33:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:245:19:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:49:8:pushStream",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:265:23:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:49:8:pushStream"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:295:17:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:49:8:pushStream"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:81:32:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:8:8:updateDomStyle"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:65:5:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:8:8:updateDomStyle"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:17:22:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:174:26:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:24:23:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:174:26:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/utils.ts:68:8:openUrl"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:17:1:Link": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:174:26:<anonymous>",
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx:21:8:useAssistantContext"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:26:30:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:68:8:openUrl"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:111:30:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:68:8:openUrl"
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:12:22:<anonymous>": [
+			"@guji/shidian-ai@0.1.0:src/utils.ts:13:46:<anonymous>"
+		],
+		"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx"
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx"
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts": [
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts",
+			"@guji/shidian-ai@0.1.0:src/index.tsx"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/QuestionList/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx",
+			"@guji/shidian-ai@0.1.0:src/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/utils.ts",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx",
+			"@guji/shidian-ai@0.1.0:src/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/utils.ts",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/QuestionList/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx",
+			"@guji/shidian-ai@0.1.0:src/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/utils.ts"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/index.tsx",
+			"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts",
+			"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx": [
+			"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx",
+			"@guji/shidian-ai@0.1.0:src/index.tsx"
+		]
+	},
+	"nativeCalls": {
+		"@guji/shidian-ai@0.1.0:src/index.tsx:195:13:<anonymous>": [
+			"clearTimeout",
+			"setTimeout"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:214:13:<anonymous>": [
+			"Date.now"
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:317:13:<anonymous>": [
+			"JSON.stringify"
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:65:15:<anonymous>": [
+			"setTimeout"
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:94:5:<anonymous>": [
+			"clearTimeout"
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:246:25:<anonymous>": [
+			"Array.prototype.includes"
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:38:28:<anonymous>": [
+			"Array.prototype.includes"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:207:33:<anonymous>": [
+			"parseInt"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:33:16:<anonymous>": [
+			"Array.prototype.push"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:12:8:LinkList": [
+			"Array.prototype.map"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:17:22:<anonymous>": [
+			"Array.prototype.push"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:171:22:<anonymous>": [
+			"clearTimeout",
+			"setTimeout"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:32:1:Feedback": [
+			"Array.prototype.map"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatList/index.tsx:14:19:<anonymous>": [
+			"Array.prototype.includes"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:81:32:<anonymous>": [
+			"parseInt",
+			"Math.min"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:115:26:<anonymous>": [
+			"setTimeout"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:132:23:<anonymous>": [
+			"setTimeout"
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:39:36:<anonymous>": [
+			"JSON.parse"
+		]
+	},
+	"apiUsage": {
+		"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx": [
+			{"api": "<react>.createContext()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/AssistantContext.tsx:21:8:useAssistantContext": [
+			{"api": "<react>.useContext()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:79:8:AssistantChat": [
+			{"api": "<react>.useCallback()", "importType": "import"},
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:85:8:useAssistantChat": [
+			{"api": "<react>.useCallback()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:32:1:Feedback": [
+			{"api": "<react>.useCallback()", "importType": "import"},
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:20:8:PresetQuestion": [
+			{"api": "<react>.useCallback()", "importType": "import"},
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:32:8:ChatTextarea": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<@guji/cross-platform>.useAutoPopupKeyboard()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:167:1:Copy": [
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:193:8:Toolbar": [
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<react>.useMemo()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:17:1:Link": [
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<lodash-es>.isEmpty()", "importType": "import"},
+			{"api": "<@ies/cn-transform>.t2s()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/index.tsx:82:8:Answer": [
+			{"api": "<react>.useMemo()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:131:13:<anonymous>": [
+			{"api": "<@guji/cross-platform>.keyboardStatusChange()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:86:13:<anonymous>": [
+			{"api": "<@guji/cross-platform>.keyboardStatusChange()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:68:8:openUrl": [
+			{"api": "<@guji/cross-platform>.bridgeOpen()", "importType": "import"},
+			{"api": "<@guji/cross-platform>.formatLinkScheme()", "importType": "import"},
+			{"api": "<@guji/cross-platform>.openReader()", "importType": "import"},
+			{"api": "<react>.useContext….sendSlardarEvent()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:218:22:<anonymous>": [
+			{"api": "<@guji/cross-platform>.copy()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:272:24:<anonymous>": [
+			{"api": "<@guji/cross-platform>.showToast()", "importType": "import"},
+			{"api": "<react>.useContext….sendTeaEvent()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….assistantChatFeedback()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:337:26:<anonymous>": [
+			{"api": "<lodash-es>.debounce()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:166:13:<anonymous>": [
+			{"api": "<lodash-es>.last()", "importType": "import"},
+			{"api": "<react>.useRef….push()", "importType": "import"},
+			{"api": "<react>.useRef….slice()", "importType": "import"},
+			{"api": "<lodash-es>.last….filter()", "importType": "import"},
+			{"api": "<lodash-es>.last….reduce()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:283:25:<anonymous>": [
+			{"api": "<lodash-es>.last()", "importType": "import"},
+			{"api": "<react>.useCallback()()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useRef….slice()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:25:8:getInfo": [
+			{"api": "<lodash-es>.last()", "importType": "import"},
+			{"api": "<lodash-es>.last….findIndex()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:49:8:pushStream": [
+			{"api": "<lodash-es>.last()", "importType": "import"},
+			{"api": "<lodash-es>.last….findIndex()", "importType": "import"},
+			{"api": "<lodash-es>.last….splice()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:33:16:<anonymous>": [
+			{"api": "<lodash-es>.last()", "importType": "import"},
+			{"api": "<lodash-es>.isNumber()", "importType": "import"},
+			{"api": "<lodash-es>.last….push()", "importType": "import"},
+			{"api": "<markdown-it>.default….parse()", "importType": "import"},
+			{"api": "<markdown-it>.default….filter()", "importType": "import"},
+			{"api": "<markdown-it>.default….match()", "importType": "import"},
+			{"api": "<markdown-it>.default….map()", "importType": "import"},
+			{"api": "<markdown-it>.default….join()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:207:33:<anonymous>": [
+			{"api": "<lodash-es>.last()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:39:36:<anonymous>": [
+			{"api": "<lodash-es>.isEmpty()", "importType": "import"},
+			{"api": "<react>.useContext….getTccData()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:269:30:<anonymous>": [
+			{"api": "<lodash-es>.throttle()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:270:33:<anonymous>": [
+			{"api": "<lodash-es>.throttle()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:16:29:<anonymous>": [
+			{"api": "<markdown-it>.default()", "importType": "import"},
+			{"api": "<markdown-it>.default….use()", "importType": "import"},
+			{"api": "<markdown-it>.default….parseInline()", "importType": "import"},
+			{"api": "<markdown-it>.default….forEach()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/parseMarkdown.ts:174:26:<anonymous>": [
+			{"api": "<@ies/cn-transform>.t2s()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:65:5:<anonymous>": [
+			{"api": "<@annie/api>.asyncCall()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:146:21:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:273:29:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:301:29:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:305:32:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:317:13:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:94:5:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"},
+			{"api": "<@edenx/runtime/axios>.default….source()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:228:5:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:295:17:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:101:21:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:54:13:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:26:30:<anonymous>": [
+			{"api": "<react>.useContext….sendTeaEvent()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/LinkList/index.tsx:24:23:<anonymous>": [
+			{"api": "<react>.useContext….sendTeaEvent()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:199:27:<anonymous>": [
+			{"api": "<react>.useContext….sendTeaEvent()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/PresetQuestion/index.tsx:24:23:<anonymous>": [
+			{"api": "<react>.useContext….sendTeaEvent()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:246:31:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….assistantChatFeedback()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:269:45:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:225:28:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….assistantChatFeedback()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:270:48:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:199:40:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:205:13:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:264:19:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:293:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:113:36:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/AnswerContent/index.tsx:56:19:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:43:24:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:39:13:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:55:23:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:171:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:175:34:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:308:50:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:45:13:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:100:29:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:115:26:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useRef….focus()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:136:12:<anonymous>": [
+			{"api": "<@guji/cross-platform>.keyboardStatusChange….remove()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:91:12:<anonymous>": [
+			{"api": "<@guji/cross-platform>.keyboardStatusChange….remove()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:142:13:<anonymous>": [
+			{"api": "<@bridge/x>.default….on()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:97:13:<anonymous>": [
+			{"api": "<@bridge/x>.default….on()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:160:12:<anonymous>": [
+			{"api": "<@bridge/x>.default….off()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/Answer/Toolbar/index.tsx:115:12:<anonymous>": [
+			{"api": "<@bridge/x>.default….off()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/utils.ts:8:8:updateDomStyle": [
+			{"api": "<react>.useRef….getAttribute()", "importType": "import"},
+			{"api": "<react>.useRef….setAttribute()", "importType": "import"},
+			{"api": "<react>.useRef….split()", "importType": "import"},
+			{"api": "<react>.useRef….filter()", "importType": "import"},
+			{"api": "<react>.useRef….forEach()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:81:32:<anonymous>": [
+			{"api": "<react>.useRef….setAttribute()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/index.tsx:408:12:<anonymous>": [
+			{"api": "<react>.useRef….removeEventListener()", "importType": "import"},
+			{"api": "<react>.useRef….unobserve()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/useAssistantChat.ts:287:28:<anonymous>": [
+			{"api": "<react>.useRef….cancel()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:57:30:<anonymous>": [
+			{"api": "<react>.useRef….getBoundingClientRect()", "importType": "import"},
+			{"api": "<react>.useRef….blur()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:137:16:<anonymous>": [
+			{"api": "<react>.useRef….blur()", "importType": "import"}
+		],
+		"@guji/shidian-ai@0.1.0:src/components/ChatTextarea/index.tsx:140:16:<anonymous>": [
+			{"api": "<react>.useRef….focus()", "importType": "import"}
+		]
+	},
+	"reexports": {
+	}
+ }

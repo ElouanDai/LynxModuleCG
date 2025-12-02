@@ -1,0 +1,2597 @@
+{
+	"time": "Tue, 02 Dec 2025 13:41:09 GMT",
+	"functions": [
+		"@guji/dongba@0.1.0:eden.pipeline.ts:1:1$210:_taggedTemplateLiteralLoose",
+		"@guji/dongba@0.1.0:eden.pipeline.ts:12:23:<anonymous>",
+		"@guji/dongba@0.1.0:eden.pipeline.ts:20:25:<anonymous>",
+		"@guji/dongba@0.1.0:eden.pipeline.ts:23:25:<anonymous>",
+		"@guji/dongba@0.1.0:eden.pipeline.ts:26:36:<anonymous>",
+		"@guji/dongba@0.1.0:eden.pipeline.ts:44:16:<anonymous>",
+		"@guji/dongba@0.1.0:eden.pipeline.ts:51:16:<anonymous>",
+		"@guji/dongba@0.1.0:modern.config.private.ts:110:19:<anonymous>",
+		"@guji/dongba@0.1.0:modern.config.ts:171:19:<anonymous>",
+		"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts:5:21:<anonymous>",
+		"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts:17:31:<anonymous>",
+		"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts:18:3:setup",
+		"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts:20:20:<anonymous>",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:9:1:getTeaEventSchemaV2",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:17:1:getAllEventList",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:41:1:camelCase",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:44:10:<anonymous>",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:68:1:paramMetaAdapter",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:80:1:eventMateAdapter",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:87:1:dataAdapter",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:89:22:<anonymous>",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:92:1:codeTemplate",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:116:20:<anonymous>",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:138:1:writeFile",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:143:47:<anonymous>",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:151:1:main",
+		"@guji/dongba@0.1.0:src/components/AngleButton/AngleSVG.tsx:4:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/AngleButton/index.tsx:10:57:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Aspect/index.tsx:4:16:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/AvatarButton/AvatarSVG.tsx:4:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/AvatarButton/index.tsx:10:58:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade",
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:14:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:19:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Link/index.tsx:13:54:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:10:8:Loading",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:18:16:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:20:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:27:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:42:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:57:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:60:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:67:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/LoadingAnimate/index.tsx:9:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/LoadingPlugin/index.tsx:4:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:35:53:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:55:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:60:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:65:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:77:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:83:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:89:37:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:99:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:122:9:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:131:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:135:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:163:58:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:210:58:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:230:47:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:235:47:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:244:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:254:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:261:37:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:264:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:21:1$255:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:71:1$469:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:103:3:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:126:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:128:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:129:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:139:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:151:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:157:62:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:162:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:166:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:171:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:176:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:183:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:188:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:200:31:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:208:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:210:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:219:29:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:230:7:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:247:15:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:256:15:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:263:14:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/GraphButton/GraphSVG.tsx:4:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx:16:38:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx:42:45:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:10:33:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:13:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:32:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:40:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:47:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:60:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:7:8:Voice",
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:10:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:13:31:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/AngleButton/AngleSVG.tsx:4:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/AngleButton/index.tsx:10:57:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Aspect/index.tsx:4:16:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/AvatarSVG.tsx:4:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/index.tsx:10:58:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/GraphButton/GraphSVG.tsx:4:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx:10:38:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:5:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:8:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:26:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:34:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:18:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:34:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:14:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:22:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:31:16:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:10:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:17:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:32:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:41:41:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:48:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:78:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:82:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:99:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:9:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:13:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:18:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:34:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:44:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:21:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:31:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:41:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:43:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:11:6:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:23:20:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:11:16:Title",
+		"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:35:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:96:36:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:14:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:22:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:14:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:22:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:32:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:47:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:56:41:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:63:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:99:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:103:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:131:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:6:1:BarPlugin",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:7:14:pluginName",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:11:17:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:65:17:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:87:15:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:136:7:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:145:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:152:17:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:159:3:render",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:7:1:CurrentPlugin",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:8:14:pluginName",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:12:14:defaultConfig",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:25:3:duration",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:29:3:currentTime",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:33:3:timeOffset",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:37:3:afterCreate",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:48:37:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:51:33:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:55:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:59:29:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:64:3:show",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:72:3:hide",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:80:3:onTimeUpdate",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:95:3:onReset",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:103:3:createCenterTime",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:122:3:afterPlayerInit",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:134:3:changeLiveState",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:142:3:updateTime",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:154:3:resetActive",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:156:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:167:3:destroy",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:173:3:render",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:7:1:DurationPlugin",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:8:14:pluginName",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:12:14:defaultConfig",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:25:3:duration",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:29:3:afterCreate",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:40:37:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:43:33:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:47:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:51:29:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:56:3:show",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:63:3:hide",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:70:3:onTimeUpdate",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:87:3:onReset",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:95:3:createCenterTime",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:111:3:afterPlayerInit",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:123:3:changeLiveState",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:131:3:resetActive",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:133:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:144:3:destroy",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:150:3:render",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:8:1:PausePlugin",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:9:14:pluginName",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:13:14:defaultConfig",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:21:3:afterCreate",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:31:59:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:34:26:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:40:3:registerIcons",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:47:3:btnClick",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:68:3:initIcons",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:74:3:animate",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:85:3:destroy",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:90:3:render",
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:11:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:15:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:20:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:47:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:57:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Mouse/index.tsx:5:15:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:6:14:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:9:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:21:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:28:47:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:1:1$229:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:26:38:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:28:38:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:62:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:71:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:82:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:97:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:107:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:119:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:131:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:144:67:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:146:16:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx:13:1$212:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx:19:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx:26:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx:38:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx:52:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:9:27:SubTab",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:14:50:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:15:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:21:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:22:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:27:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:32:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:55:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:61:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/SubTabs/index.tsx:18:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title",
+		"@guji/dongba@0.1.0:src/components/Title/index.tsx:31:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/components/Title/index.tsx:93:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageData.tsx:30:8:usePageDataContext",
+		"@guji/dongba@0.1.0:src/context/pageData.tsx:34:8:PageDataContainer",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:15:1$250:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:24:1$321:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:116:20:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:129:8:PageStateContainer",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:141:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:152:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:160:26:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:164:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:170:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:173:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:178:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:199:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:226:20:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:231:26:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:237:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:239:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/data/resource/index.ts:12:1$205:<anonymous>",
+		"@guji/dongba@0.1.0:src/data/resource/index.ts:31:1$264:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/useHandOff.tsx:3:16:useHandOff",
+		"@guji/dongba@0.1.0:src/hooks/useHandOff.tsx:4:59:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:5:8:usePushState",
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:6:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:33:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:35:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:39:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:5:8:useScroll",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:11:7:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:30:34:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:75:36:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:88:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:92:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:99:14:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/csr/index.ts:1:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts:9:26:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts:12:26:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts:13:42:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:5:8:AfmpComp",
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:6:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:10:8:useAfmp",
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:11:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:5:8:SlardarNode",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:8:3:init",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:17:3:start",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:21:3:sendEvent",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:26:3:reportAfmp",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:11:8:SlardarWeb",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:14:3:getGpuInfo",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:27:3:init",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:70:3:start",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:77:3:sendEvent",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:85:3:reportAfmp",
+		"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:8:8:useStayTime",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:12:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:23:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:26:5:handleVisibilityChange",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:31:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:38:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:52:8:useLifeCycle",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:60:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:70:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:76:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:91:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:93:38:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:100:38:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/page.tsx:4:8:ReportOverview",
+		"@guji/dongba@0.1.0:src/libs/tea/page.tsx:9:8:ReportStory",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:25:8:TeaClass",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:32:3:init",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:50:3:start",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:58:3:config",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:70:3:getTeaSdk",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:75:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:88:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:131:3:event",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:151:3:beconEvent",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:162:3:log",
+		"@guji/dongba@0.1.0:src/libs/tea/utils.ts:13:8:getPageName",
+		"@guji/dongba@0.1.0:src/routes/layout.tsx:20:16:Layout",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:23:16:Introduction",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:27:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:28:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:30:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:30:54:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:42:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:43:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:45:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:52:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:57:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:61:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:64:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:91:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:97:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:102:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:108:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:115:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/page.tsx:132:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/aboutus/page.tsx:8:16:AboutUs",
+		"@guji/dongba@0.1.0:src/routes/aboutus/page.tsx:30:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:20:16:Book",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:37:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:58:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:68:34:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:82:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:94:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:96:44:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:100:44:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:115:45:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:119:45:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:187:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:188:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:194:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:217:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:22:16:Chanting",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:35:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:43:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:110:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:131:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:135:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:144:40:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:159:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:167:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:180:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:181:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/chanting/__components/PageSlide/index.tsx:14:36:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:23:16:Introduction",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:27:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:28:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:30:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:38:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:39:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:41:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:43:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:49:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:54:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:71:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:105:56:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:113:47:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/aboutus/page.tsx:9:16:AboutUs",
+		"@guji/dongba@0.1.0:src/routes/mobile/aboutus/page.tsx:33:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:24:16:Book",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:38:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:60:34:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:70:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:80:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:82:44:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:86:44:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:101:45:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:105:45:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:175:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:187:24:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:201:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:215:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:222:47:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:18:16:Chanting",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:34:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:42:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:76:49:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:94:30:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:96:29:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:104:30:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:129:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:154:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:166:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:167:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/__components/PageSlide/index.tsx:13:36:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:14:16:Read",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:36:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:37:20:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:43:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:44:20:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:8:43:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:12:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:19:7:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:20:16:Read",
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:28:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:29:21:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:40:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:14:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:19:22:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:37:47:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:42:19:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:14:16:Chars",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:18:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:19:18:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:21:35:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:21:54:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:35:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:38:39:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:53:12:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:81:25:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:1:1$261:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:22:16:Char",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:48:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:55:37:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:72:15:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:297:27:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:299:66:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:304:30:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:317:13:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:343:30:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:447:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:473:32:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:492:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:497:23:<anonymous>",
+		"@guji/dongba@0.1.0:src/utils/play.ts:3:8:playAudio",
+		"@guji/dongba@0.1.0:src/utils/play.ts:4:28:<anonymous>",
+		"@guji/dongba@0.1.0:src/utils/play.ts:11:37:<anonymous>",
+		"@guji/dongba@0.1.0:src/utils/play.ts:12:37:<anonymous>",
+		"@guji/dongba@0.1.0:src/utils/play.ts:13:37:<anonymous>",
+		"@guji/dongba@0.1.0:.eslintrc.js",
+		"@guji/dongba@0.1.0:eden.pipeline.ts",
+		"@guji/dongba@0.1.0:modern.config.private.ts",
+		"@guji/dongba@0.1.0:modern.config.ts",
+		"@guji/dongba@0.1.0:auto-generate/byte-io/index.ts",
+		"@guji/dongba@0.1.0:config/plugins/index.ts",
+		"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts",
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js",
+		"@guji/dongba@0.1.0:src/.eslintrc.js",
+		"@guji/dongba@0.1.0:src/components/AngleButton/AngleSVG.tsx",
+		"@guji/dongba@0.1.0:src/components/AngleButton/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Aspect/index.tsx",
+		"@guji/dongba@0.1.0:src/components/AvatarButton/AvatarSVG.tsx",
+		"@guji/dongba@0.1.0:src/components/AvatarButton/index.tsx",
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+		"@guji/dongba@0.1.0:src/components/common/Link/index.tsx",
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx",
+		"@guji/dongba@0.1.0:src/components/common/LoadingAnimate/index.tsx",
+		"@guji/dongba@0.1.0:src/components/common/LoadingPlugin/index.tsx",
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx",
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx",
+		"@guji/dongba@0.1.0:src/components/GraphButton/GraphSVG.tsx",
+		"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Lotties/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/AngleButton/AngleSVG.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/AngleButton/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Aspect/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/AvatarSVG.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/GraphButton/GraphSVG.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx",
+		"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts",
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts",
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Mouse/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx",
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx",
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx",
+		"@guji/dongba@0.1.0:src/components/SubTabs/index.tsx",
+		"@guji/dongba@0.1.0:src/components/Title/index.tsx",
+		"@guji/dongba@0.1.0:src/constants/index.tsx",
+		"@guji/dongba@0.1.0:src/context/pageData.tsx",
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+		"@guji/dongba@0.1.0:src/data/resource/index.ts",
+		"@guji/dongba@0.1.0:src/data/resource/version.ts",
+		"@guji/dongba@0.1.0:src/hooks/useHandOff.tsx",
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx",
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx",
+		"@guji/dongba@0.1.0:src/libs/csr/index.ts",
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts",
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx",
+		"@guji/dongba@0.1.0:src/libs/slardar/index.ts",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts",
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/type.ts",
+		"@guji/dongba@0.1.0:src/libs/ssr/index.ts",
+		"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts",
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts",
+		"@guji/dongba@0.1.0:src/libs/tea/index.ts",
+		"@guji/dongba@0.1.0:src/libs/tea/page.tsx",
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts",
+		"@guji/dongba@0.1.0:src/libs/tea/utils.ts",
+		"@guji/dongba@0.1.0:src/routes/layout.tsx",
+		"@guji/dongba@0.1.0:src/routes/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/aboutus/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/chanting/__components/PageSlide/index.tsx",
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/mobile/aboutus/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/__components/PageSlide/index.tsx",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx",
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx",
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx",
+		"@guji/dongba@0.1.0:src/utils/play.ts"
+	],
+	"fun2fun": {
+		"@guji/dongba@0.1.0:eden.pipeline.ts:26:36:<anonymous>": [
+			"@guji/dongba@0.1.0:eden.pipeline.ts:12:23:<anonymous>",
+			"@guji/dongba@0.1.0:eden.pipeline.ts:1:1$210:_taggedTemplateLiteralLoose",
+			"@guji/dongba@0.1.0:eden.pipeline.ts:20:25:<anonymous>",
+			"@guji/dongba@0.1.0:eden.pipeline.ts:23:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:eden.pipeline.ts:51:16:<anonymous>": [
+			"@guji/dongba@0.1.0:eden.pipeline.ts:26:36:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts:20:20:<anonymous>": [
+			"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts:5:21:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:17:1:getAllEventList": [
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:9:1:getTeaEventSchemaV2"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:92:1:codeTemplate": [
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:41:1:camelCase",
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:116:20:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:151:1:main": [
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:17:1:getAllEventList",
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:87:1:dataAdapter",
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:92:1:codeTemplate",
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:138:1:writeFile"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js": [
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:151:1:main"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:80:1:eventMateAdapter": [
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:68:1:paramMetaAdapter"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:138:1:writeFile": [
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:143:47:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:87:1:dataAdapter": [
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:89:22:<anonymous>",
+			"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:80:1:eventMateAdapter"
+		],
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:14:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:19:13:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:60:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:18:16:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:67:18:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:18:16:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:20:18:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:27:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:42:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:20:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:18:16:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:20:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:10:8:Loading": [
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:57:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:60:25:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:55:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:77:39:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:60:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:83:39:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:60:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:131:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:99:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:135:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:99:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:55:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:235:47:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:230:47:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:163:58:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:210:58:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:163:58:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:55:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:210:58:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:55:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:264:18:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:65:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:35:53:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:131:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:135:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/common/LoadingAnimate/index.tsx:9:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:21:1$255:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:71:1$469:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:103:3:<anonymous>",
+			"@guji/dongba@0.1.0:src/data/resource/index.ts",
+			"@guji/dongba@0.1.0:src/libs/slardar/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:166:21:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:151:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:171:18:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:139:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:183:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:176:18:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:162:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:183:18:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:188:21:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:200:31:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:219:29:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:139:19:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:247:15:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:162:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:256:15:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:151:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:263:14:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:157:62:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:210:21:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:151:18:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:176:18:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:157:62:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:162:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:103:3:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:247:15:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:256:15:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:230:7:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:126:40:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:32:24:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Header/index.tsx:13:27:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:47:28:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Header/index.tsx:13:27:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:7:8:Voice": [
+			"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:10:13:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:34:24:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:8:27:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:18:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:14:40:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:22:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:10:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:10:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:32:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:48:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/LoadingPlugin/index.tsx:4:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:32:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:41:41:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:48:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:17:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:78:39:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:82:12:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:17:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:21:35:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:31:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/hooks/useHandOff.tsx:3:16:useHandOff"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:11:16:Title": [
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:35:39:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:96:36:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx:30:8:usePageDataContext",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:14:40:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:22:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:14:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:14:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:47:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:63:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/LoadingPlugin/index.tsx:4:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:47:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:56:41:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:63:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:32:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:99:39:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:22:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:103:12:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:32:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:22:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:87:15:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:136:7:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:6:14:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Play/index.tsx:9:13:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx": [
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:1:1$229:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/index.tsx",
+			"@guji/dongba@0.1.0:src/data/resource/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:26:38:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:62:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:28:38:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:62:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:71:18:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:82:18:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:97:18:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:107:18:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:119:18:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:131:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:144:67:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:146:16:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/Progress/index.tsx:13:1$212:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx:52:24:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Progress/index.tsx:26:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:9:27:SubTab": [
+			"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:21:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:32:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:14:50:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext"
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:9:27:SubTab",
+			"@guji/dongba@0.1.0:src/components/SubTabs/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title": [
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx:31:39:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx:93:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx:30:8:usePageDataContext",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:15:1$250:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:24:1$321:<anonymous>",
+			"@guji/dongba@0.1.0:src/hooks/usePopState.tsx",
+			"@guji/dongba@0.1.0:src/hooks/useScroll.tsx",
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:178:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:141:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:199:21:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:141:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:231:26:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:226:20:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:141:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:152:28:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:160:26:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:160:26:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:164:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:129:8:PageStateContainer": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:237:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:5:8:useScroll",
+			"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:5:8:usePushState"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:237:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:231:26:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:239:12:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:231:26:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/data/resource/index.ts": [
+			"@guji/dongba@0.1.0:src/data/resource/index.ts:12:1$205:<anonymous>",
+			"@guji/dongba@0.1.0:src/data/resource/index.ts:31:1$264:<anonymous>",
+			"@guji/dongba@0.1.0:src/constants/index.tsx"
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:5:8:usePushState": [
+			"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:33:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:6:40:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:33:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:35:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:39:12:<anonymous>": [
+			"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:35:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:5:8:useScroll": [
+			"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:88:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:30:34:<anonymous>",
+			"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:75:36:<anonymous>",
+			"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:11:7:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts:12:26:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/csr/ua.ts:9:26:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/csr/ua.ts:13:42:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:5:8:AfmpComp": [
+			"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:6:13:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:10:8:useAfmp": [
+			"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:11:13:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts": [
+			"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:5:8:SlardarNode",
+			"@guji/dongba@0.1.0:src/libs/slardar/forks/type.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts": [
+			"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:11:8:SlardarWeb",
+			"@guji/dongba@0.1.0:src/libs/slardar/forks/type.ts",
+			"@guji/dongba@0.1.0:src/libs/ssr/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:85:3:reportAfmp": [
+			"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:77:3:sendEvent",
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:27:3:init": [
+			"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:14:3:getGpuInfo",
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:8:8:useStayTime",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:52:8:useLifeCycle",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:93:38:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:100:38:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:91:32:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:8:8:useStayTime": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:12:27:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:38:35:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:23:13:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:52:8:useLifeCycle": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:60:32:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:70:13:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:23:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:26:5:handleVisibilityChange"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:31:12:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:26:5:handleVisibilityChange"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:25:8:TeaClass",
+			"@guji/dongba@0.1.0:auto-generate/byte-io/index.ts",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts",
+			"@guji/dongba@0.1.0:src/libs/ssr/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:75:23:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:88:21:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:131:3:event": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:88:21:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:162:3:log",
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:151:3:beconEvent": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:88:21:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:162:3:log",
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:23:16:Introduction": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:45:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:43:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:42:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:27:39:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:52:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/page.tsx:9:8:ReportStory",
+			"@guji/dongba@0.1.0:src/libs/tea/page.tsx:4:8:ReportOverview",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:11:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:35:53:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Mouse/index.tsx:5:15:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx:16:38:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Aspect/index.tsx:4:16:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:57:35:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:43:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:45:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:61:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:64:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:132:21:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:108:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:115:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:27:39:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:30:35:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/page.tsx:28:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:30:35:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:30:54:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:102:24:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:97:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:108:24:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:97:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/aboutus/page.tsx:8:16:AboutUs": [
+			"@guji/dongba@0.1.0:src/routes/aboutus/page.tsx:30:28:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:96:44:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:82:35:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:100:44:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:82:35:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:94:23:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:68:34:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:82:35:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:96:44:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:100:44:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:115:45:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:119:45:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:115:45:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:68:34:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:119:45:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:68:34:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:187:27:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:58:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:188:27:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:58:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:194:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:94:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:217:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:94:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:20:16:Book": [
+			"@guji/dongba@0.1.0:src/routes/book/page.tsx:37:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx:16:38:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Aspect/index.tsx:4:16:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:22:16:Chanting": [
+			"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:43:25:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:135:39:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:180:32:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:14:40:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/AvatarButton/index.tsx:10:58:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:110:28:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:35:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:181:19:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:35:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:23:16:Introduction": [
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:30:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:28:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:27:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:38:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/csr/ua.ts:12:26:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:11:6:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Aspect/index.tsx:4:16:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:9:22:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx:10:38:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/tea/page.tsx:9:8:ReportStory",
+			"@guji/dongba@0.1.0:src/libs/tea/page.tsx:4:8:ReportOverview",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:35:53:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:39:35:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:28:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:30:19:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:41:24:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:43:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:71:21:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:54:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/aboutus/page.tsx:9:16:AboutUs": [
+			"@guji/dongba@0.1.0:src/routes/mobile/aboutus/page.tsx:33:28:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:11:6:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:82:44:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:70:35:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:86:44:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:70:35:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:80:23:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:60:34:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:70:35:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:82:44:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:86:44:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:101:45:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:105:45:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:101:45:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:60:34:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:105:45:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:60:34:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:201:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:80:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:215:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:80:23:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:24:16:Book": [
+			"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:38:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:11:6:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Aspect/index.tsx:4:16:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx:10:38:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:129:28:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:34:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:18:16:Chanting": [
+			"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:42:25:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:96:29:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:166:32:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:14:40:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/index.tsx:10:58:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:11:6:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:167:19:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:34:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:28:27:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/read/page.tsx:29:21:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:20:16:Read": [
+			"@guji/dongba@0.1.0:src/routes/read/page.tsx:40:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:14:16:Chars",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:14:28:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/SubTabs/index.tsx:18:40:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:37:47:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:19:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:42:19:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:19:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:18:39:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:21:35:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:19:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:14:16:Chars": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:18:39:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:35:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx:30:8:usePageDataContext",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/components/Mouse/index.tsx:5:15:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:81:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:35:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:38:39:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:21:35:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:21:54:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:1:1$261:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Lotties/index.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx",
+			"@guji/dongba@0.1.0:src/utils/play.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:22:16:Char": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:55:37:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:72:15:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:304:30:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:48:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:317:13:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:7:8:Voice"
+		],
+		"@guji/dongba@0.1.0:src/utils/play.ts:3:8:playAudio": [
+			"@guji/dongba@0.1.0:src/utils/play.ts:4:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/utils/play.ts:4:28:<anonymous>": [
+			"@guji/dongba@0.1.0:src/utils/play.ts:11:37:<anonymous>",
+			"@guji/dongba@0.1.0:src/utils/play.ts:12:37:<anonymous>",
+			"@guji/dongba@0.1.0:src/utils/play.ts:13:37:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:297:27:<anonymous>": [
+			"@guji/dongba@0.1.0:src/utils/play.ts:3:8:playAudio",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:299:66:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:12:27:<anonymous>": [
+			"@guji/dongba@0.1.0:src/utils/play.ts:3:8:playAudio",
+			"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:19:7:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:81:25:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:22:16:Char"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:37:20:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:8:43:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:44:20:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:8:43:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:96:29:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/chanting/__components/PageSlide/index.tsx:13:36:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:135:39:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/chanting/__components/PageSlide/index.tsx:14:36:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:modern.config.ts": [
+			"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts:17:31:<anonymous>",
+			"@guji/dongba@0.1.0:config/plugins/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:14:28:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Play/index.tsx:6:14:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:14:40:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:8:43:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:7:8:Voice",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx:30:8:usePageDataContext"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:14:16:Read": [
+			"@guji/dongba@0.1.0:src/context/pageData.tsx:30:8:usePageDataContext",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:11:6:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:11:16:Title",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade",
+			"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:36:23:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:43:23:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:37:20:<anonymous>",
+			"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:44:20:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:11:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/AngleButton/index.tsx:10:57:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:57:27:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:47:32:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:11:6:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/common/Link/index.tsx:13:54:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:9:22:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/mobile/AngleButton/index.tsx:10:57:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:44:27:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:34:32:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:5:39:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:26:24:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:10:33:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext",
+			"@guji/dongba@0.1.0:src/components/common/Link/index.tsx:13:54:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Header/index.tsx:40:28:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/layout.tsx:20:16:Layout": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:129:8:PageStateContainer",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx:34:8:PageDataContainer",
+			"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:5:39:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:10:8:Loading",
+			"@guji/dongba@0.1.0:src/components/Header/index.tsx:10:33:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx:23:20:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/utils.ts:13:8:getPageName",
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:131:3:event"
+		],
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:60:24:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/utils.ts:13:8:getPageName",
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:131:3:event"
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:30:34:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:88:21:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts:1:25:<anonymous>",
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/page.tsx:4:8:ReportOverview": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/page.tsx:9:8:ReportStory": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:70:3:start": [
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:77:3:sendEvent": [
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:32:3:init": [
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:50:3:start": [
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:58:3:config": [
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts:1:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/index.tsx:38:23:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:26:38:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx:10:38:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/GraphButton/GraphSVG.tsx:4:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/index.tsx:10:58:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/AvatarSVG.tsx:4:19:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/AngleButton/index.tsx:10:57:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/mobile/AngleButton/AngleSVG.tsx:4:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx:16:38:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/GraphButton/GraphSVG.tsx:4:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/common/LoadingAnimate/index.tsx:9:24:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade"
+		],
+		"@guji/dongba@0.1.0:src/components/AvatarButton/index.tsx:10:58:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/AvatarButton/AvatarSVG.tsx:4:19:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/AngleButton/index.tsx:10:57:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/AngleButton/AngleSVG.tsx:4:18:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:91:32:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:88:21:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/layout.tsx": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:50:3:start",
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:32:3:init",
+			"@guji/dongba@0.1.0:src/components/Header/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/data/resource/index.ts",
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts",
+			"@guji/dongba@0.1.0:src/libs/slardar/index.ts",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:93:38:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:70:3:getTeaSdk"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:100:38:<anonymous>": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts:70:3:getTeaSdk"
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:6:40:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:141:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:11:7:<anonymous>": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:199:21:<anonymous>",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx:178:22:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:52:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/page.tsx:57:35:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:38:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:39:35:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:21:13:<anonymous>": [
+			"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:22:35:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:21:3:afterCreate": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:31:59:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:34:26:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:37:3:afterCreate": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:48:37:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:51:33:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:55:27:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:59:29:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:154:3:resetActive": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:156:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:29:3:afterCreate": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:40:37:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:43:33:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:47:27:<anonymous>",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:51:29:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:131:3:resetActive": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:133:25:<anonymous>"
+		],
+		"@guji/dongba@0.1.0:config/plugins/index.ts": [
+			"@guji/dongba@0.1.0:config/plugins/replaceSiteURL.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/AngleButton/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/AngleButton/AngleSVG.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/AvatarButton/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/AvatarButton/AvatarSVG.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/common/LoadingAnimate/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/LoadingAnimate/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/data/resource/index.ts",
+			"@guji/dongba@0.1.0:src/libs/slardar/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/GraphButton/GraphSVG.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/Link/index.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/Lotties/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx": [
+			"@guji/dongba@0.1.0:src/constants/index.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/AngleButton/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/mobile/AngleButton/AngleSVG.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/AvatarSVG.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/mobile/GraphButton/GraphSVG.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/LoadingPlugin/index.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/AngleButton/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/data/resource/version.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx": [
+			"@guji/dongba@0.1.0:src/hooks/useHandOff.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/Link/index.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageData.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx": [
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/LoadingPlugin/index.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/AngleButton/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/data/resource/version.ts"
+		],
+		"@guji/dongba@0.1.0:src/components/SubTabs/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/SubTab/index.tsx"
+		],
+		"@guji/dongba@0.1.0:src/components/Title/index.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageData.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx": [
+			"@guji/dongba@0.1.0:src/libs/csr/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx": [
+			"@guji/dongba@0.1.0:src/libs/slardar/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/index.ts": [
+			"@guji/dongba@0.1.0:src/libs/slardar/forks/type.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/ssr/index.ts": [
+			"@guji/dongba@0.1.0:src/libs/ssr/runtime/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts": [
+			"@guji/dongba@0.1.0:auto-generate/byte-io/index.ts",
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/index.ts": [
+			"@guji/dongba@0.1.0:src/libs/tea/tea.ts",
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts",
+			"@guji/dongba@0.1.0:src/libs/tea/utils.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/page.tsx": [
+			"@guji/dongba@0.1.0:src/libs/tea/hooks.ts"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/utils.ts": [
+			"@guji/dongba@0.1.0:auto-generate/byte-io/index.ts",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Aspect/index.tsx",
+			"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Mouse/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Progress/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx",
+			"@guji/dongba@0.1.0:src/data/resource/index.ts",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/page.tsx"
+		],
+		"@guji/dongba@0.1.0:src/routes/aboutus/page.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Aspect/index.tsx",
+			"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts",
+			"@guji/dongba@0.1.0:src/libs/slardar/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx": [
+			"@guji/dongba@0.1.0:src/routes/chanting/__components/PageSlide/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/components/AvatarButton/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/Players/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx",
+			"@guji/dongba@0.1.0:src/data/resource/index.ts",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Aspect/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx",
+			"@guji/dongba@0.1.0:src/libs/csr/ua.ts",
+			"@guji/dongba@0.1.0:src/libs/tea/page.tsx"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/aboutus/page.tsx": [
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Aspect/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/GraphButton/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts",
+			"@guji/dongba@0.1.0:src/libs/slardar/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx": [
+			"@guji/dongba@0.1.0:src/routes/mobile/chanting/__components/PageSlide/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/AvatarButton/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx": [
+			"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/components/mobile/ReadBook/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx": [
+			"@guji/dongba@0.1.0:src/utils/play.ts",
+			"@guji/dongba@0.1.0:src/constants/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Lotties/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx",
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx",
+			"@guji/dongba@0.1.0:src/components/SubTabs/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx",
+			"@guji/dongba@0.1.0:src/libs/tea/index.ts"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx": [
+			"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Play/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx": [
+			"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Mouse/index.tsx",
+			"@guji/dongba@0.1.0:src/components/Title/index.tsx",
+			"@guji/dongba@0.1.0:src/context/pageData.tsx",
+			"@guji/dongba@0.1.0:src/context/pageStatus.tsx"
+		]
+	},
+	"nativeCalls": {
+		"@guji/dongba@0.1.0:eden.pipeline.ts:12:23:<anonymous>": [
+			"JSON.parse"
+		],
+		"@guji/dongba@0.1.0:eden.pipeline.ts:1:1$210:_taggedTemplateLiteralLoose": [
+			"Array.prototype.slice"
+		],
+		"@guji/dongba@0.1.0:modern.config.private.ts": [
+			"JSON.stringify"
+		],
+		"@guji/dongba@0.1.0:modern.config.ts": [
+			"JSON.stringify"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:92:1:codeTemplate": [
+			"Array.prototype.map",
+			"Array.prototype.join"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:80:1:eventMateAdapter": [
+			"Array.prototype.map"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:17:1:getAllEventList": [
+			"Array.prototype.push"
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:87:1:dataAdapter": [
+			"Array.prototype.filter",
+			"Array.prototype.map"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:20:18:<anonymous>": [
+			"setTimeout"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:60:22:<anonymous>": [
+			"Math.floor"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:10:8:Loading": [
+			"Math.floor"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:99:22:<anonymous>": [
+			"Object.values"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:35:53:<anonymous>": [
+			"Object.values",
+			"Array.prototype.slice"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:126:40:<anonymous>": [
+			"Object.entries"
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:151:18:<anonymous>": [
+			"Promise.resolve",
+			"Promise.prototype.catch"
+		],
+		"@guji/dongba@0.1.0:src/components/GraphButton/index.tsx:16:38:<anonymous>": [
+			"Array.isArray"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:65:17:<anonymous>": [
+			"Math.abs"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:141:22:<anonymous>": [
+			"clearTimeout",
+			"setTimeout"
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:160:26:<anonymous>": [
+			"setTimeout"
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:30:34:<anonymous>": [
+			"Math.abs",
+			"Date.now"
+		],
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts:12:26:<anonymous>": [
+			"Array.prototype.find"
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:12:27:<anonymous>": [
+			"Date.now"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:27:39:<anonymous>": [
+			"clearTimeout",
+			"setTimeout"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:57:35:<anonymous>": [
+			"clearTimeout"
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:91:12:<anonymous>": [
+			"clearTimeout"
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:43:25:<anonymous>": [
+			"Array.prototype.push"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:42:25:<anonymous>": [
+			"Array.prototype.push"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:18:39:<anonymous>": [
+			"clearTimeout",
+			"setTimeout"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:53:12:<anonymous>": [
+			"clearTimeout"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:14:16:Chars": [
+			"Math.max",
+			"Math.floor"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:38:39:<anonymous>": [
+			"Math.max",
+			"Math.floor"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:35:13:<anonymous>": [
+			"Math.max",
+			"Math.floor"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:22:16:Char": [
+			"Math.floor"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:5:39:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:10:33:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:11:22:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:9:22:<anonymous>": [
+			"Array.prototype.map"
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:12:27:<anonymous>": [
+			"Promise.prototype.finally"
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:297:27:<anonymous>": [
+			"Promise.prototype.finally"
+		]
+	},
+	"apiUsage": {
+		"@guji/dongba@0.1.0:modern.config.private.ts": [
+			{"api": "<postcss-pxtorem>()", "importType": "require"},
+			{"api": "<@modern-js/app-tools>.appTools()", "importType": "import"},
+			{"api": "<@modern-js/app-tools>.defineConfig()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:modern.config.ts": [
+			{"api": "<postcss-pxtorem>()", "importType": "require"},
+			{"api": "<@modern-js/app-tools>.appTools()", "importType": "import"},
+			{"api": "<@modern-js/app-tools>.defineConfig()", "importType": "import"},
+			{"api": "<@modern-js/plugin-ssg>.ssgPlugin()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:10:16:AnimationFade": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:10:8:Loading": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:35:53:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:103:3:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useImperativeHandle()", "importType": "import"},
+			{"api": "<react>.useMemo()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue()", "importType": "import"},
+			{"api": "<eventemitter3>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:7:8:Voice": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:15:5:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:14:40:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:10:22:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:21:35:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:14:40:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:14:22:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:6:14:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<framer-motion>.useAnimation()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:26:38:<anonymous>": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:9:27:SubTab": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<framer-motion>.useAnimation()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:129:8:PageStateContainer": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<@modern-js/runtime/router>.useNavigate()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:5:8:usePushState": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useCallback()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:5:8:useScroll": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useCallback()", "importType": "import"},
+			{"api": "<lodash-es>.throttle()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:5:8:AfmpComp": [
+			{"api": "<react>.useEffect()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/hook.tsx:10:8:useAfmp": [
+			{"api": "<react>.useEffect()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:8:8:useStayTime": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useCallback()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:52:8:useLifeCycle": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useCallback()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:23:16:Introduction": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<react>.useCallback()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:20:16:Book": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:23:16:Introduction": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:24:16:Book": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:20:16:Read": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:14:16:Chars": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<react>.useCallback()", "importType": "import"},
+			{"api": "<react>.useContext….map()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:22:16:Char": [
+			{"api": "<react>.useEffect()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<react>.useMemo()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Title/index.tsx:11:16:Title": [
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useMemo()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Title/index.tsx:11:16:Title": [
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useMemo()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:22:16:Chanting": [
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<@/data/book.json>.default.map()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:18:16:Chanting": [
+			{"api": "<react>.useRef()", "importType": "import"},
+			{"api": "<react>.useState()", "importType": "import"},
+			{"api": "<@/data/book.json>.default.map()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:9:22:<anonymous>": [
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:11:22:<anonymous>": [
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:8:43:<anonymous>": [
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:14:28:<anonymous>": [
+			{"api": "<react>.useState()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx": [
+			{"api": "<react>.forwardRef()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:85:8:usePv": [
+			{"api": "<react>.useMemo()", "importType": "import"},
+			{"api": "<react>.useCallback()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageData.tsx": [
+			{"api": "<react>.createContext()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx": [
+			{"api": "<react>.createContext()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageData.tsx:30:8:usePageDataContext": [
+			{"api": "<react>.useContext()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:124:8:usePageStateContext": [
+			{"api": "<react>.useContext()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:48:13:<anonymous>": [
+			{"api": "<xgplayer/es>.default()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"},
+			{"api": "<react>.useRef….on()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:63:13:<anonymous>": [
+			{"api": "<xgplayer/es>.default()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"},
+			{"api": "<react>.useRef….on()", "importType": "import"},
+			{"api": "<react>.useRef….addEventListener()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:6:1:BarPlugin": [
+			{"api": "<xgplayer/es/plugins/progress>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:7:1:CurrentPlugin": [
+			{"api": "<xgplayer/es/plugin/plugin>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:7:1:DurationPlugin": [
+			{"api": "<xgplayer/es/plugin/plugin>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/play.ts:8:1:PausePlugin": [
+			{"api": "<xgplayer/es/plugin/plugin>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:199:21:<anonymous>": [
+			{"api": "<lodash-es>.last()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts": [
+			{"api": "<ua-parser-js>.default()", "importType": "import"},
+			{"api": "<ua-parser-js>.default….getBrowser()", "importType": "import"},
+			{"api": "<ua-parser-js>.default….toLowerCase()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:8:3:init": [
+			{"api": "<@slardar/node-api>.Slardar()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:27:3:init": [
+			{"api": "<@slardar/web>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:70:3:start": [
+			{"api": "<@slardar/web>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:77:3:sendEvent": [
+			{"api": "<@slardar/web>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.web.ts:85:3:reportAfmp": [
+			{"api": "<@slardar/web>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/layout.tsx:20:16:Layout": [
+			{"api": "<@modern-js/runtime>.useRuntimeContext()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:52:13:<anonymous>": [
+			{"api": "<@byted/alpha-player>.default()", "importType": "import"},
+			{"api": "<react>.useCallback()()", "importType": "import"},
+			{"api": "<react>.useContext….setBeforeChange()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:37:13:<anonymous>": [
+			{"api": "<@byted/alpha-player>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:38:13:<anonymous>": [
+			{"api": "<@byted/alpha-player>.default()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:scripts/codegen-byte-io.js:9:1:getTeaEventSchemaV2": [
+			{"api": "<axios>.default.post()", "importType": "require"}
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx": [
+			{"api": "<react>.default.memo()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:33:13:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:30:34:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/hooks/useScroll.tsx:75:36:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:23:13:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:26:5:handleVisibilityChange": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:31:12:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:38:35:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:76:12:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:100:38:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"},
+			{"api": "<byted-tea-sdk>.default.beconEvent()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:57:35:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:35:13:<anonymous>": [
+			{"api": "<react>.useCallback()()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Lotties/Voice/index.tsx:10:13:<anonymous>": [
+			{"api": "<lottie-web>.default.loadAnimation()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:11:17:<anonymous>": [
+			{"api": "<xgplayer/es/utils/util>.default.getEventPos()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.checkIsFunction()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.event()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.addClass()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:65:17:<anonymous>": [
+			{"api": "<xgplayer/es/utils/util>.default.getEventPos()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.event()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.checkTouchSupport()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:87:15:<anonymous>": [
+			{"api": "<xgplayer/es/utils/util>.default.checkIsFunction()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.event()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.removeClass()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.setTimeout()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/bar.ts:152:17:<anonymous>": [
+			{"api": "<xgplayer/es/utils/util>.default.format()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:80:3:onTimeUpdate": [
+			{"api": "<xgplayer/es/utils/util>.default.format()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.adjustTimeByDuration()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:95:3:onReset": [
+			{"api": "<xgplayer/es/utils/util>.default.format()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:142:3:updateTime": [
+			{"api": "<xgplayer/es/utils/util>.default.format()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:70:3:onTimeUpdate": [
+			{"api": "<xgplayer/es/utils/util>.default.format()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:87:3:onReset": [
+			{"api": "<xgplayer/es/utils/util>.default.format()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:103:3:createCenterTime": [
+			{"api": "<xgplayer/es/utils/util>.default.createDom()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:95:3:createCenterTime": [
+			{"api": "<xgplayer/es/utils/util>.default.createDom()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:122:3:afterPlayerInit": [
+			{"api": "<xgplayer/es/utils/util>.default.hide()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/current.ts:134:3:changeLiveState": [
+			{"api": "<xgplayer/es/utils/util>.default.hide()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.show()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:111:3:afterPlayerInit": [
+			{"api": "<xgplayer/es/utils/util>.default.hide()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/plugins/duration.ts:123:3:changeLiveState": [
+			{"api": "<xgplayer/es/utils/util>.default.hide()", "importType": "import"},
+			{"api": "<xgplayer/es/utils/util>.default.show()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:160:26:<anonymous>": [
+			{"api": "<@modern-js/runtime/router>.useNavigate()()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:151:3:beconEvent": [
+			{"api": "<byted-tea-sdk>.default.beconEvent()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:131:3:event": [
+			{"api": "<byted-tea-sdk>.default.event()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:93:38:<anonymous>": [
+			{"api": "<byted-tea-sdk>.default.event()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:58:3:config": [
+			{"api": "<byted-tea-sdk>.default.config()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:50:3:start": [
+			{"api": "<byted-tea-sdk>.default.start()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/tea.ts:32:3:init": [
+			{"api": "<byted-tea-sdk>.default.init()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/aboutus/page.tsx:8:16:AboutUs": [
+			{"api": "<@/data/aboutus.json>.default.map()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/aboutus/page.tsx:9:16:AboutUs": [
+			{"api": "<@/data/aboutus.json>.default.map()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:141:22:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"},
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/hooks/usePopState.tsx:35:28:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:70:13:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/tea/hooks.ts:60:32:<anonymous>": [
+			{"api": "<react>.useRef….current()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:20:18:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:42:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:99:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:60:25:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:17:24:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:13:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/VersionModal/index.tsx:18:23:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:32:24:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:15:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/VersionModal/index.tsx:20:23:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:62:13:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Progress/ChapterItem.tsx:144:67:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:22:35:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:152:28:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:164:28:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/context/pageStatus.tsx:226:20:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:27:39:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:30:35:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:35:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:144:40:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:131:40:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:105:56:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:113:47:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:39:35:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:175:24:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:187:24:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:222:47:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:34:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:76:49:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:154:18:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:104:30:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"},
+			{"api": "<react>.useRef….scrollTo()", "importType": "import"},
+			{"api": "<react>.useRef….slideTo()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/chanting/page.tsx:94:30:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:12:27:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/__components/Char/index.tsx:19:7:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:40:13:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chanting/index.tsx:19:22:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:18:39:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:21:35:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/index.tsx:38:39:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:317:13:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:48:13:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:343:30:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:297:27:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:299:66:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:447:32:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/__components/Chars/Char/index.tsx:473:32:<anonymous>": [
+			{"api": "<react>.useState….1()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:38:13:<anonymous>": [
+			{"api": "<react>.useContext….setBeforeChange()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:21:13:<anonymous>": [
+			{"api": "<react>.useContext….setBeforeChange()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:115:25:<anonymous>": [
+			{"api": "<react>.useContext….changePage()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:54:25:<anonymous>": [
+			{"api": "<react>.useContext….changePage()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/read/page.tsx:29:21:<anonymous>": [
+			{"api": "<react>.useContext….changePage()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:27:22:<anonymous>": [
+			{"api": "<react>.useContext….changePage()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Header/index.tsx:13:27:<anonymous>": [
+			{"api": "<react>.useContext….changePage()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Header/index.tsx:8:27:<anonymous>": [
+			{"api": "<react>.useContext….changePage()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Loading/index.tsx:18:16:<anonymous>": [
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:55:22:<anonymous>": [
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/index.tsx:18:13:<anonymous>": [
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/index.tsx:22:13:<anonymous>": [
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/index.tsx:22:13:<anonymous>": [
+			{"api": "<react>.useContext….setLock()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/index.tsx:254:28:<anonymous>": [
+			{"api": "<react>.useContext….setVoice()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:14:13:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/AnimationFade/index.tsx:19:13:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:166:21:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:176:18:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue….get()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:183:18:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue….get()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:219:29:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:188:21:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"},
+			{"api": "<framer-motion>.useMotionValue….get()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:200:31:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:102:24:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"},
+			{"api": "<react>.useRef….play()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:108:24:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"},
+			{"api": "<react>.useRef….off()", "importType": "import"},
+			{"api": "<react>.useRef….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:58:28:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:68:34:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:82:35:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:60:34:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:70:35:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….set()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:208:21:<anonymous>": [
+			{"api": "<framer-motion>.useMotionValue….get()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:9:13:<anonymous>": [
+			{"api": "<framer-motion>.useAnimation….start()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:32:13:<anonymous>": [
+			{"api": "<framer-motion>.useAnimation….start()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:21:12:<anonymous>": [
+			{"api": "<framer-motion>.useAnimation….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Play/index.tsx:28:47:<anonymous>": [
+			{"api": "<framer-motion>.useAnimation….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts:9:26:<anonymous>": [
+			{"api": "<ua-parser-js>.default….getOS()", "importType": "import"},
+			{"api": "<ua-parser-js>.default….toLowerCase()", "importType": "import"},
+			{"api": "<ua-parser-js>.default….indexOf()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/slardar/forks/index.node.ts:21:3:sendEvent": [
+			{"api": "<@slardar/node-api>.Slardar….sendEvent()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:139:19:<anonymous>": [
+			{"api": "<react>.useRef….pause()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:144:24:<anonymous>": [
+			{"api": "<react>.useRef….pause()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:99:18:<anonymous>": [
+			{"api": "<react>.useRef….pause()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:131:18:<anonymous>": [
+			{"api": "<react>.useRef….pause()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:151:18:<anonymous>": [
+			{"api": "<react>.useRef….play()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:162:23:<anonymous>": [
+			{"api": "<react>.useRef….play()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:32:13:<anonymous>": [
+			{"api": "<react>.useRef….play()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:47:13:<anonymous>": [
+			{"api": "<react>.useRef….play()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:97:23:<anonymous>": [
+			{"api": "<react>.useRef….play()", "importType": "import"},
+			{"api": "<react>.useRef….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:94:23:<anonymous>": [
+			{"api": "<react>.useRef….play()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:80:23:<anonymous>": [
+			{"api": "<react>.useRef….play()", "importType": "import"},
+			{"api": "<react>.useRef….once()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:256:15:<anonymous>": [
+			{"api": "<react>.useRef….setAttribute()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:129:24:<anonymous>": [
+			{"api": "<react>.useRef….emit()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/common/Players/Player.tsx:263:14:<anonymous>": [
+			{"api": "<react>.useRef….removeAllListeners()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:41:41:<anonymous>": [
+			{"api": "<react>.useRef….seek()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:78:39:<anonymous>": [
+			{"api": "<react>.useRef….seek()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:56:41:<anonymous>": [
+			{"api": "<react>.useRef….seek()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:99:39:<anonymous>": [
+			{"api": "<react>.useRef….seek()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Modal/ChantingModal/ModalContent.tsx:82:12:<anonymous>": [
+			{"api": "<react>.useRef….off()", "importType": "import"},
+			{"api": "<react>.useRef….destroy()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:103:12:<anonymous>": [
+			{"api": "<react>.useRef….off()", "importType": "import"},
+			{"api": "<react>.useRef….destroy()", "importType": "import"},
+			{"api": "<react>.useRef….removeEventListener()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/mobile/Progress/index.tsx:31:13:<anonymous>": [
+			{"api": "<react>.useRef….scrollTo()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:100:44:<anonymous>": [
+			{"api": "<react>.useRef….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/book/page.tsx:119:45:<anonymous>": [
+			{"api": "<react>.useRef….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:86:44:<anonymous>": [
+			{"api": "<react>.useRef….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/book/page.tsx:105:45:<anonymous>": [
+			{"api": "<react>.useRef….stop()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/read/page.tsx:14:16:Read": [
+			{"api": "<react>.useContext….filter()", "importType": "import"},
+			{"api": "<react>.useContext….map()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/page.tsx:91:12:<anonymous>": [
+			{"api": "<react>.useContext…()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/mobile/page.tsx:49:12:<anonymous>": [
+			{"api": "<react>.useContext…()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/SubTab/index.tsx:27:12:<anonymous>": [
+			{"api": "<react>.useContext…()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:159:28:<anonymous>": [
+			{"api": "<react>.useRef….slidePrev()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/routes/chanting/page.tsx:167:28:<anonymous>": [
+			{"api": "<react>.useRef….slideNext()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/csr/index.ts:1:25:<anonymous>": [
+			{"api": "<@modern-js/runtime>.useRuntimeContext….indexOf()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/components/Modal/ChantingModal/ModalContent.tsx:22:24:<anonymous>": [
+			{"api": "<react>.useRef….hide()", "importType": "import"},
+			{"api": "<react>.useRef….show()", "importType": "import"}
+		],
+		"@guji/dongba@0.1.0:src/libs/csr/ua.ts:13:42:<anonymous>": [
+			{"api": "<ua-parser-js>.default….indexOf()", "importType": "import"}
+		]
+	},
+	"reexports": {
+		"./replaceSiteURL": [
+			"replaceSiteURL"
+		],
+		"./Voice": [
+			"Voice"
+		],
+		"./runtime": [
+			"*"
+		],
+		"./tea": [
+			"*"
+		],
+		"./hooks": [
+			"*"
+		],
+		"./utils": [
+			"*"
+		]
+	}
+ }

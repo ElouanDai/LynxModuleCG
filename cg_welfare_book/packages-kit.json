@@ -1,0 +1,24 @@
+{
+	"time": "Tue, 02 Dec 2025 13:40:47 GMT",
+	"functions": [
+		"@guji/kit@1.0.0:src/webpack/loader/classnames-loader.ts:5:16:<anonymous>",
+		"@guji/kit@1.0.0:src/webpack/loader/classnames-loader.ts:9:22:<anonymous>",
+		"@guji/kit@1.0.0:src/webpack/loader/fork-loader.ts:9:16:forkloader",
+		"@guji/kit@1.0.0:src/webpack/loader/fork-loader.ts:13:8:pitch",
+		"@guji/kit@1.0.0:src/index.ts",
+		"@guji/kit@1.0.0:src/webpack/loader/classnames-loader.ts",
+		"@guji/kit@1.0.0:src/webpack/loader/fork-loader.ts"
+	],
+	"fun2fun": {
+		"@guji/kit@1.0.0:src/index.ts": [
+			"@guji/kit@1.0.0:src/webpack/loader/classnames-loader.ts",
+			"@guji/kit@1.0.0:src/webpack/loader/fork-loader.ts"
+		]
+	},
+	"nativeCalls": {
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+	}
+ }

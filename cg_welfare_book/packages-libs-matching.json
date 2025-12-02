@@ -1,0 +1,161 @@
+{
+	"time": "Tue, 02 Dec 2025 13:40:48 GMT",
+	"functions": [
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:6:1:ToCDB",
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:23:1:buildAcAutomaton",
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:73:8:ACSearch",
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:113:8:ACAutomaton",
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:124:3:reset",
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:130:3:search",
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:158:3:clear",
+		"@guji/matching@0.0.2:src/DFA.ts:1:8:DFA",
+		"@guji/matching@0.0.2:src/DFA.ts:22:11:<anonymous>",
+		"@guji/matching@0.0.2:src/DFA.ts:27:10:<anonymous>",
+		"@guji/matching@0.0.2:src/DFA.ts:32:13:<anonymous>",
+		"@guji/matching@0.0.2:src/EditDistance.ts:14:1$200:<anonymous>",
+		"@guji/matching@0.0.2:src/EditDistance.ts:29:8:EditDistance",
+		"@guji/matching@0.0.2:src/EditDistance.ts:31:39:<anonymous>",
+		"@guji/matching@0.0.2:src/EditDistance.ts:40:11:<anonymous>",
+		"@guji/matching@0.0.2:src/EditDistance.ts:145:10:<anonymous>",
+		"@guji/matching@0.0.2:src/KMP.ts:3:1:buildKMPNext",
+		"@guji/matching@0.0.2:src/KMP.ts:4:61:<anonymous>",
+		"@guji/matching@0.0.2:src/KMP.ts:18:8:KMPSearch",
+		"@guji/matching@0.0.2:src/KMP.ts:41:8:KMP",
+		"@guji/matching@0.0.2:src/KMP.ts:52:3:reset",
+		"@guji/matching@0.0.2:src/KMP.ts:58:3:search",
+		"@guji/matching@0.0.2:src/TrieTree.ts:3:8:TrieNode",
+		"@guji/matching@0.0.2:src/TrieTree.ts:10:3:isEmpty",
+		"@guji/matching@0.0.2:src/TrieTree.ts:15:3:clear",
+		"@guji/matching@0.0.2:src/TrieTree.ts:27:8:buildTrieTree",
+		"@guji/matching@0.0.2:test/index.test.ts:3:1:log",
+		"@guji/matching@0.0.2:test/index.test.ts:7:8:TEST_CASE",
+		"@guji/matching@0.0.2:src/ACAutomaton.ts",
+		"@guji/matching@0.0.2:src/DFA.ts",
+		"@guji/matching@0.0.2:src/EditDistance.ts",
+		"@guji/matching@0.0.2:src/index.ts",
+		"@guji/matching@0.0.2:src/KMP.ts",
+		"@guji/matching@0.0.2:src/TrieTree.ts",
+		"@guji/matching@0.0.2:test/index.test.ts"
+	],
+	"fun2fun": {
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:73:8:ACSearch": [
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:23:1:buildAcAutomaton",
+			"@guji/matching@0.0.2:src/TrieTree.ts:27:8:buildTrieTree",
+			"@guji/matching@0.0.2:src/TrieTree.ts:3:8:TrieNode",
+			"@guji/matching@0.0.2:src/TrieTree.ts:15:3:clear"
+		],
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:113:8:ACAutomaton": [
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:23:1:buildAcAutomaton",
+			"@guji/matching@0.0.2:src/TrieTree.ts:27:8:buildTrieTree",
+			"@guji/matching@0.0.2:src/TrieTree.ts:3:8:TrieNode",
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:6:1:ToCDB"
+		],
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:130:3:search": [
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:6:1:ToCDB"
+		],
+		"@guji/matching@0.0.2:src/EditDistance.ts": [
+			"@guji/matching@0.0.2:src/EditDistance.ts:14:1$200:<anonymous>"
+		],
+		"@guji/matching@0.0.2:src/KMP.ts:18:8:KMPSearch": [
+			"@guji/matching@0.0.2:src/KMP.ts:3:1:buildKMPNext"
+		],
+		"@guji/matching@0.0.2:src/KMP.ts:41:8:KMP": [
+			"@guji/matching@0.0.2:src/KMP.ts:3:1:buildKMPNext"
+		],
+		"@guji/matching@0.0.2:src/KMP.ts:3:1:buildKMPNext": [
+			"@guji/matching@0.0.2:src/KMP.ts:4:61:<anonymous>"
+		],
+		"@guji/matching@0.0.2:src/TrieTree.ts:27:8:buildTrieTree": [
+			"@guji/matching@0.0.2:src/TrieTree.ts:3:8:TrieNode",
+			"@guji/matching@0.0.2:src/TrieTree.ts:10:3:isEmpty",
+			"@guji/matching@0.0.2:src/TrieTree.ts:15:3:clear"
+		],
+		"@guji/matching@0.0.2:test/index.test.ts:7:8:TEST_CASE": [
+			"@guji/matching@0.0.2:test/index.test.ts:3:1:log",
+			"@guji/matching@0.0.2:src/KMP.ts:41:8:KMP",
+			"@guji/matching@0.0.2:src/KMP.ts:18:8:KMPSearch",
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:113:8:ACAutomaton",
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:73:8:ACSearch",
+			"@guji/matching@0.0.2:src/KMP.ts:52:3:reset",
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:124:3:reset",
+			"@guji/matching@0.0.2:src/KMP.ts:58:3:search",
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:158:3:clear",
+			"@guji/matching@0.0.2:src/ACAutomaton.ts:130:3:search"
+		],
+		"@guji/matching@0.0.2:test/index.test.ts": [
+			"@guji/matching@0.0.2:test/index.test.ts:7:8:TEST_CASE",
+			"@guji/matching@0.0.2:src/index.ts"
+		],
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:158:3:clear": [
+			"@guji/matching@0.0.2:src/TrieTree.ts:15:3:clear"
+		],
+		"@guji/matching@0.0.2:src/ACAutomaton.ts": [
+			"@guji/matching@0.0.2:src/TrieTree.ts"
+		],
+		"@guji/matching@0.0.2:src/index.ts": [
+			"@guji/matching@0.0.2:src/ACAutomaton.ts",
+			"@guji/matching@0.0.2:src/DFA.ts",
+			"@guji/matching@0.0.2:src/EditDistance.ts",
+			"@guji/matching@0.0.2:src/KMP.ts",
+			"@guji/matching@0.0.2:src/TrieTree.ts"
+		]
+	},
+	"nativeCalls": {
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:130:3:search": [
+			"Array.prototype.push"
+		],
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:73:8:ACSearch": [
+			"Array.prototype.push"
+		],
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:23:1:buildAcAutomaton": [
+			"Array.prototype.push",
+			"Array.prototype.shift"
+		],
+		"@guji/matching@0.0.2:src/EditDistance.ts:40:11:<anonymous>": [
+			"Math.max",
+			"Array.prototype.fill"
+		],
+		"@guji/matching@0.0.2:src/EditDistance.ts:145:10:<anonymous>": [
+			"Math.min",
+			"Array.prototype.reverse",
+			"Array.prototype.push",
+			"Array.prototype.fill"
+		],
+		"@guji/matching@0.0.2:src/KMP.ts:3:1:buildKMPNext": [
+			"Array.from",
+			"Array.prototype.map",
+			"Array.prototype.keys"
+		],
+		"@guji/matching@0.0.2:src/KMP.ts:18:8:KMPSearch": [
+			"Array.prototype.push"
+		],
+		"@guji/matching@0.0.2:test/index.test.ts:3:1:log": [
+			"JSON.stringify"
+		],
+		"@guji/matching@0.0.2:test/index.test.ts:7:8:TEST_CASE": [
+			"Array.prototype.push"
+		],
+		"@guji/matching@0.0.2:src/ACAutomaton.ts:113:8:ACAutomaton": [
+			"Array.prototype.map"
+		]
+	},
+	"apiUsage": {
+	},
+	"reexports": {
+		"./ACAutomaton": [
+			"*"
+		],
+		"./DFA": [
+			"*"
+		],
+		"./EditDistance": [
+			"*"
+		],
+		"./KMP": [
+			"*"
+		],
+		"./TrieTree": [
+			"*"
+		]
+	}
+ }
